@@ -1,0 +1,40 @@
+name: News Aggregator
+
+on:
+  schedule:
+    # 3時間ごとに実行（JST: 6:00, 9:00, 12:00, 15:00, 18:00, 21:00, 0:00, 3:00）
+    - cron: "0 21,0,3,6,9,12,15,18 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+permissions:
+  contents: write  # data/ と docs/ を commit するため
+
+jobs:
+  fetch-and-post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news aggregator
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python src/main.py
+
+      - name: Commit updated data and portal
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --cached --quiet || git commit -m "chore: update news archive [$(date +'%Y-%m-%d %H:%M')]"
+          git push

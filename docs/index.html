@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My News Portal</title>
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+        }
+        header {
+            background: #1e293b;
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid #334155;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        .site-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #f8fafc;
+        }
+        .updated { font-size: 0.8rem; color: #94a3b8; }
+        nav { display: flex; gap: 0.75rem; flex-wrap: wrap; padding: 0.5rem 2rem; background: #1e293b; border-bottom: 1px solid #334155; }
+        .nav-link {
+            text-decoration: none;
+            color: #94a3b8;
+            font-size: 0.85rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            border: 1px solid #334155;
+            transition: all 0.2s;
+        }
+        .nav-link:hover { color: #f8fafc; border-color: #64748b; background: #334155; }
+        main { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+        .category-section { margin-bottom: 3rem; }
+        .category-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #334155;
+            color: #f1f5f9;
+        }
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1rem;
+        }
+        .card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 0.75rem;
+            padding: 1.25rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            transition: border-color 0.2s;
+        }
+        .card:hover { border-color: #64748b; }
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.75rem;
+            color: #64748b;
+        }
+        .source { font-weight: 600; color: #94a3b8; }
+        .card-title {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: #f1f5f9;
+            line-height: 1.4;
+        }
+        .card-summary { font-size: 0.85rem; color: #94a3b8; flex: 1; }
+        .card-link {
+            font-size: 0.8rem;
+            color: #60a5fa;
+            text-decoration: none;
+            margin-top: auto;
+        }
+        .card-link:hover { text-decoration: underline; }
+        .no-articles { color: #475569; font-size: 0.9rem; }
+        @media (max-width: 640px) {
+            main { padding: 1rem; }
+            .cards-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <span class="site-title">📰 My News Portal</span>
+        <span class="updated">最終更新: 2026-06-03 21:50 JST</span>
+    </header>
+    <nav><a href="#money" class="nav-link">💰 お金</a>
+<a href="#security" class="nav-link">🔒 セキュリティ</a>
+<a href="#ai" class="nav-link">🤖 AI</a>
+<a href="#robotics" class="nav-link">🦾 ロボット</a>
+<a href="#radio" class="nav-link">📡 無線</a></nav>
+    <main>
+        <section id="money" class="category-section">
+            <h2 class="category-title">
+                💰 お金
+            </h2>
+            <div class="cards-grid">
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">NHK経済</span>
+                    <span class="date">2026-06-03 20:57</span>
+                </div>
+                <h3 class="card-title">食料品の消費税減税 来年4月から1％に引き下げる案も 政府与党</h3>
+                <p class="card-summary">食料品の消費税減税をめぐり、政府は、税率を1％に引き下げた場合、レジシステムの改修は、最大で半年程度になるという見通しを示しました。政府・与党内では、早期に減税を実現するため、改修期間を考慮して、来年4月から1％に引き下げる案も検討されています。</p>
+                <a href="http://www3.nhk.or.jp/news/html/20260603/k10015139591000.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">NHK経済</span>
+                    <span class="date">2026-06-03 19:31</span>
+                </div>
+                <h3 class="card-title">日銀植田総裁 “利上げ是非の議論が必要” 中東情勢不安定でも</h3>
+                <p class="card-summary">日銀の植田総裁は、3日、都内で行った講演で、「物価の上振れリスクが高まると判断される場合には、利上げの是非についてしっかりと議論する必要がある」と述べ、中東情勢が不安定なままであった場合でも、今月中旬に開く金融政策決定会合で利上げに踏み切る可能性があるという考えを示しました。</p>
+                <a href="http://www3.nhk.or.jp/news/html/20260603/k10015139951000.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">NHK経済</span>
+                    <span class="date">2026-06-03 18:20</span>
+                </div>
+                <h3 class="card-title">政府のガソリン補助金 4月は3100億円支出 基金残高6700億円に</h3>
+                <p class="card-summary">ガソリンなどの価格を抑えるための政府の補助金について、ことし4月は3100億円が支出されました。経済産業省によりますと、補助に充てる基金の残高は先月末の時点でおよそ6700億円だとしています。</p>
+                <a href="http://www3.nhk.or.jp/news/html/20260603/k10015139941000.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">NHK経済</span>
+                    <span class="date">2026-06-03 16:59</span>
+                </div>
+                <h3 class="card-title">日本生命 米投資会社と資産運用で提携 運用多角化の動き進む</h3>
+                <p class="card-summary">生命保険最大手の日本生命は、世界有数の投資会社、アメリカのブラックストーンと資産運用で提携すると発表しました。「プライベートクレジット」と呼ばれる融資を中心に運用する方針で、金利のある世界が本格化する中、生命保険会社で運用を多角化する動きの一環と言えそうです。</p>
+                <a href="http://www3.nhk.or.jp/news/html/20260603/k10015139861000.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">NHK経済</span>
+                    <span class="date">2026-06-03 15:16</span>
+                </div>
+                <h3 class="card-title">ガソリン全国平均169.5円 政府補助金で170円水準続く</h3>
+                <p class="card-summary">国の委託を受けてガソリン価格を調査している石油情報センターによりますと、レギュラーガソリンの小売価格は1日時点の全国平均で1リットルあたり169.5円と、前の週より0.3円値上がりしました。政府の激変緩和措置による補助金で、170円程度の水準が続いています。また、4日からの出荷分を対象とした補助金の額は前の週より3.9円減って1リットルあたり33.3円になるとしています。</p>
+                <a href="http://www3.nhk.or.jp/news/html/20260603/k10015139751000.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article></div>
+        </section>
+        <section id="security" class="category-section">
+            <h2 class="category-title">
+                🔒 セキュリティ
+            </h2>
+            <div class="cards-grid">
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Hacker News</span>
+                    <span class="date">2026-06-03 20:28</span>
+                </div>
+                <h3 class="card-title">Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore</h3>
+                <p class="card-summary">Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and "patch everything in time" stopped working years ago. Stop betting the org on winning that race. You 。</p>
+                <a href="https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Hacker News</span>
+                    <span class="date">2026-06-03 19:18</span>
+                </div>
+                <h3 class="card-title">Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes</h3>
+                <p class="card-summary">Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the 。</p>
+                <a href="https://thehackernews.com/2026/06/unpatched-windows-search-uri.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">Bleeping Computer</span>
+                    <span class="date">2026-06-03 15:50</span>
+                </div>
+                <h3 class="card-title">VS Code zero-day lets hackers steal GitHub tokens in one click</h3>
+                <p class="card-summary">A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a 。</p>
+                <a href="https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Hacker News</span>
+                    <span class="date">2026-06-03 03:21</span>
+                </div>
+                <h3 class="card-title">Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine</h3>
+                <p class="card-summary">The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per S。</p>
+                <a href="https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Hacker News</span>
+                    <span class="date">2026-05-26 14:19</span>
+                </div>
+                <h3 class="card-title">KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike</h3>
+                <p class="card-summary">A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web she。</p>
+                <a href="https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article></div>
+        </section>
+        <section id="ai" class="category-section">
+            <h2 class="category-title">
+                🤖 AI
+            </h2>
+            <div class="cards-grid">
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">MIT Technology Review</span>
+                    <span class="date">2026-06-02 18:00</span>
+                </div>
+                <h3 class="card-title">How small businesses can leverage AI</h3>
+                <p class="card-summary">This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t。</p>
+                <a href="https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">Hugging Face Blog</span>
+                    <span class="date">2026-06-01 22:51</span>
+                </div>
+                <h3 class="card-title">Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic</h3>
+                <p class="card-summary">Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic</p>
+                <a href="https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">MIT Technology Review</span>
+                    <span class="date">2026-05-29 19:00</span>
+                </div>
+                <h3 class="card-title">How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment</h3>
+                <p class="card-summary">Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“。</p>
+                <a href="https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">VentureBeat AI</span>
+                    <span class="date">2026-01-19 23:00</span>
+                </div>
+                <h3 class="card-title">Claude Code costs up to $200 a month. Goose does the same thing for free.</h3>
+                <p class="card-summary">The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap。</p>
+                <a href="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">VentureBeat AI</span>
+                    <span class="date">2026-01-08 05:00</span>
+                </div>
+                <h3 class="card-title">Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment</h3>
+                <p class="card-summary">Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several la。</p>
+                <a href="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article></div>
+        </section>
+        <section id="robotics" class="category-section">
+            <h2 class="category-title">
+                🦾 ロボット
+            </h2>
+            <div class="cards-grid">
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Robot Report</span>
+                    <span class="date">2026-06-03 21:15</span>
+                </div>
+                <h3 class="card-title">Boston University team wins MassRobotics Form & Function Challenge at Robotics Summit</h3>
+                <p class="card-summary">2026 Form Function Challenge teams at the Robotics Summit Expo. Source: MassRobotics BOSTON &#8212; At the Robotics Summit Expo last week, MassRobotics announced the winners of its fourth Form Functio。</p>
+                <a href="https://www.therobotreport.com/boston-university-team-wins-massrobotics-form-function-challenge-2026-robotics-summit/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Robot Report</span>
+                    <span class="date">2026-06-02 04:55</span>
+                </div>
+                <h3 class="card-title">ANSCER Robotics closes Series A round for industrial material handling</h3>
+                <p class="card-summary">ANSCER Robotics provides autonomous mobile robots and software for industrial material handling. | Credit: ANSCER Robotics Aiming to capture a larger share of the American logistics market, deep-tech 。</p>
+                <a href="https://www.therobotreport.com/anscer-robotics-closes-series-a-round-industrial-material-handling/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Robot Report</span>
+                    <span class="date">2026-06-02 03:04</span>
+                </div>
+                <h3 class="card-title">Top 10 robotics stories of May 2026</h3>
+                <p class="card-summary">May 2026 was a busy month full of robotics news, topped off by last week&#8217;s Robotics Summit Expo in Boston. The event brought together thousands of robotics experts to discuss the latest technolo。</p>
+                <a href="https://www.therobotreport.com/top-10-robotics-stories-of-may-2026/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">IEEE Spectrum</span>
+                    <span class="date">2026-05-31 22:00</span>
+                </div>
+                <h3 class="card-title">This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors</h3>
+                <p class="card-summary">In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like car。</p>
+                <a href="https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">The Robot Report</span>
+                    <span class="date">2026-05-31 21:30</span>
+                </div>
+                <h3 class="card-title">Why robotic arms are now being integrated with CNC machines</h3>
+                <p class="card-summary">Modern CNC machine tending involves multiple operations. Source: FANUC America Robotic arms and CNC machines have always operated in the same facilities, but they&#8217;re now working in direct coordi。</p>
+                <a href="https://www.therobotreport.com/why-robotic-arms-are-now-being-integrated-cnc-machines/" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article></div>
+        </section>
+        <section id="radio" class="category-section">
+            <h2 class="category-title">
+                📡 無線
+            </h2>
+            <div class="cards-grid">
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">ARRL</span>
+                    <span class="date">2026-05-30 03:57</span>
+                </div>
+                <h3 class="card-title">Registration is Open for the 2026 ARRL National Convention in Huntsville</h3>
+                <p class="card-summary">ARRL The National Association for Amateur Radio® and the Huntsville Hamfest will host the 2026 ARRL National Convention and Huntsville Hamfest, August 21 - 23, in Huntsville, Alabama.The convention wi。</p>
+                <a href="http://www.arrl.org/news/view/registration-is-open-for-the-2026-arrl-national-convention-in-huntsville" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">ARRL</span>
+                    <span class="date">2026-05-29 05:38</span>
+                </div>
+                <h3 class="card-title">RAC Vice-President Brent Taylor, VY2HF, Silent Key</h3>
+                <p class="card-summary">by Allan Boyd, VE3AJB/VE3EM, President, Radio Amateurs of CanadaRadio Amateurs of Canada has received the sad news that RAC Vice-President Brent Taylor, VY2HF, became a Silent Key on May 21, 2026, at 。</p>
+                <a href="http://www.arrl.org/news/view/rac-vice-president-brent-taylor-vy2hf-silent-key" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">ARRL</span>
+                    <span class="date">2026-05-25 12:25</span>
+                </div>
+                <h3 class="card-title">Senator Ted Cruz Praises Amateur Radio Volunteers for Emergency Preparedness</h3>
+                <p class="card-summary">Senator Ted Cruz, in a strong pre-Memorial Day message, publicly highlighted the critical role that Amateur Radio Service volunteers play during disasters, praising and thanking ham radio operators wh。</p>
+                <a href="http://www.arrl.org/news/view/senator-ted-cruz-praises-amateur-radio-volunteers-for-emergency-preparedness" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">ARRL</span>
+                    <span class="date">2026-05-22 22:53</span>
+                </div>
+                <h3 class="card-title">Report from the World’s Largest Hamfest</h3>
+                <p class="card-summary">Radio amateurs from around the world descended on Xenia, Ohio, last weekend for Hamvention® 2026. The three-day event featured five indoor exhibit halls for vendors and organizations, four parallel tr。</p>
+                <a href="http://www.arrl.org/news/view/report-from-the-world-s-largest-hamfest" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article>
+            <article class="card">
+                <div class="card-meta">
+                    <span class="source">ARRL</span>
+                    <span class="date">2026-05-15 23:47</span>
+                </div>
+                <h3 class="card-title">Hamvention 2026 Thursday -- Setup Day and Much More</h3>
+                <p class="card-summary">Hamvention® 2026 in Xenia, Ohio, officially begins on Friday morning, May 15. But several hundred hams arrived early to take part in pre-Hamvention activities. ARRL The National Association for Amateu。</p>
+                <a href="http://www.arrl.org/news/view/hamvention-2026-thursday-setup-day-and-much-more" target="_blank" rel="noopener" class="card-link">
+                    元記事を開く →
+                </a>
+            </article></div>
+        </section></main>
+</body>
+</html>
