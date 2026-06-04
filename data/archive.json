@@ -225,6 +225,36 @@
     "category_priority": 1
   },
   {
+    "id": "df3584b263612ac5c1a6e1c1996710f5",
+    "title": "ヒトiPS細胞活用の“脳が若返る鼻スプレー”、投与された中年マウスの記憶力や認知機能が改善 学術誌で掲載",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/02/news121.html",
+    "summary": "米テキサスA&amp;M大学に所属する研究者らがJournal of Extracellular Vesicles誌で発表した論文「Intranasal Human NSC-Derived EVs Therapy Can Restrain Inflammatory Microglial Transcriptome, and NLRP3 and cGAS-STING Signalling, in Aged Hippocampus」は、加齢に伴う脳の炎症を抑え、記憶力や認知機能を回復させる新しい点鼻薬を開発した研究報告だ。",
+    "published": "2026-06-04T15:00:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米テキサスA M大学に所属する研究者らがJournal of Extracellular Vesicles誌で発表した論文「Intranasal Human NSC-Derived EVs Therapy Can Restrain Inflammatory Microglial Transcriptome, and NLRP3 and cGAS-STING Signalling, in Aged 。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "124a28c068e021d25000faca9e7c5a24",
+    "title": "Google検索の「AIによる概要」から自サイトを消す機能がGoogle Search Consoleに登場",
+    "link": "https://gigazine.net/news/20260604-google-allow-websites-exclude-ai-search-results/",
+    "summary": "現地時間の2026年6月3日、イギリスの競争・市場庁(CMA)がGoogle検索に対して新しい行動規範を課しました。これにより、Google検索における「AIによる概要」などのAI機能に、自社コンテンツが利用されることを防ぐツールが利用可能となります。続きを読む...",
+    "published": "2026-06-04T14:54:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "現地時間の2026年6月3日、イギリスの競争・市場庁(CMA)がGoogle検索に対して新しい行動規範を課しました。これにより、Google検索における「AIによる概要」などのAI機能に、自社コンテンツが利用されることを防ぐツールが利用可能となります。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "d91b6846d1b3201bb98dce178eccece9",
     "title": "Securly Chrome Extensionにおける複数の脆弱性",
     "link": "https://jvn.jp/vu/JVNVU97035938/",
@@ -237,6 +267,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "957fb7c4fd00dd14fa996c7fc0f7982c",
+    "title": "AIが抗肥満薬の未知の副作用を発見できる可能性、SNS上の患者報告を分析",
+    "link": "https://gigazine.net/news/20260604-hidden-side-effects/",
+    "summary": "食欲を抑制したり血糖値を下げたりすることで肥満の解消につながると言われている「GLP-1受容体作動薬」は、重篤な副作用はあまり多くないとされていますが、実際に体感する副作用についての十分な臨床試験が不足している面もあります。ペンシルベニア大学のコンピュータ情報科学研究者らが発表した論文では、AIを用いてインターネット上の書き込みを広く分析することで、臨床研究では知られていなかった副作用を発見できる可能性を示しました。続きを読む...",
+    "published": "2026-06-04T14:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "食欲を抑制したり血糖値を下げたりすることで肥満の解消につながると言われている「GLP-1受容体作動薬」は、重篤な副作用はあまり多くないとされていますが、実際に体感する副作用についての十分な臨床試験が不足している面もあります。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -285,6 +330,21 @@
     "category_priority": 3
   },
   {
+    "id": "ff4cd6f2cc9ec908b545f48e63186851",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」の公式デスクトップアプリ「Hermes Desktop」が登場",
+    "link": "https://gigazine.net/news/20260604-hermes-desktop-agent-ai/",
+    "summary": "AIエージェントシステム「Hermes Agent」をGUIで管理できる公式デスクトップアプリ「Hermes Desktop」が2026年6月3日に登場しました。Hermes DesktopはWindows・macOS・Linux向けにパブリックプレビュー版として公開されています。続きを読む...",
+    "published": "2026-06-04T13:14:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIエージェントシステム「Hermes Agent」をGUIで管理できる公式デスクトップアプリ「Hermes Desktop」が2026年6月3日に登場しました。Hermes DesktopはWindows・macOS・Linux向けにパブリックプレビュー版として公開されています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "3c510b0997403e13b6e639470a0c81ad",
     "title": "高性能AIを巡る米大統領令 狙い",
     "link": "https://news.yahoo.co.jp/pickup/6582906?source=rss",
@@ -309,6 +369,21 @@
     "lang": "ja",
     "_score": 3,
     "ai_summary": "MSIがCOMPUTEX 2026でNVIDIA RTX Spark搭載のAIミニPC「EdgeMesa N AI+」を発表した。LLMや生成AI、リアルタイム推論に対応する高性能モデルで、10GbE LANや最大4画面出力にも対応する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "b794177179900a69ae5e02ec81ba366e",
+    "title": "Googleがデータセンターによる水不足問題を解消するための取り組みについて公開",
+    "link": "https://gigazine.net/news/20260604-google-water-stewardship/",
+    "summary": "AIの急速な普及に伴ってデータセンターの消費電力や水使用量が急増しており、AIシステムの年間水消費量は世界中で1年間に消費されているボトル入り飲料水と同等の量という分析結果もあるほど、コンピューターを冷却するための水の消費量はAI開発に伴う懸念の1つとなっています。そんな中でGoogleは、データセンターで使用する水よりも多くの水を地域社会に供給するなど、水の使用に関する複数の取り組みについて明らかにしました。続きを読む...",
+    "published": "2026-06-04T12:35:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIの急速な普及に伴ってデータセンターの消費電力や水使用量が急増しており、AIシステムの年間水消費量は世界中で1年間に消費されているボトル入り飲料水と同等の量という分析結果もあるほど、コンピューターを冷却するための水の消費量はAI開発に伴う懸念の1つとなっています。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
@@ -1693,5 +1768,20 @@
     "category_name": "無線",
     "category_emoji": "📡",
     "category_priority": 3
+  },
+  {
+    "id": "6db1d6f17789d4bff8f113b46d38efef",
+    "title": "複数の三菱電機製 FA 製品における複数の脆弱性",
+    "link": "https://jvn.jp/vu/JVNVU90224831/",
+    "summary": "複数の三菱電機製 FA 製品には、複数の脆弱性が存在します。",
+    "published": "2020-07-30T14:15:15+09:00",
+    "source": "JVN（脆弱性情報）",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "複数の三菱電機製 FA 製品には、複数の脆弱性が存在します。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
   }
 ]
