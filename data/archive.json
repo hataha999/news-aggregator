@@ -735,6 +735,21 @@
     "category_priority": 2
   },
   {
+    "id": "c9f2c89a896b83f841a9335fad3d7f1e",
+    "title": "Google、クリエイターとパブリッシャー向け「検索プロフィール」導入 AI検索での流入減批判受け",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/05/news072.html",
+    "summary": "Googleは、クリエイターやパブリッシャーが検索結果での存在感を高めるための新機能「Search profiles」を発表した。各SNSやWebサイトへのリンク、最新投稿を1つに集約できる。AI検索の導入による流入減少を懸念するパブリッシャーらの批判が強まる中、公式情報を共有しやすくする場を提供する。",
+    "published": "2026-06-05T09:18:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Googleは、クリエイターやパブリッシャーが検索結果での存在感を高めるための新機能「Search profiles」を発表した。各SNSやWebサイトへのリンク、最新投稿を1つに集約できる。AI検索の導入による流入減少を懸念するパブリッシャーらの批判が強まる中、公式情報を共有しやすくする場を提供する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "78cdb86b57bbe3bb3529db8f3b43eadc",
     "title": "「AIにより雇用が崩壊することはない」と経済学者が語る",
     "link": "https://gigazine.net/news/20260605-economist-against-ai-jobs-pocalypse/",
@@ -774,6 +789,21 @@
     "lang": "ja",
     "_score": 3,
     "ai_summary": "ChatGPTやGeminiといったAIはまるで人間のようなやり取りが可能であり、日々の相談相手や話し相手としてAIを活用する人もいます。新たに、フランスの金融・保険グループのアクサと市場調査企業のIPSOSが発表したレポートで、なんと63％もの人々が心理的なサポートを求めてAIを利用していることが報告されました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "e8099213e37162fc39156f90b446a2c4",
+    "title": "「紙のマンガ vs. 電子マンガ」、読後の脳活動に差 東大などがfMRIで実証 学術誌に研究発表",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/05/news035.html",
+    "summary": "東京大学大学院総合文化研究科の酒井邦嘉教授らの研究チームがPLOS Oneで発表した論文（コアミックスとの共同研究の成果）「Manga reading on paper vs. digital devices: Prospective effects on core and supportive integration processes in the brain」は、紙のマンガを読むことが電子書籍に比べて脳活動の“省エネ化”を促すことを実証した研究報告だ。",
+    "published": "2026-06-05T08:00:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "東京大学大学院総合文化研究科の酒井邦嘉教授らの研究チームがPLOS Oneで発表した論文（コアミックスとの共同研究の成果）「Manga reading on paper vs. digital devices: Prospective effects on core and supportive integration processes in the brain」は、紙のマンガを読むことが電子書。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
@@ -1380,6 +1410,21 @@
     "category_priority": 1
   },
   {
+    "id": "c13e411d3652d5963fb99a156ddea9c4",
+    "title": "日本政府、AI「Mythos」アクセス権を取得 サイバー防衛強化に活用",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/04/news073.html",
+    "summary": "三菱UFJ銀行、三井住友銀行、みずほ銀行もアクセス権を得たとみられている。",
+    "published": "2026-06-04T10:27:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "三菱UFJ銀行、三井住友銀行、みずほ銀行もアクセス権を得たとみられている。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "da9ae5352d44a2e113c6063b62d3d8d5",
     "title": "「MLflow」にアクセスキーなど機密情報が流出する深刻な脆弱性",
     "link": "https://www.security-next.com/185397",
@@ -1872,6 +1917,36 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "78ec61ea493739ae746317cb67224d99",
+    "title": "進捗や目標を投入→AIが分かりやすいWebダッシュボードに、チーム間共有も OpenAI、Codexに新機能「Sites」",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/03/news100.html",
+    "summary": "米OpenAIは6月2日（現地時間）、AIコーディングツール「Codex」の新機能「Sites」を発表した。生成したアイデアや成果物をWebサイトやアプリに変換し、URLでチームに共有できる。",
+    "published": "2026-06-03T14:00:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米OpenAIは6月2日（現地時間）、AIコーディングツール「Codex」の新機能「Sites」を発表した。生成したアイデアや成果物をWebサイトやアプリに変換し、URLでチームに共有できる。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "7a2e5de3af77875ff73a12d359b7bfed",
+    "title": "高性能AI なぜ政府がアクセス要請",
+    "link": "https://news.yahoo.co.jp/pickup/6582779?source=rss",
+    "summary": "",
+    "published": "2026-06-03T13:58:46+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "高性能AI なぜ政府がアクセス要請",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
