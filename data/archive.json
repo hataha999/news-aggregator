@@ -120,6 +120,21 @@
     "category_priority": 2
   },
   {
+    "id": "e2fb25361f9a3ca0f13224a347fe6d95",
+    "title": "【楽天スーパーSALE限定50％OFF】Bluetooth通話対応スマートウォッチ「AnyWise W1 Lite」が7,950円！AMOLED搭載・5ATM防水・AIアシスタント対応の高コスパモデル",
+    "link": "https://ascii.jp/elem/000/004/408/4408568/?rss",
+    "summary": "【楽天スーパーSALE限定50％OFF】Bluetooth通話対応スマートウォッチ「AnyWise W1 Lite」が7,950円！AMOLED搭載・5ATM防水・AIアシスタント対応の高コスパモデル",
+    "published": "2026-06-05T18:36:05+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "【楽天スーパーSALE限定50％OFF】Bluetooth通話対応スマートウォッチ「AnyWise W1 Lite」が7,950円！AMOLED搭載・5ATM防水・AIアシスタント対応の高コスパモデル",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "5a82e40a4a1365af1eddc1cda5ef8a91",
     "title": "世界遺産から3D空間データへ：360°ドローン「Antigravity A1」を活用した3Dデジタル化への取り組み",
     "link": "https://ascii.jp/elem/000/004/408/4408580/?rss",
@@ -133,6 +148,21 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
+  },
+  {
+    "id": "44652860fdab9dc99cb309e616978da5",
+    "title": "QommonsAI活用研修を茨城県下妻市（しもつまし）で実施--戸惑いが「期待」に変わる瞬間、広報業務や議会対応への活用で全庁的なDXが加速",
+    "link": "https://ascii.jp/elem/000/004/408/4408570/?rss",
+    "summary": "QommonsAI活用研修を茨城県下妻市（しもつまし）で実施--戸惑いが「期待」に変わる瞬間、広報業務や議会対応への活用で全庁的なDXが加速",
+    "published": "2026-06-05T17:50:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "QommonsAI活用研修を茨城県下妻市（しもつまし）で実施--戸惑いが「期待」に変わる瞬間、広報業務や議会対応への活用で全庁的なDXが加速",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "de79d7322e3cbd071562e29dfdacf529",
@@ -223,6 +253,51 @@
     "category_name": "無線",
     "category_emoji": "📡",
     "category_priority": 3
+  },
+  {
+    "id": "695f08ce00f69c453c314b3a456dcf51",
+    "title": "Uberは従業員がAIツールを使い過ぎたことで「1人あたり各ツール月額24万円まで」という制限を設けている",
+    "link": "https://gigazine.net/news/20260605-uber-caps-ai/",
+    "summary": "配車サービスのUberや食品配達サービスのUber Eatsを展開するUber Technologiesは、エンジニアが業務の90％でAIを活用しているとCEOが明かしたように、AIが業務に強く影響しています。しかしUber Technologiesは2026年の初めにAI予算を使い果たしたことを受け、従業員1人あたりのトークン支出を月額1500ドル(約24万円)に制限していると広報担当者が明らかにしました。続きを読む...",
+    "published": "2026-06-05T16:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "配車サービスのUberや食品配達サービスのUber Eatsを展開するUber Technologiesは、エンジニアが業務の90％でAIを活用しているとCEOが明かしたように、AIが業務に強く影響しています。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "05ad4335b9ae3bb4f1d304218256a8d0",
+    "title": "Anthropicが「AIがAIを作る」自己改善ループのリスクを警告、AI開発をAI自身が加速する可能性を論じる",
+    "link": "https://gigazine.net/news/20260605-anthropic-ai-build-itself/",
+    "summary": "ソフトウェア開発では、エンジニアがAIにコードを書かせる場面が増えています。Anthropicは、こうした流れがAI開発そのものにも広がっているとして、AIが次世代のAIを設計してさらに強力なAIを生み出す「再帰的自己改善」のリスクについて公式に論じました。続きを読む...",
+    "published": "2026-06-05T15:10:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ソフトウェア開発では、エンジニアがAIにコードを書かせる場面が増えています。Anthropicは、こうした流れがAI開発そのものにも広がっているとして、AIが次世代のAIを設計してさらに強力なAIを生み出す「再帰的自己改善」のリスクについて公式に論じました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "dee47db4cb4f4e9733ddc7d50b361335",
+    "title": "アメリカの名門カリフォルニア大学バークレー校でAI利用の拡大と数学力低下が顕著になって落第者が激増",
+    "link": "https://gigazine.net/news/20260605-uc-berkeley-failing-grades-ai-math/",
+    "summary": "カリフォルニア大学バークレー校はアメリカ最高峰の大学として名高く、コンピューターサイエンスやAIなどの分野でアメリカを代表する研究拠点となっています。ところが、そんなカリフォルニア大学バークレー校のコンピューターサイエンスの授業で、AIの利用拡大と数学力の低下が顕著になっており、落第者が激増していると報じられました。続きを読む...",
+    "published": "2026-06-05T15:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "カリフォルニア大学バークレー校はアメリカ最高峰の大学として名高く、コンピューターサイエンスやAIなどの分野でアメリカを代表する研究拠点となっています。ところが、そんなカリフォルニア大学バークレー校のコンピューターサイエンスの授業で、AIの利用拡大と数学力の低下が顕著になっており、落第者が激増していると報じられました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "0dbb3457e81e1bca5797e487570bdbb4",
