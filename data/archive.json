@@ -390,6 +390,21 @@
     "category_priority": 2
   },
   {
+    "id": "a3c14b74d853e6cc9b5f454738f4d355",
+    "title": "LM Studioに「外出先からスマホで自宅の高性能PCに接続してローカルAIを実行できる機能」が追加される",
+    "link": "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/",
+    "summary": "LM StudioはAIモデルをローカルにダウンロードして実行できるアプリです。新たに、LM Studioのリモート連携機能である「LM Link」を用いて外出先でもiPhone経由でPC上のAIモデルを実行可能になりました。iPhoneではクライアントアプリとして「Locally AI」を使う仕組みです。続きを読む...",
+    "published": "2026-06-05T12:32:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "LM StudioはAIモデルをローカルにダウンロードして実行できるアプリです。新たに、LM Studioのリモート連携機能である「LM Link」を用いて外出先でもiPhone経由でPC上のAIモデルを実行可能になりました。iPhoneではクライアントアプリとして「Locally AI」を使う仕組みです。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "fb751b2cb85acda331a1569f677598ba",
     "title": "グーグルChromeに429件の脆弱性 深刻度\"重大\"も複数",
     "link": "https://ascii.jp/elem/000/004/408/4408391/?rss",
@@ -402,6 +417,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "a81879927717c8cdbe996ec51c8ba0f9",
+    "title": "Cloudflareが週間1億2900万DLの「Vite」開発元を買収、AI時代を見据えた狙いとは",
+    "link": "https://gigazine.net/news/20260605-voidzero-join-cloudflare/",
+    "summary": "2026年6月4日、Cloudflareはウェブ開発の基盤として利用されているオープンソースツール「Vite」の開発を主導している企業「VoidZero」を買収することを発表しました。続きを読む...",
+    "published": "2026-06-05T12:30:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "2026年6月4日、Cloudflareはウェブ開発の基盤として利用されているオープンソースツール「Vite」の開発を主導している企業「VoidZero」を買収することを発表しました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -480,6 +510,21 @@
     "category_priority": 2
   },
   {
+    "id": "a21cc3ee26cae4fb594aa924590cd1e2",
+    "title": "AIで生物兵器の作り方を知れる時代に生物兵器に転用可能な合成DNA・RNAをネットで入手できる現状は問題だとしてOpenAI・Anthropic・Google・Microsoftなどが公開書簡に署名",
+    "link": "https://gigazine.net/news/20260605-bioweapons-screening-open-letter/",
+    "summary": "合成DNA・RNAがインターネットで簡単に入手できる現状は、研究・医療目的のためだとはいえ問題だとして、Anthropicなどのテック企業が署名した公開書簡が提出されました。署名者は、AIが生物兵器を開発しかねない状況を危惧しています。続きを読む...",
+    "published": "2026-06-05T11:52:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "合成DNA・RNAがインターネットで簡単に入手できる現状は、研究・医療目的のためだとはいえ問題だとして、Anthropicなどのテック企業が署名した公開書簡が提出されました。署名者は、AIが生物兵器を開発しかねない状況を危惧しています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "08b8272ccb526a45e5c7bf2d8548545e",
     "title": "Redditに宣伝コンテンツを大量投稿してChatGPTやGoogleのAI検索結果を操作する事例が増えている",
     "link": "https://gigazine.net/news/20260605-companies-reddit-manipulate-chatgpt-google-ai-search/",
@@ -489,6 +534,21 @@
     "lang": "ja",
     "_score": 2,
     "ai_summary": "Google検索の「AIによる概要」や「AIモード」のように、従来のブラウザ検索がAI検索に取って代わられつつあるため、通常の検索エンジン最適化(SEO)ではなくAI検索結果を最適化する「回答エンジン最適化(AEO)」が注目されています。「企業はAEOのためにRedditに宣伝コンテンツを大量投入してAI検索結果を操作している」と、テクノロジーメディアの404 Mediaが報じました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "c3f94ac141711134fc6234ca39bafc1f",
+    "title": "ノートPCに8GBのRAMが復活、部品不足の中メーカーは手頃な価格のノートPCを提供するためにメモリ容量を削減している",
+    "link": "https://gigazine.net/news/20260605-laptop-8gb-ram/",
+    "summary": "近年ノートPCの高性能化が進む中で、メモリの最低容量を16GBとするメーカーが多く、MicrosoftもAI PC「Copilot＋」の要件としてメモリ容量を最低16GBと定めており、それ以下の8GBメモリはもはや旧世代のスペックとなりつつあります。ところが、「MacBook Neo」を筆頭に「多少スペックが低くても安い端末が欲しい」と考えるユーザー向けに、メモリ容量8GBのモデルが復活しつつあります。続きを読む...",
+    "published": "2026-06-05T11:12:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "近年ノートPCの高性能化が進む中で、メモリの最低容量を16GBとするメーカーが多く、MicrosoftもAI PC「Copilot＋」の要件としてメモリ容量を最低16GBと定めており、それ以下の8GBメモリはもはや旧世代のスペックとなりつつあります。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
@@ -643,6 +703,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "1d4a709a741c19a7ef99f4a89884ffcb",
+    "title": "米AI計画に日本が800億円拠出へ",
+    "link": "https://news.yahoo.co.jp/pickup/6583003?source=rss",
+    "summary": "",
+    "published": "2026-06-05T09:36:07+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米AI計画に日本が800億円拠出へ",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "4fc8ac86bd319d92bfbe6812cb8c9005",
