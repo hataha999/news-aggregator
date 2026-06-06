@@ -180,6 +180,21 @@
     "category_priority": 2
   },
   {
+    "id": "284c138069b36aa04609eac45ef3fb68",
+    "title": "1NCE、ポケトークにも採用の10年間2000円でIoT機器をつなぐ「1NCE IoTフラットレート」をCOMPUTEXで展示",
+    "link": "https://ascii.jp/elem/000/004/408/4408610/?rss",
+    "summary": "COMPUTEX TAIPEI 2026の1NCE（ワンス）ブースでは、IoT機器向け通信サービス「1NCE IoTフラットレート」と、その採用製品が展示されていた。センサーや位置情報端末などが少量のデータを長期間送信する用途に特化したサービスだ。",
+    "published": "2026-06-06T13:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "COMPUTEX TAIPEI 2026の1NCE（ワンス）ブースでは、IoT機器向け通信サービス「1NCE IoTフラットレート」と、その採用製品が展示されていた。センサーや位置情報端末などが少量のデータを長期間送信する用途に特化したサービスだ。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "6102d9f8f631038f8b940d003f393bde",
     "title": "「フランス車は壊れやすい」の不安を払拭できるか？プジョー・シトロエンが新保証制度「Fun to Drive Care」を開始",
     "link": "https://zuuonline.com/archives/302106",
@@ -2979,21 +2994,6 @@
     "lang": "en",
     "_score": 1,
     "ai_summary": "Radio amateurs from around the world descended on Xenia, Ohio, last weekend for Hamvention® 2026. The three-day event featured five indoor exhibit halls for vendors and organizations, four parallel tr。",
-    "category_key": "radio",
-    "category_name": "無線",
-    "category_emoji": "📡",
-    "category_priority": 3
-  },
-  {
-    "id": "0e578db8af1fcc9e4a03113488027a57",
-    "title": "2026 Hamvention Wrap-Up -- Weather or Not…",
-    "link": "http://www.arrl.org/news/view/2026-hamvention-wrap-up-weather-or-not",
-    "summary": "It’s a tradition for Hamvention® … it must rain for at least part of at least one day … and this year didn’t disappoint! Showers and even the occasional downpour popped up on and off Saturday, prompting flea market shoppers to periodically flee inside to dry out. Then a thunderstorm in the early hours of Sunday morning left the flea market a bit muddy. But spirts ran high for the closing day of...",
-    "published": "2026-05-18T06:22:00+09:00",
-    "source": "ARRL",
-    "lang": "en",
-    "_score": 1,
-    "ai_summary": "It’s a tradition for Hamvention® … it must rain for at least part of at least one day … and this year didn’t disappoint! Showers and even the occasional downpour popped up on and off Saturday, prompti。",
     "category_key": "radio",
     "category_name": "無線",
     "category_emoji": "📡",
