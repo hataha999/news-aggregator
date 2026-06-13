@@ -1,5 +1,20 @@
 [
   {
+    "id": "aca2f6e1f0383b5ae89205d8d00e7514",
+    "title": "老後のお金や生活費が足りるのか不安... 年金の疑問に専門家が回答",
+    "link": "https://news.livedoor.com/article/detail/31542948/",
+    "summary": "ざっくり言うと 65歳から年金を受給しながら、67歳まで厚生年金に加入して働く場合 年金が支給停止されて少なくなることはないと専門家は説明した 平均月収20万円で厚生年金に2年間加入して働くと、年額2万6308円増えるそう 記事を読む",
+    "published": "2026-06-13T22:20:01+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 65歳から年金を受給しながら、67歳まで厚生年金に加入して働く場合 年金が支給停止されて少なくなることはないと専門家は説明した 平均月収20万円で厚生年金に2年間加入して働くと、年額2万6308円増えるそう 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "7d2d479526c493f93f3e1ad05ca24487",
     "title": "AI企業幹部 G7サミットに集結へ",
     "link": "https://news.yahoo.co.jp/pickup/6584128?source=rss",
@@ -2982,21 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "b5bab0fc37844b5518b68ef1b377391f",
-    "title": "サイバー攻撃でシステム障害、原因や影響を調査 - 建材補修会社",
-    "link": "https://www.security-next.com/185269",
-    "summary": "建材の傷の補修などを手がけるエイテックプロは、システムがサイバー攻撃を受け、障害が発生したことを明らかにした。",
-    "published": "2026-06-08T22:14:39+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "建材の傷の補修などを手がけるエイテックプロは、システムがサイバー攻撃を受け、障害が発生したことを明らかにした。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
