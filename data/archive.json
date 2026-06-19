@@ -405,6 +405,21 @@
     "category_priority": 2
   },
   {
+    "id": "c4832a10fe0f531e852456b11c5f9345",
+    "title": "GrokでWord・Excel・PowerPointを操作できる拡張機能が登場",
+    "link": "https://gigazine.net/news/20260619-grok-word-excel-powerpoint/",
+    "summary": "xAIが「Microsoft Word」「Microsoft Excel」「Microsoft PowerPoint」向けの拡張機能を公開しました。拡張機能を導入することで、Grokを用いて文書を作成したり表を分析したりスライドを生成したりといった操作が可能となります。続きを読む...",
+    "published": "2026-06-19T10:45:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "xAIが「Microsoft Word」「Microsoft Excel」「Microsoft PowerPoint」向けの拡張機能を公開しました。拡張機能を導入することで、Grokを用いて文書を作成したり表を分析したりスライドを生成したりといった操作が可能となります。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "cc7777cd94cc2367c4e10863ab5c380d",
     "title": "Waymo、ロボタクシーの高速道路走行を制限 工事区間に進入する不具合でリコール届け出",
     "link": "https://www.itmedia.co.jp/news/articles/2606/19/news082.html",
@@ -2983,20 +2998,5 @@
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
     "category_priority": 2
-  },
-  {
-    "id": "f16a483dab38f9021f381ce9541e1497",
-    "title": "NVIDIAがゲームやロボットの動作35万種類以上をリアルタイムで生成する「MotionBricks」を発表",
-    "link": "https://gigazine.net/news/20260615-nvidia-motionbricks/",
-    "summary": "NVIDIAの研究チームがゲームアニメーションやロボット制御向けのモーション生成フレームワーク「MotionBricks」を発表しました。MotionBricksは35万件超のモーションスキルを単一のニューラルバックボーンで扱い、1万5000FPSのスループットと2ミリ秒のレイテンシを達成したとされています。続きを読む...",
-    "published": "2026-06-15T11:10:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "NVIDIAの研究チームがゲームアニメーションやロボット制御向けのモーション生成フレームワーク「MotionBricks」を発表しました。MotionBricksは35万件超のモーションスキルを単一のニューラルバックボーンで扱い、1万5000FPSのスループットと2ミリ秒のレイテンシを達成したとされています。続きを読む...",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
   }
 ]
