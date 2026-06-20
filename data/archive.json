@@ -1,5 +1,35 @@
 [
   {
+    "id": "0af2142394cc36b66ec022130c0c7238",
+    "title": "【快挙】「着せ恋」痛車が富士24時間を制す！ 雨中の“タイヤ無交換”ギャンブルが劇的すぎた",
+    "link": "https://ascii.jp/elem/000/004/412/4412170/?rss",
+    "summary": "富士24時間レースで「その着せ替え人形は恋をする」コラボのTKRIチームが総合優勝し、2連覇を達成しました。勝負の鍵は19時間経過時の雨。ライバルがレインタイヤに換える中、アマチュアのDAISUKE選手がスリックタイヤのまま濡れた路面を耐え抜き、プロへ繋いだ決死の作戦が勝利を呼び込みました。",
+    "published": "2026-06-20T15:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "富士24時間レースで「その着せ替え人形は恋をする」コラボのTKRIチームが総合優勝し、2連覇を達成しました。勝負の鍵は19時間経過時の雨。ライバルがレインタイヤに換える中、アマチュアのDAISUKE選手がスリックタイヤのまま濡れた路面を耐え抜き、プロへ繋いだ決死の作戦が勝利を呼び込みました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "e22d23420d26f263e5b76052f11d04df",
+    "title": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+    "link": "https://ascii.jp/elem/000/004/412/4412191/?rss",
+    "summary": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+    "published": "2026-06-20T12:53:55+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AI診断サービス「クラウド診断Projimo」提供開始。￥98,000から、高額発注前の現状診断を最短1週間で",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "7711d4d7cd7a0d877b81f1e341401e11",
     "title": "Amazonが完成間近だったサム・アルトマンの伝記映画『Artificial』の配給から撤退",
     "link": "https://gigazine.net/news/20260620-amazon-dropped-sam-altman-movie-artificial/",
@@ -118,6 +148,21 @@
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
     "category_priority": 2
+  },
+  {
+    "id": "7f2fdb6b468451cbac5211ef505f421f",
+    "title": "マイホームと預貯金しかない「普通の家族」が崩壊 相続巡る泥沼",
+    "link": "https://news.livedoor.com/article/detail/31600824/",
+    "summary": "ざっくり言うと マイホームと預貯金しかない「普通の家族」の争いについて、弁護士が解説 不動産の泥沼を防ぐため、遺言書と生命保険での代償金を用意するといいそう 「換価も代償もできない」という膠着を、予め解消しておく仕組みだという 記事を読む",
+    "published": "2026-06-19T19:03:03+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと マイホームと預貯金しかない「普通の家族」の争いについて、弁護士が解説 不動産の泥沼を防ぐため、遺言書と生命保険での代償金を用意するといいそう 「換価も代償もできない」という膠着を、予め解消しておく仕組みだという 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
   },
   {
     "id": "420583df6add296a976195caa316be21",
@@ -2952,51 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "d5d5c07260f44b531219033d841846df",
-    "title": "味の素は先端チップ製造基板の主要材料である「ABF」の需要を2030年まで満たすことができるという見通し、価格を引き上げるのではなく生産能力を拡大する計画",
-    "link": "https://gigazine.net/news/20260615-ajinomoto-abf-product-more/",
-    "summary": "AIチップ需要の急拡大により、半導体に不可欠な材料の供給能力が新たな課題となっています。味の素は先端半導体パッケージ基板に使われる「味の素ビルドアップフィルム(ABF)」について、2030年までの需要を満たせる見通しを示しました。続きを読む...",
-    "published": "2026-06-15T12:51:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIチップ需要の急拡大により、半導体に不可欠な材料の供給能力が新たな課題となっています。味の素は先端半導体パッケージ基板に使われる「味の素ビルドアップフィルム(ABF)」について、2030年までの需要を満たせる見通しを示しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "9861e25252ee9bac3d92f7025ce7980d",
-    "title": "AI広告は受け入れられるのか？ 最新調査から見えてきた近未来像",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/15/news083.html",
-    "summary": "生成AIを使って制作した広告は、それがAIであることで何かしら影響を与えるのだろうか。ビデオリサーチ内のシンクタンクが行った調査結果から、生成AIが作り出す画像と、それを見た人間の反応や行動がどのように変わるのかを掘り下げてみたい。",
-    "published": "2026-06-15T12:49:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "生成AIを使って制作した広告は、それがAIであることで何かしら影響を与えるのだろうか。ビデオリサーチ内のシンクタンクが行った調査結果から、生成AIが作り出す画像と、それを見た人間の反応や行動がどのように変わるのかを掘り下げてみたい。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "86f68d66c1febab416a455b720b870f3",
-    "title": "三菱電機製複数の家電製品におけるハードコードされた認証情報の使用に関する脆弱性",
-    "link": "https://jvn.jp/vu/JVNVU99620284/",
-    "summary": "三菱電機製複数の家電製品には、ハードコードされた認証情報の使用に関する脆弱性が存在します。",
-    "published": "2026-06-15T12:30:00+09:00",
-    "source": "JVN（脆弱性情報）",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "三菱電機製複数の家電製品には、ハードコードされた認証情報の使用に関する脆弱性が存在します。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
