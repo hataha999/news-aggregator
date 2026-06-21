@@ -1,5 +1,35 @@
 [
   {
+    "id": "a55a5d3b9a934f935b00de30f6f9af38",
+    "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK",
+    "link": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
+    "summary": "ゲームやAI処理ではGPUのメモリである「VRAM」を酷使します。VRAMに異常が発生しているとGPUの性能を十分に引き出せずにゲームプレイ中にフリーズが発生したりAI処理を正常に実行できなくなったりします。「memtest_vulkan」は自分の使っているGPUのVRAMが故障していないかチェックできる無料ツールで、インストール不要でダブルクリックするだけで使うことが可能。長年使い続けたグラフィックボードの故障チェックや買ったばかりのグラフィックボードの初期不良チェックに便利そうだったので使い方をまとめてみました。続きを読む...",
+    "published": "2026-06-21T22:52:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ゲームやAI処理ではGPUのメモリである「VRAM」を酷使します。VRAMに異常が発生しているとGPUの性能を十分に引き出せずにゲームプレイ中にフリーズが発生したりAI処理を正常に実行できなくなったりします。「memtest_vulkan」は自分の使っているGPUのVRAMが故障していないかチェックできる無料ツールで、インストール不要でダブルクリックするだけで使うことが可能。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "f8714a541d1876e0230e69c86e5de5f7",
+    "title": "年金支給額増も生活苦 受給者嘆き",
+    "link": "https://news.yahoo.co.jp/pickup/6585113?source=rss",
+    "summary": "",
+    "published": "2026-06-21T19:14:26+09:00",
+    "source": "Yahoo!ニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "年金支給額増も生活苦 受給者嘆き",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "77e52218028a15520b82e0a3d5f64e4c",
     "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
     "link": "https://gigazine.net/news/20260621-desktop-mode/",
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "fb86915fb953ec7d22e4f17830bda9de",
-    "title": "データセンター反対派の活動によって3カ月で20兆円規模の建設計画が遅延・停止している",
-    "link": "https://gigazine.net/news/20260615-data-center-opposition/",
-    "summary": "AIの開発・運用には大規模な計算資源が必要であり、AI需要に応じるべく世界中でデータセンターの建設計画が進んでいます。一方でデータセンターの建設に反対する運動も活発化しており、2026年1月～3月の3カ月間だけで75件のプロジェクトが停止または延期されたことが明らかになりました。続きを読む...",
-    "published": "2026-06-15T17:35:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIの開発・運用には大規模な計算資源が必要であり、AI需要に応じるべく世界中でデータセンターの建設計画が進んでいます。一方でデータセンターの建設に反対する運動も活発化しており、2026年1月～3月の3カ月間だけで75件のプロジェクトが停止または延期されたことが明らかになりました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "19bceccc50678d5470f73182150d8677",
-    "title": "「SimpleHelp」に認証回避の脆弱性 - 管理操作が可能に",
-    "link": "https://www.security-next.com/185887",
-    "summary": "リモートサポートツール「SimpleHelp」において、認証を回避されるおそれがある深刻な脆弱性が明らかとなった。脆弱性を修正したアップデートが提供されている。",
-    "published": "2026-06-15T17:21:43+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "リモートサポートツール「SimpleHelp」において、認証を回避されるおそれがある深刻な脆弱性が明らかとなった。脆弱性を修正したアップデートが提供されている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
   }
 ]
