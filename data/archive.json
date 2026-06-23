@@ -570,6 +570,21 @@
     "category_priority": 2
   },
   {
+    "id": "6bed6dcd0b19577e0c364195d1332c3e",
+    "title": "SpaceX、初のシニア無担保社債を発行 AI投資加速に向け資金調達を本格化",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news076.html",
+    "summary": "SpaceXは、同社初となるシニア無担保社債の発行を開始した。調達資金はブリッジローンの返済や一般的な事業目的に充てられる。同社はあわせて、新興AI企業のReflection AIと提携し、データセンター「Colossus 2」の計算資源を2029年まで提供することも判明した。",
+    "published": "2026-06-23T08:56:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "SpaceXは、同社初となるシニア無担保社債の発行を開始した。調達資金はブリッジローンの返済や一般的な事業目的に充てられる。同社はあわせて、新興AI企業のReflection AIと提携し、データセンター「Colossus 2」の計算資源を2029年まで提供することも判明した。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "84ea973c1dd7cfb31654e23f4bb655c8",
     "title": "OpenAI、Getty Imagesと複数年契約 ChatGPTの検索結果にライセンス画像を直接表示",
     "link": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "OpenAIやAnthropicなどのAI企業はAIモデルを製品化する前に社内で安全リスクの分析を行っています。新たに、OpenAIが安全リスクの高精度な分析手法を発表しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "962a8fe0781d92746a59d91d35d4a3d5",
-    "title": "OrcaRouterがWeb自動化プラットフォーム「Apify」の公式Actorとして提供開始 ― 40,000超のActorからシームレスに200+LLMへアクセス可能に",
-    "link": "https://ascii.jp/elem/000/004/411/4411453/?rss",
-    "summary": "OrcaRouterがWeb自動化プラットフォーム「Apify」の公式Actorとして提供開始 ― 40,000超のActorからシームレスに200+LLMへアクセス可能に",
-    "published": "2026-06-17T18:40:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "OrcaRouterがWeb自動化プラットフォーム「Apify」の公式Actorとして提供開始 ― 40,000超のActorからシームレスに200+LLMへアクセス可能に",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
