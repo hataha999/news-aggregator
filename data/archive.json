@@ -1,5 +1,35 @@
 [
   {
+    "id": "bfce45d023500a86e88153b66e243870",
+    "title": "定点カメラの映像をAIが解析し賑わいを可視化、AI人流解析ソフトウェア「NIGIWAI」正式提供開始",
+    "link": "https://ascii.jp/elem/000/004/412/4412582/?rss",
+    "summary": "Tokyo Artisan Intelligence株式会社は6月19日に、AI人流解析技術を用いてまちづくりを支援するソリューション「NIGIWAI（ニギワイ）」の正式提供を開始した。同ソリューションは、北九州市のスタートアップ支援のもと、2026年2月から3月にかけて同市で行った実証実験の成果をベースに開発したという。",
+    "published": "2026-06-24T07:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Tokyo Artisan Intelligence株式会社は6月19日に、AI人流解析技術を用いてまちづくりを支援するソリューション「NIGIWAI（ニギワイ）」の正式提供を開始した。同ソリューションは、北九州市のスタートアップ支援のもと、2026年2月から3月にかけて同市で行った実証実験の成果をベースに開発したという。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "a73918b73cd3f2100e49cb034fa22002",
+    "title": "AIとデータで「捨てる」を「価値」に変える次世代サーキュラーエコノミー 静岡大学発「S-Bridges」",
+    "link": "https://ascii.jp/elem/000/004/382/4382674/?rss",
+    "summary": "静岡大学発のスタートアップ「S-Bridges」では、「Bio Material Transformation」という経済システムの構築に取り組んでいる。従来は廃棄される部位などに新しい価値を見いだし、活用の道を探る――というシステムになっており、「ネイチャーポジティブ」達成の鍵になるのではと注目を集めている。",
+    "published": "2026-06-24T06:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "静岡大学発のスタートアップ「S-Bridges」では、「Bio Material Transformation」という経済システムの構築に取り組んでいる。従来は廃棄される部位などに新しい価値を見いだし、活用の道を探る――というシステムになっており、「ネイチャーポジティブ」達成の鍵になるのではと注目を集めている。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "7ce535cb5e8f253adb8d5941434a4925",
     "title": "GiGOアプリの“大規模BAN”で運営謝罪 「ルール周知や事前説明が不十分だった」 停止措置を一時解除",
     "link": "https://www.itmedia.co.jp/news/articles/2606/23/news138.html",
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "52f4def9a474b0ff622216855ab3a3b7",
-    "title": "ホンダ・シビックに任意のコードを実行可能な脆弱性「EvilValet」が見つかる",
-    "link": "https://gigazine.net/news/20260617-honda-civic-evil-valet/",
-    "summary": "ホンダ車は、オーディオシステムやナビを内蔵した車載のヘッドユニットをUSB経由でアップデートすることが可能です。しかし、ここに任意のコードを実行可能な脆弱性があることを、技術専門家のエリック・マクドナルド氏が指摘しています。続きを読む...",
-    "published": "2026-06-17T19:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ホンダ車は、オーディオシステムやナビを内蔵した車載のヘッドユニットをUSB経由でアップデートすることが可能です。しかし、ここに任意のコードを実行可能な脆弱性があることを、技術専門家のエリック・マクドナルド氏が指摘しています。続きを読む...",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "78c12bb8bc32863d2d26fd5844353412",
-    "title": "OpenAIが「AIにバレずにAIをテストする手法」の開発に成功",
-    "link": "https://gigazine.net/news/20260617-openai-simulating-deployment/",
-    "summary": "OpenAIやAnthropicなどのAI企業はAIモデルを製品化する前に社内で安全リスクの分析を行っています。新たに、OpenAIが安全リスクの高精度な分析手法を発表しました。続きを読む...",
-    "published": "2026-06-17T18:50:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "OpenAIやAnthropicなどのAI企業はAIモデルを製品化する前に社内で安全リスクの分析を行っています。新たに、OpenAIが安全リスクの高精度な分析手法を発表しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
