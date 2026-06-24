@@ -465,6 +465,21 @@
     "category_priority": 2
   },
   {
+    "id": "ba1fde27d4e9482533eabac19778d627",
+    "title": "Meta、初の自社ブランドAIグラス「Meta Glasses」を北米などで発売 299ドルから",
+    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news061.html",
+    "summary": "Metaは、EssilorLuxotticaと共同開発した新型AIグラス「Meta Glasses」（Metaグラス）を発表し、一部の国で販売を開始した。自社ブランドを冠する初のモデルで、価格は299ドルから。最新の自社製AIモデル「Muse Spark」を搭載し、音声にセレブのカイリー・ジェンナー氏の声を指定できるコラボモデルを含む3スタイルを展開する。",
+    "published": "2026-06-24T07:15:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Metaは、EssilorLuxotticaと共同開発した新型AIグラス「Meta Glasses」（Metaグラス）を発表し、一部の国で販売を開始した。自社ブランドを冠する初のモデルで、価格は299ドルから。最新の自社製AIモデル「Muse Spark」を搭載し、音声にセレブのカイリー・ジェンナー氏の声を指定できるコラボモデルを含む3スタイルを展開する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "bfce45d023500a86e88153b66e243870",
     "title": "定点カメラの映像をAIが解析し賑わいを可視化、AI人流解析ソフトウェア「NIGIWAI」正式提供開始",
     "link": "https://ascii.jp/elem/000/004/412/4412582/?rss",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 2,
     "ai_summary": "ChatGPTを開発するOpenAIは2026年6月に新規株式公開(IPO)に向けた登録届出書の草案を証券取引委員会に提出したことを明かしています。そんな中、新たに流出した財務書類から、OpenAIは急速に収益を伸ばしている一方でそれ以上に巨額の支出をしており、数兆円規模の損失を出していることが判明しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "ab71c2b242fbdbbb6eba091c1ba1091e",
-    "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
-    "summary": "米OpenAIは6月17日（現地時間）、ChatGPTで予約したタスクをAIに代行させられる新機能「Scheduled tasks」を順次展開する。サイドバーから新しい「Scheduled」ページにアクセスでき、タスクをまとめて管理できる。",
-    "published": "2026-06-18T14:30:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "米OpenAIは6月17日（現地時間）、ChatGPTで予約したタスクをAIに代行させられる新機能「Scheduled tasks」を順次展開する。サイドバーから新しい「Scheduled」ページにアクセスでき、タスクをまとめて管理できる。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
