@@ -1,5 +1,20 @@
 [
   {
+    "id": "23b71155c903559a6da604de1cdff69a",
+    "title": "[DATAで見るケータイ業界] 5Gの屋外基地局数は約27万局に拡大、基地局投資は26年度に拡大する見込み",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/2120538.html",
+    "summary": "MCAは携帯電話基地局市場の調査を実施し、その結果を調査資料「携帯電話基地局及び周辺部材市場の現状と将来予測 2025年版」として取りまとめた。",
+    "published": "2026-06-27T06:00:00+09:00",
+    "source": "ケータイWatch",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "MCAは携帯電話基地局市場の調査を実施し、その結果を調査資料「携帯電話基地局及び周辺部材市場の現状と将来予測 2025年版」として取りまとめた。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
     "id": "c98345932af3886a5bbab0265e3250fe",
     "title": "特価で24万5300円！ AMD Ryzen AI 7 350搭載の一体型デスクトップ「FMV WF3-L1」がお買い得",
     "link": "https://ascii.jp/elem/000/004/413/4413748/?rss",
@@ -2983,20 +2998,5 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
-  },
-  {
-    "id": "b51fbe89051c79d12df3fb190ccd01e2",
-    "title": "「ChatGPTにうちの会社が出てこない」──採用担当を悩ます“AI就活時代”の容赦なき実態",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/18/news020.html",
-    "summary": "採用やHRの界隈で、じわじわと語られ始めている問題意識がある。就活生、それも優秀な層ほど、キャリア相談をLLMにするようになった。その結果、Web上での露出が乏しくLLMO対策をしていない企業は、学生から“見つけてもらえなく”なってきている――というものだ。",
-    "published": "2026-06-22T12:00:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 3,
-    "ai_summary": "採用やHRの界隈で、じわじわと語られ始めている問題意識がある。就活生、それも優秀な層ほど、キャリア相談をLLMにするようになった。その結果、Web上での露出が乏しくLLMO対策をしていない企業は、学生から“見つけてもらえなく”なってきている――というものだ。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
