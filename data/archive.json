@@ -1,5 +1,35 @@
 [
   {
+    "id": "3f26a053e19c86aa22d36d8a9db361b3",
+    "title": "OpenAIのサム・アルトマンCEOとAnthropicのダリオ・アモデイCEOの間には10年にもわたる確執がある",
+    "link": "https://gigazine.net/news/20260628-dario-amodei-sam-altman/",
+    "summary": "Claude AIを開発するAI企業・Anthropicのダリオ・アモデイCEOは、2016年からChatGPTなどを展開するAI企業のOpenAIに務めていましたが、事業に関する方向性の違いにより2020年にOpenAIを離れています。そんなアモデイCEOとOpenAIのサム・アルトマンCEOの間には約10年にわたる確執があると、ウォール・ストリート・ジャーナルが事情に詳しい関係者への取材を元にまとめています。続きを読む...",
+    "published": "2026-06-28T20:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 3,
+    "ai_summary": "Claude AIを開発するAI企業・Anthropicのダリオ・アモデイCEOは、2016年からChatGPTなどを展開するAI企業のOpenAIに務めていましたが、事業に関する方向性の違いにより2020年にOpenAIを離れています。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "2ffba1dd681bc225202b98dddaf3e9bd",
+    "title": "賃金の地域間格差15万円超に 25年",
+    "link": "https://news.yahoo.co.jp/pickup/6586019?source=rss",
+    "summary": "",
+    "published": "2026-06-28T18:19:48+09:00",
+    "source": "Yahoo!ニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "賃金の地域間格差15万円超に 25年",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "0aa1c887c0e6fd02e2782ec7ba72c799",
     "title": "「亀戸 居酒屋 コスパ」で3つのAIが共通して出した店はゼロ──飲食店のAI検索可視化サービス「GEOスコープ」を2026年7月1日より無料公開",
     "link": "https://ascii.jp/elem/000/004/414/4414151/?rss",
@@ -2967,36 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "0d7a83542f75c0bbbdd41041c4343717",
-    "title": "Google DeepMindと映画スタジオA24がAI研究で提携──映像制作ツールを作り手と共同開発",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/23/news073.html",
-    "summary": "Google DeepMindは、映画スタジオのA24と映像制作分野でのAI研究を巡る提携を発表した。A24は研究成果やインフラを利用可能になり、DeepMindは映像作家からのフィードバックを開発に反映させる。映像制作へのAI活用を巡っては、Amazonなども動きを強めている。",
-    "published": "2026-06-23T06:54:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Google DeepMindは、映画スタジオのA24と映像制作分野でのAI研究を巡る提携を発表した。A24は研究成果やインフラを利用可能になり、DeepMindは映像作家からのフィードバックを開発に反映させる。映像制作へのAI活用を巡っては、Amazonなども動きを強めている。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "ddd47f988832fd7f29714be179ec2fa9",
-    "title": "Viva Technology 2026開催、ジェフ・ベゾス氏が宇宙インフラで次世代を拓く",
-    "link": "https://ascii.jp/elem/000/004/412/4412541/?rss",
-    "summary": "2026年6月17日から20日にかけて、フランス・パリのポルト・ド・ヴェルサイユにて、イノベーションとテクノロジーの祭典「Viva Technology 2026」が開催された。今年の主要テーマには、AI、サイバーセキュリティ、グリーンテックなどに並び、「宇宙（Space）」が大きく取り上げられた。",
-    "published": "2026-06-23T06:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "2026年6月17日から20日にかけて、フランス・パリのポルト・ド・ヴェルサイユにて、イノベーションとテクノロジーの祭典「Viva Technology 2026」が開催された。今年の主要テーマには、AI、サイバーセキュリティ、グリーンテックなどに並び、「宇宙（Space）」が大きく取り上げられた。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
