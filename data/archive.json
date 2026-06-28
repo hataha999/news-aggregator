@@ -1,5 +1,20 @@
 [
   {
+    "id": "0aa1c887c0e6fd02e2782ec7ba72c799",
+    "title": "「亀戸 居酒屋 コスパ」で3つのAIが共通して出した店はゼロ──飲食店のAI検索可視化サービス「GEOスコープ」を2026年7月1日より無料公開",
+    "link": "https://ascii.jp/elem/000/004/414/4414151/?rss",
+    "summary": "「亀戸 居酒屋 コスパ」で3つのAIが共通して出した店はゼロ──飲食店のAI検索可視化サービス「GEOスコープ」を2026年7月1日より無料公開",
+    "published": "2026-06-28T13:52:42+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「亀戸 居酒屋 コスパ」で3つのAIが共通して出した店はゼロ──飲食店のAI検索可視化サービス「GEOスコープ」を2026年7月1日より無料公開",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "d74b2c23a8e5ecf8ce70da8ac2097817",
     "title": "無料でAI最適化「AEO」をChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・Grokなどで確認できる「Elmo」、オープンソースで開発されセルフホスト可能",
     "link": "https://gigazine.net/news/20260628-elmo/",
@@ -13,6 +28,36 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
+  },
+  {
+    "id": "35f4d9972ac03ddf7d329ccbfd625ab6",
+    "title": "【新サービス】ホテルのフロント業務をAIで無人化・省力化。宿泊施設向け「もしもしAI」の提供を開始",
+    "link": "https://ascii.jp/elem/000/004/414/4414149/?rss",
+    "summary": "【新サービス】ホテルのフロント業務をAIで無人化・省力化。宿泊施設向け「もしもしAI」の提供を開始",
+    "published": "2026-06-28T12:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "【新サービス】ホテルのフロント業務をAIで無人化・省力化。宿泊施設向け「もしもしAI」の提供を開始",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "40becf1f286ac5ecfb308b106b3fef6f",
+    "title": "キャッシュレス決済導入していない友人 今の時代現金派のメリットって何",
+    "link": "https://news.livedoor.com/article/detail/31679845/",
+    "summary": "ざっくり言うと キャッシュレス化が進む日本で現金派のメリットを解説している 現金払いは支出を直接確認でき家計管理がしやすいとのこと 割り勘の手間やポイント還元なしなどデメリットも存在するという 記事を読む",
+    "published": "2026-06-28T11:40:07+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと キャッシュレス化が進む日本で現金派のメリットを解説している 現金払いは支出を直接確認でき家計管理がしやすいとのこと 割り勘の手間やポイント還元なしなどデメリットも存在するという 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
   },
   {
     "id": "11ecef34da810fc3a93405f9ff1ed34a",
@@ -2953,50 +2998,5 @@
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
     "category_priority": 2
-  },
-  {
-    "id": "cf86e144a6aa06daf3da21138b717e30",
-    "title": "Young Ham Radio Operator Supports the America250 Celebration",
-    "link": "http://www.arrl.org/news/view/young-ham-radio-operator-supports-the-america250-celebration",
-    "summary": "While many teenagers spend their evenings playing video games or scrolling social media, 14-year-old amateur radio (also known as “ham radio”) operator Micah Sandoval, KB4MPS, was busy this past week making radio contacts across the US. Sandoval participated as part of a special event station supporting the ARRL America250 Worked All States (WAS) Award program, a year-long operating event celeb...",
-    "published": "2026-06-23T02:23:00+09:00",
-    "source": "ARRL",
-    "lang": "en",
-    "_score": 1,
-    "ai_summary": "While many teenagers spend their evenings playing video games or scrolling social media, 14-year-old amateur radio (also known as “ham radio”) operator Micah Sandoval, KB4MPS, was busy this past week 。",
-    "category_key": "radio",
-    "category_name": "無線",
-    "category_emoji": "📡",
-    "category_priority": 3
-  },
-  {
-    "id": "372616339402646c283b5723f10bc2ff",
-    "title": "[山根康宏の「言っチャイナよ」] 100万円の折りたたみ機も登場、中国最新5Gスマホ19機種を一挙紹介【2026年5月版】",
-    "link": "https://k-tai.watch.impress.co.jp/docs/column/china/2119078.html",
-    "summary": "女性をターゲットにしたミドルハイレンジモデルがHONOR 600、OPPO Reno16、vivo S60と各シリーズで揃い、中国の街中では芸能人を使った広告合戦が激化している。vivoはミドルレンジを中心にモデルを拡大、ZTE／nubiaはゲーミングモデルをマイナーチェンジし、業界最高性能モデルを投入した。超高級モデルを展開中のVERTUからは久しぶりとなる折りたたみモデル「ALPHAFOLD」も発表されている。",
-    "published": "2026-06-23T00:00:00+09:00",
-    "source": "ケータイWatch",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "女性をターゲットにしたミドルハイレンジモデルがHONOR 600、OPPO Reno16、vivo S60と各シリーズで揃い、中国の街中では芸能人を使った広告合戦が激化している。vivoはミドルレンジを中心にモデルを拡大、ZTE／nubiaはゲーミングモデルをマイナーチェンジし、業界最高性能モデルを投入した。",
-    "category_key": "radio",
-    "category_name": "無線",
-    "category_emoji": "📡",
-    "category_priority": 3
-  },
-  {
-    "id": "5093d4087784b2a20169b8e4aa7cc707",
-    "title": "高市早苗首相が飲食料品の消費税減税期限に言及「2年はつなぎ」",
-    "link": "https://news.livedoor.com/article/detail/31625243/",
-    "summary": "記事を読む",
-    "published": "2026-06-22T22:56:01+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
