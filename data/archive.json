@@ -105,6 +105,21 @@
     "category_priority": 1
   },
   {
+    "id": "69b96de58ecd9429902e62db4b84e5bc",
+    "title": "Mistralが自動定理証明向けAI「Leanstral 1.5」リリース、Lean 4の証明作業を支援",
+    "link": "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
+    "summary": "Mistral AIが数学の証明やプログラムの正しさを機械的に確かめる作業を支援するAIモデル「Leanstral 1.5」を2026年6月30日に公開しました。Leanstral 1.5は形式証明ツール「Lean 4」向けの自動定理証明と自動形式化に最適化されたモデルで、Mistral AIのLabs枠で無料利用できると案内されています。続きを読む...",
+    "published": "2026-07-01T16:05:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Mistral AIが数学の証明やプログラムの正しさを機械的に確かめる作業を支援するAIモデル「Leanstral 1.5」を2026年6月30日に公開しました。Leanstral 1.5は形式証明ツール「Lean 4」向けの自動定理証明と自動形式化に最適化されたモデルで、Mistral AIのLabs枠で無料利用できると案内されています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "06309c9334738f3bd1a0167f98055bab",
     "title": "世カエル（インベスコ 世界ブロックチェーン株式ファンド）はNISAに向いてる？ 値動きとの付き合い方と、将来への期待",
     "link": "https://zuuonline.com/archives/302079",
@@ -163,6 +178,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "d5fd38be47b35f76190a3dafccc724f4",
+    "title": "OpenAIのエンジニアがAIの推論コストを半分以下に削減する方法を見つけたとの報道",
+    "link": "https://gigazine.net/news/20260701-openai-discovers-cut-inference-costs-half/",
+    "summary": "AIモデルを大規模に提供する企業にとって課題となっているのが、ユーザーの入力に応じてAIモデルが出力を生成するプロセスにかかる推論コストです。新たに、OpenAIのエンジニアたちが「推論コストを半分以下に削減する方法を見つけた」と語ったと、海外メディアのThe Informationが報じました。続きを読む...",
+    "published": "2026-07-01T15:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIモデルを大規模に提供する企業にとって課題となっているのが、ユーザーの入力に応じてAIモデルが出力を生成するプロセスにかかる推論コストです。新たに、OpenAIのエンジニアたちが「推論コストを半分以下に削減する方法を見つけた」と語ったと、海外メディアのThe Informationが報じました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "baa545b3c0bc727b3928f5c382c70396",
@@ -255,6 +285,21 @@
     "category_priority": 2
   },
   {
+    "id": "2ebe36ceb5adc6625a9e52641b44d0af",
+    "title": "OpenAIがCodex用の新ハードウェアを予告",
+    "link": "https://gigazine.net/news/20260701-openai-codex-hardware/",
+    "summary": "OpenAIがAIエージェント「Codex」に関連するデバイスのムービーをXに投稿しました。投稿には「7月15日」という日付と「お気に入りのCodexショートカットがアップグレードされます」というテキストが記載されており、2026年7月15日に何らかの追加情報が発表されると見られています。続きを読む...",
+    "published": "2026-07-01T12:58:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIがAIエージェント「Codex」に関連するデバイスのムービーをXに投稿しました。投稿には「7月15日」という日付と「お気に入りのCodexショートカットがアップグレードされます」というテキストが記載されており、2026年7月15日に何らかの追加情報が発表されると見られています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "99b8a022d3ffeafb01645f1e65c83e45",
     "title": "Anthropicが科学者向けAIアプリ「Claude Science」を公開、文献調査や図表作成を単一アプリで実行可能",
     "link": "https://gigazine.net/news/20260701-anthropic-claude-science/",
@@ -283,6 +328,21 @@
     "category_name": "無線",
     "category_emoji": "📡",
     "category_priority": 3
+  },
+  {
+    "id": "efded2950edd145653e765182eeb95df",
+    "title": "OpenAIがAIの科学能力を測定するベンチマークテスト「GeneBench-Pro」を発表",
+    "link": "https://gigazine.net/news/20260701-genebench-pro/",
+    "summary": "データを確認したAIが、そのデータがノイズなのか有意なものなのかを判断した上で解析を行えるかどうかを測る計算生物学のベンチマーク「GeneBench-Pro」がOpenAIから発表されました。このベンチマークで測定した上でAIを改善していけば、科学的発見を大幅に加速できる可能性があると期待されています。続きを読む...",
+    "published": "2026-07-01T12:05:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "データを確認したAIが、そのデータがノイズなのか有意なものなのかを判断した上で解析を行えるかどうかを測る計算生物学のベンチマーク「GeneBench-Pro」がOpenAIから発表されました。このベンチマークで測定した上でAIを改善していけば、科学的発見を大幅に加速できる可能性があると期待されています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "0e9f3831fbb58cdeef71bdadaa389fc8",
@@ -328,6 +388,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "d97ad6f1cc4f2a1ee815ef6d6d79b93c",
+    "title": "AI生成の写真を使ったニセの花の種販売が横行",
+    "link": "https://gigazine.net/news/20260701-scammers-sell-ai-seeds/",
+    "summary": "オンラインマーケットで、AI生成による写真を添付した謎の種が販売されています。実際に1000人以上がだまされて購入してしまっているようです。続きを読む...",
+    "published": "2026-07-01T11:39:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "オンラインマーケットで、AI生成による写真を添付した謎の種が販売されています。実際に1000人以上がだまされて購入してしまっているようです。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "4d19d4bf1df38174278c3457487b7edd",
@@ -2923,80 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "f3fb294f29d878109a42dd15e331a828",
-    "title": "「Cisco Unified CM」など脆弱性2件の悪用に注意喚起 - 米当局",
-    "link": "https://www.security-next.com/186433",
-    "summary": "米当局は、Ciscoのコミュニケーション基盤ソフトとPTCの業務ソフトに判明した脆弱性が悪用されているとして注意喚起を行った。早急な対策を求めている。",
-    "published": "2026-06-26T09:05:15+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "米当局は、Ciscoのコミュニケーション基盤ソフトとPTCの業務ソフトに判明した脆弱性が悪用されているとして注意喚起を行った。早急な対策を求めている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "fb9c2910d33eb42902cd2f8ab81977c2",
-    "title": "YouTube・X(旧Twitter)・TikTok・Instagramなど1000超のサービスからオリジナル画質のまま動画をダウンロードできる「VideoProc Converter AI」を使ってみた",
-    "link": "https://gigazine.net/news/20260626-videoproc-converter-ai/",
-    "summary": "YouTube・ニコニコ動画・Huluといった動画配信サイトだけでなく、X(旧Twitter)・TikTok・InstagramといったSNSからも動画をダウンロードできるのが「VideoProc Converter AI」です。対応サイトの数は1000超、簡単操作で高品質な動画をダウンロードすることができるということで、実際に使ってみました。続きを読む...",
-    "published": "2026-06-26T09:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "YouTube・ニコニコ動画・Huluといった動画配信サイトだけでなく、X(旧Twitter)・TikTok・InstagramといったSNSからも動画をダウンロードできるのが「VideoProc Converter AI」です。対応サイトの数は1000超、簡単操作で高品質な動画をダウンロードすることができるということで、実際に使ってみました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "121ad4ba2a5b51aee230e2d80e5e446c",
-    "title": "「Chrome」が脆弱性を修正 - 前回アップデートから2日",
-    "link": "https://www.security-next.com/186427",
-    "summary": "Googleは現地時間2026年6月25日、同社ブラウザ「Chrome」のセキュリティアップデートをリリースした。",
-    "published": "2026-06-26T08:29:52+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "Googleは現地時間2026年6月25日、同社ブラウザ「Chrome」のセキュリティアップデートをリリースした。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "c4af3e0daaa5722dd8cf1a890be4f2f2",
-    "title": "Notion、メールアプリ「Notion Mail」終了へ AIエージェントに全面移行",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
-    "summary": "Notionは、メールアプリ「Notion Mail」を9月22日に終了すると発表した。AIエージェントの高機能化に伴い、受信トレイを1度も開かずにメールを管理するユーザーが半数を超えたためという。今後はエージェントによる受信トレイ運用に全面的にかじを切る。",
-    "published": "2026-06-26T07:32:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Notionは、メールアプリ「Notion Mail」を9月22日に終了すると発表した。AIエージェントの高機能化に伴い、受信トレイを1度も開かずにメールを管理するユーザーが半数を超えたためという。今後はエージェントによる受信トレイ運用に全面的にかじを切る。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "daefd6bea48c3a722c60fb569c83b907",
-    "title": "「AIシステム品質検証」提供開始、AI機能を組み込んだシステムや社内ツールの品質やリスクを可視化",
-    "link": "https://ascii.jp/elem/000/004/413/4413680/?rss",
-    "summary": "株式会社ProVisionは6月19日に、AI活用における品質とリスクの検証を支援する「AIシステム品質検証」の提供開始を発表した。AI機能が組み込まれたシステムのほか、開発工程でAIを使用しているシステム、社内AIツールなどを対象に、AIの出力品質やセキュリティ、運用時のリスクを検証するという。",
-    "published": "2026-06-26T07:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "株式会社ProVisionは6月19日に、AI活用における品質とリスクの検証を支援する「AIシステム品質検証」の提供開始を発表した。AI機能が組み込まれたシステムのほか、開発工程でAIを使用しているシステム、社内AIツールなどを対象に、AIの出力品質やセキュリティ、運用時のリスクを検証するという。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
   }
 ]
