@@ -1,5 +1,20 @@
 [
   {
+    "id": "907e816ff5fe54bce4d6485c151a7244",
+    "title": "コードが書けなくてもbotアカウントは作れる？ Claude Codeでバイブコーディングしてみた",
+    "link": "https://ascii.jp/elem/000/004/414/4414533/?rss",
+    "summary": "Claude CodeでXのbotアカウントを作ってみた。",
+    "published": "2026-07-04T07:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Claude CodeでXのbotアカウントを作ってみた。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "aa3f818f3581410e5920b18e714971bb",
     "title": "全機種Core Ultra 3に32GBメモリー搭載の軽量モバイルノート「Swift Edge 14 AI」「Swift Go 14 AI」発表",
     "link": "https://ascii.jp/elem/000/004/416/4416259/?rss",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "AGRIST株式会社は、生産者の管理業務における工数削減と人員配置の最適化をサポートする営農支援アプリ「AGRIST Farming Planner（アグリストファーミングプランナー）」を開発したと発表。同社の自社農場にて実運用を始めており、AIによる年間作業計画の作成やシフト調整を通じて、持続可能な農業経営を支援するという。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "aea03b70c3bba899dca6edbea482a186",
-    "title": "複数のAIを使い分ける“司令塔”、Sakana Fuguの実力を試した",
-    "link": "https://ascii.jp/elem/000/004/412/4412978/?rss",
-    "summary": "Sakana AIが公開した「Sakana Fugu」は、1つのAPIで最適なAIモデルを自動的に選んでくれるサービス。モデル選びを任せられるFuguを、Chatboxから実際に呼び出して試した。",
-    "published": "2026-06-30T07:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Sakana AIが公開した「Sakana Fugu」は、1つのAPIで最適なAIモデルを自動的に選んでくれるサービス。モデル選びを任せられるFuguを、Chatboxから実際に呼び出して試した。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
