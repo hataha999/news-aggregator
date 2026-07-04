@@ -1,5 +1,20 @@
 [
   {
+    "id": "5e918868dae6daea811cb2ad7e70eeff",
+    "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
+    "link": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
+    "summary": "中国のビッグテック・アリババ(阿里巴巴)が、AnthropicのAIコーディングツール「Claude Code」はセキュリティリスクが高いとして、従業員による使用を禁止したことがわかりました。続きを読む...",
+    "published": "2026-07-04T23:35:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "中国のビッグテック・アリババ(阿里巴巴)が、AnthropicのAIコーディングツール「Claude Code」はセキュリティリスクが高いとして、従業員による使用を禁止したことがわかりました。続きを読む...",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
     "id": "5b2eb7590c22c72a92a8e690c46415e8",
     "title": "ディスプレイなしのGoogle製フィットネストラッカー「Google Fitbit Air」を使ってみた",
     "link": "https://gigazine.net/news/20260704-google-fitbit/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "48487b2b1de48ed58a2d19631ac5490b",
-    "title": "「“社長AI”って意味ある？」→言った本人も手のひら返し 幹部の9割が高評価したNTTドコモビジネスの「AI小島社長」開発録",
-    "link": "https://www.itmedia.co.jp/news/articles/2606/24/news030.html",
-    "summary": "経営トップの判断や思考をAIで再現する取り組みが、国内の大企業に広がっている。NTTドコモビジネスが開発し、同社幹部の9割が「方針理解に役立った」と評価するという「AI小島社長」に迫る。",
-    "published": "2026-06-30T11:00:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "経営トップの判断や思考をAIで再現する取り組みが、国内の大企業に広がっている。NTTドコモビジネスが開発し、同社幹部の9割が「方針理解に役立った」と評価するという「AI小島社長」に迫る。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
