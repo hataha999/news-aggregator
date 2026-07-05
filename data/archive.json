@@ -1,5 +1,20 @@
 [
   {
+    "id": "c02343afa777c698c549bc91c4055f51",
+    "title": "銀行の窓口係を減らしたのはATMではなくiPhoneだったという指摘",
+    "link": "https://gigazine.net/news/20260705-atm-iphone-bank-tellers/",
+    "summary": "AIが人間の仕事を奪うのかどうかを考える際、「ATMは銀行の窓口係の仕事を奪うと思われたが、実際には窓口係の雇用は減らなかった」という例が挙げられることがあります。しかしライターのデイヴィッド・オクス氏は、銀行の窓口係の雇用を大きく減らしたのはATMではなく、iPhoneとそれによって広がったモバイルバンキングだったと指摘しています。続きを読む...",
+    "published": "2026-07-05T22:45:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIが人間の仕事を奪うのかどうかを考える際、「ATMは銀行の窓口係の仕事を奪うと思われたが、実際には窓口係の雇用は減らなかった」という例が挙げられることがあります。しかしライターのデイヴィッド・オクス氏は、銀行の窓口係の雇用を大きく減らしたのはATMではなく、iPhoneとそれによって広がったモバイルバンキングだったと指摘しています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "3b298d4265fa26d59e8605d45d6f3948",
     "title": "AIと1日8時間超会話 男性の告白",
     "link": "https://news.yahoo.co.jp/pickup/6586831?source=rss",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "91a2828d97b60a52b5d2ceac292d6426",
-    "title": "Claude CodeなどのAIエージェントでComfyUIを使った画像・動画生成の自動化が可能な「Comfy MCP」が登場、Comfy Cloudを使用するので低スペックPCでもOK",
-    "link": "https://gigazine.net/news/20260630-comfy-mcp-comfyui-ai-agent/",
-    "summary": "ComfyUIは数多くの画像生成AIや動画生成AIに対応した生成AI実行環境ですが、使いこなすには「複数のノードを自分で組み合わせてワークフローを構築する」「他人が作成した複雑なワークフローを読み解いて自分好みにカスタムする」といった複雑な作業が必要です。そんな状況を改善するツールとして「Comfy MCP」のパブリックベータ版が発表されました。Comfy MCPを用いることで、Claude CodeやCodexといったAIエージェントを用いてComfyUIを操作できるようになります。続きを読む...",
-    "published": "2026-06-30T12:05:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 3,
-    "ai_summary": "ComfyUIは数多くの画像生成AIや動画生成AIに対応した生成AI実行環境ですが、使いこなすには「複数のノードを自分で組み合わせてワークフローを構築する」「他人が作成した複雑なワークフローを読み解いて自分好みにカスタムする」といった複雑な作業が必要です。そんな状況を改善するツールとして「Comfy MCP」のパブリックベータ版が発表されました。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
