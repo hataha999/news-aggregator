@@ -585,6 +585,21 @@
     "category_priority": 1
   },
   {
+    "id": "94943ce7b19ed9764d71eefc5f253e63",
+    "title": "「小型AIモデル」が世界中の人々を救う可能性を秘めている理由とは？",
+    "link": "https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/",
+    "summary": "近年のAIテクノロジーの発展は目覚ましく、大手テクノロジー企業が膨大なパラメータを持つ大規模なAIモデルを次々と発表しています。その一方で、多くの人々の命や食糧生産を助ける可能性を持つ「小型AIモデル」への注目も集まっていると、国際的な工学学会「IEEE」の機関誌であるIEEE Spectrumが報告しています。続きを読む...",
+    "published": "2026-07-08T08:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "近年のAIテクノロジーの発展は目覚ましく、大手テクノロジー企業が膨大なパラメータを持つ大規模なAIモデルを次々と発表しています。その一方で、多くの人々の命や食糧生産を助ける可能性を持つ「小型AIモデル」への注目も集まっていると、国際的な工学学会「IEEE」の機関誌であるIEEE Spectrumが報告しています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "f2573031de3a0dbf4f5a7ff43e1adaa8",
     "title": "定年後に再雇用されて月18万円、手取りが10万円になる理由と対策",
     "link": "https://news.livedoor.com/article/detail/31768782/",
@@ -2983,20 +2998,5 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
-  },
-  {
-    "id": "af26cf4524a9b1d485cffc3a9e4ca4ff",
-    "title": "Anthropic、Samsungと独自AIチップで協議か 報道受けNVIDIAなど半導体関連株が下落",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
-    "summary": "米メディア「The Information」は7月2日（現地時間）、AI開発の米Anthropicが独自のAIチップの製造委託先として韓国Samsung Electronicsと協議していると報じた。報道を受け、同日の米株式市場ではNVIDIAなど半導体関連株が下落した。",
-    "published": "2026-07-03T13:36:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "米メディア「The Information」は7月2日（現地時間）、AI開発の米Anthropicが独自のAIチップの製造委託先として韓国Samsung Electronicsと協議していると報じた。報道を受け、同日の米株式市場ではNVIDIAなど半導体関連株が下落した。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
