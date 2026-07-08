@@ -1,5 +1,20 @@
 [
   {
+    "id": "3270d060aa55f98892a1a6d22ff4d632",
+    "title": "仕事も遊びもこなせる、32GB・AI・OLEDに1TBを揃えた2-in-1のHPノートが割引中【Amazonプライムデー】",
+    "link": "https://ascii.jp/elem/000/004/417/4417419/?rss",
+    "summary": "HPのノートパソコン「OmniBook X Flip 14-fk（B9DW7PA-AAAA）」がAmazonプライム会員限定で割引対象。参考価格249,700円のところ、12％オフの219,800円で販売中。Ryzen AI 7とメモリ32GB、SSD 1TB、2.8K OLEDディスプレイを備えた2-in-1モデル。",
+    "published": "2026-07-08T20:30:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "HPのノートパソコン「OmniBook X Flip 14-fk（B9DW7PA-AAAA）」がAmazonプライム会員限定で割引対象。参考価格249,700円のところ、12％オフの219,800円で販売中。Ryzen AI 7とメモリ32GB、SSD 1TB、2.8K OLEDディスプレイを備えた2-in-1モデル。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "9ec63a8c093e5be0dcc3b471bc623355",
     "title": "米ドル／円 ―― スイングトレードはロング継続のスタンス",
     "link": "https://zuuonline.com/archives/302443",
@@ -255,6 +270,21 @@
     "category_priority": 2
   },
   {
+    "id": "030e47b4dc694dd440eff533a9d9b027",
+    "title": "フロンティアAI 国際政治の課題に",
+    "link": "https://news.yahoo.co.jp/pickup/6587150?source=rss",
+    "summary": "",
+    "published": "2026-07-08T13:02:40+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "フロンティアAI 国際政治の課題に",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "3519eef0fc61695b74792c6e1c832d3b",
     "title": "Meta 新たな画像生成AIを発表",
     "link": "https://news.yahoo.co.jp/pickup/6587149?source=rss",
@@ -390,6 +420,21 @@
     "category_priority": 2
   },
   {
+    "id": "3fe875697f3367062d7f4759508a7d74",
+    "title": "note上方修正 「AI活用、想定以上」で人件費率低下 2Q累計営業益は「20倍超」に",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news082.html",
+    "summary": "AI活用で生産性が向上。人員数は緩やかに減っており、効率的な事業運営ができているという。",
+    "published": "2026-07-08T11:30:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AI活用で生産性が向上。人員数は緩やかに減っており、効率的な事業運営ができているという。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "58338ff422ae49199c2df58e66e3cbc8",
     "title": "独立記念日の渋滞で大量のWaymoロボタクシーが立ち往生、激しく燃える花火に突っ込むトラブルも発生",
     "link": "https://gigazine.net/news/20260708-waymo-firework/",
@@ -480,6 +525,21 @@
     "category_priority": 1
   },
   {
+    "id": "0f92336eab289d128d73a007a57f8184",
+    "title": "「Claude Fable 5」サブスク、突如5日間延長 ユーザー悲喜こもごも「寝ずに頑張ったのに」「制限リセットして」",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/08/news070.html",
+    "summary": "歓迎の声もある一方で、「睡眠と健康を犠牲にして使い切った直後に延長を知った」「最後の最後で発表するのはやめてくれ」といった恨み節も。",
+    "published": "2026-07-08T09:29:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "歓迎の声もある一方で、「睡眠と健康を犠牲にして使い切った直後に延長を知った」「最後の最後で発表するのはやめてくれ」といった恨み節も。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "f15f9d87c9c67cc9bac8ef24a8f8b111",
     "title": "「ColdFusion」や「Langflow」の脆弱性悪用に注意喚起 - 米当局",
     "link": "https://www.security-next.com/186957",
@@ -492,6 +552,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "900bc067949b3cfda4988ba120294890",
+    "title": "GIGAZINE読者は何オタクなのか？ガジェットやアニメだけではないオタク事情を分析してみた",
+    "link": "https://gigazine.net/news/20260708-gigazine-user-otaku/",
+    "summary": "GIGAZINEではAI・サイエンス・ハードウェア・ソフトウェア・ゲーム・アニメ・映画・食などさまざまなカテゴリの記事を日々掲載しています。「そんなGIGAZINEの記事を読んでいる読者は、もちろん多種多様なオタクであるはず！」ということで、年に3回実施しているGIGAZINE読者アンケートで「あなたは何オタクですか？(複数選択可)」と聞き、その結果をいろいろな角度で分析してみました。続きを読む...",
+    "published": "2026-07-08T09:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "GIGAZINEではAI・サイエンス・ハードウェア・ソフトウェア・ゲーム・アニメ・映画・食などさまざまなカテゴリの記事を日々掲載しています。「そんなGIGAZINEの記事を読んでいる読者は、もちろん多種多様なオタクであるはず！」ということで、年に3回実施しているGIGAZINE読者アンケートで「あなたは何オタクですか？(複数選択可)」と聞き、その結果をいろいろな角度で分析してみました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2923,80 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "6242d762d34dc4ab0e7d6a2387c62e0b",
-    "title": "Little Orbit製GamersFirst Anti-Cheatにおける複数のローカル特権昇格の脆弱性",
-    "link": "https://jvn.jp/vu/JVNVU98406800/",
-    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-    "published": "2026-07-03T13:15:00+09:00",
-    "source": "JVN（脆弱性情報）",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "5ee156491ab97405fbe7c29dabc9f0bd",
-    "title": "OpenAIがアメリカ政府に株式の5％譲渡を計画中との報道、アメリカ政府はGPT-5.6の一般公開を規制中",
-    "link": "https://gigazine.net/news/20260703-openai-stock-government/",
-    "summary": "OpenAIが政治的な障害を取り除くためにアメリカ政府に株式の5％を譲渡することを検討していることが、Financial Timesによって報じられました。OpenAIが2026年3月の資金調達ラウンドで設定した8520億ドル(約137兆円)の評価額に基づくと、5％の株式は約426億ドル(約6兆8000億円)に相当します。続きを読む...",
-    "published": "2026-07-03T12:31:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "OpenAIが政治的な障害を取り除くためにアメリカ政府に株式の5％を譲渡することを検討していることが、Financial Timesによって報じられました。OpenAIが2026年3月の資金調達ラウンドで設定した8520億ドル(約137兆円)の評価額に基づくと、5％の株式は約426億ドル(約6兆8000億円)に相当します。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "aae4cf3a4a4aa1239ad57e007f26ae14",
-    "title": "ワイモバイル、認定中古「iPhone 15」がMNPで3.8万円 「Galaxy A25 5G」などは1円",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2122139.html",
-    "summary": "ソフトバンクは3日、ワイモバイルオンラインストアで対象機種の割引額を変更した。あわせて2回線目以降の契約者向けに「iPhone 16e」の販売も再開した。",
-    "published": "2026-07-03T12:21:25+09:00",
-    "source": "ケータイWatch",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ソフトバンクは3日、ワイモバイルオンラインストアで対象機種の割引額を変更した。あわせて2回線目以降の契約者向けに「iPhone 16e」の販売も再開した。",
-    "category_key": "radio",
-    "category_name": "無線",
-    "category_emoji": "📡",
-    "category_priority": 3
-  },
-  {
-    "id": "0e934e5baf94f18a405e2063fc043bfd",
-    "title": "ASUS、約1.2kgの16型ノート「Zenbook SORA 16」にメモリ24GBモデル追加",
-    "link": "https://ascii.jp/elem/000/004/415/4415976/?rss",
-    "summary": "ASUSは、16型ながら約1.2kgの軽量ノートPC「Zenbook SORA 16」にメモリ24GB搭載の新モデルを追加。Snapdragon X2 Eliteや有機ELディスプレイを備え、AI活用やマルチタスク性能を強化した最新モデルの特徴を紹介します。",
-    "published": "2026-07-03T12:15:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ASUSは、16型ながら約1.2kgの軽量ノートPC「Zenbook SORA 16」にメモリ24GB搭載の新モデルを追加。Snapdragon X2 Eliteや有機ELディスプレイを備え、AI活用やマルチタスク性能を強化した最新モデルの特徴を紹介します。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "c7ec04e8011d1b0bf55dc77e09e6c61f",
-    "title": "退職前後のねんきん定期便を比べてみたら…会社を早期退職した人に悲劇",
-    "link": "https://news.livedoor.com/article/detail/31728892/",
-    "summary": "ざっくり言うと 50代おひとりさまのちゃあが早期退職後の年金額をYouTubeで公開した 52歳退職で月額が16万4243円から14万638円へと減少したという 減少分は自己資産で補填しつつ複数収入源を目指すと語っているとのこと 記事を読む",
-    "published": "2026-07-03T12:00:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 50代おひとりさまのちゃあが早期退職後の年金額をYouTubeで公開した 52歳退職で月額が16万4243円から14万638円へと減少したという 減少分は自己資産で補填しつつ複数収入源を目指すと語っているとのこと 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
