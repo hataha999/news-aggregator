@@ -510,6 +510,21 @@
     "category_priority": 1
   },
   {
+    "id": "21227ce7092d461d91003f740e135477",
+    "title": "Metaが常時録画機能を備えたAIグラスを開発中との報道",
+    "link": "https://gigazine.net/news/20260709-meta-develope-smart-glasses-recording-all-time/",
+    "summary": "Metaが常にカメラで映像を録画することができるAIグラスを開発中であると、イギリスの経済紙であるFinancial Timesが報じています。続きを読む...",
+    "published": "2026-07-09T10:42:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Metaが常にカメラで映像を録画することができるAIグラスを開発中であると、イギリスの経済紙であるFinancial Timesが報じています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "f1fd612dac1ea09a36275b34bc3611ca",
     "title": "ExcelからAIを呼び出せば、自然言語で数式やエラー原因が解析できてとても便利！ 「Claude for Excel」ならここまでできる",
     "link": "https://ascii.jp/elem/000/004/415/4415931/?rss",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "AI時代のマッチングアプリ「ヨイトキ（Yoitoki）」、街頭インタビュー企画を開始",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "a8bb55a01bb80015e6fac851c3c1568a",
-    "title": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
-    "link": "https://ascii.jp/elem/000/004/416/4416327/?rss",
-    "summary": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
-    "published": "2026-07-05T10:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AI時代のマッチングアプリでは、デート聖地選びも“相性確認”へ",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
