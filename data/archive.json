@@ -1,5 +1,20 @@
 [
   {
+    "id": "bb82153ac93394b40010992794c01ee5",
+    "title": "RTX50搭載の16型で2kgを切る薄型軽量の高性能ノートPC「AERO X16シリーズ」発表",
+    "link": "https://ascii.jp/elem/000/004/418/4418725/?rss",
+    "summary": "GIGABYTEはAMD Ryzen AIとGeForce RTX50を搭載した、薄型・軽量の16.0型AIノートPC「GIGABYTE AERO X16シリーズ」2モデルを発表しました",
+    "published": "2026-07-11T06:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "GIGABYTEはAMD Ryzen AIとGeForce RTX50を搭載した、薄型・軽量の16.0型AIノートPC「GIGABYTE AERO X16シリーズ」2モデルを発表しました",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "61280fa47135ea8aa30a27181fa14008",
     "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
     "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
@@ -2983,20 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "ab08873483c278089e83aa89d4e38363",
-    "title": "上昇続く長期金利 一時2.83%に",
-    "link": "https://news.yahoo.co.jp/pickup/6586936?source=rss",
-    "summary": "",
-    "published": "2026-07-06T15:38:09+09:00",
-    "source": "Yahoo!ニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "上昇続く長期金利 一時2.83%に",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
