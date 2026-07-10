@@ -435,6 +435,21 @@
     "category_priority": 2
   },
   {
+    "id": "194a6f31f0651339ab11a6338f7c07b6",
+    "title": "OpenAIのフィジ・シモ氏、フルタイムの役職を退任――慢性疾患の療養に専念",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news079.html",
+    "summary": "OpenAIでAGI導入担当CEOを務めるフィジ・シモ氏が、フルタイムの役職を退き、パートタイムのアドバイザーに移行すると自身のXで明らかにした。7年前から抱える慢性疾患の療養に専念するためで、今後はAIによる疾病の治療などに取り組むという。アルトマンCEOは「本当に悲しい」とコメントした。",
+    "published": "2026-07-10T09:31:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIでAGI導入担当CEOを務めるフィジ・シモ氏が、フルタイムの役職を退き、パートタイムのアドバイザーに移行すると自身のXで明らかにした。7年前から抱える慢性疾患の療養に専念するためで、今後はAIによる疾病の治療などに取り組むという。アルトマンCEOは「本当に悲しい」とコメントした。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "6abbe81a8940e2875ee8db9c489b3a9d",
     "title": "「Cisco ISE」や「RoomOS」に脆弱性 - 7月15日に修正予定",
     "link": "https://www.security-next.com/187111",
@@ -447,6 +462,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "e4fecedc6ae29d8e49b5a3bee5d4a99d",
+    "title": "Anthropic、バーナンキ元FRB議長を独立監督機関に招へい――AIが経済に与える影響を注視",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/10/news074.html",
+    "summary": "Anthropicは、同社の独立監督機関LTBTの新メンバーに、元FRB議長のベン・バーナンキ氏を任命したと発表した。LTBTは、営利企業でありながら公益の追求を掲げるAnthropic独自のガバナンス構造の中核を担う組織。バーナンキ氏はAIが経済に与える影響に関する知見を提供する。",
+    "published": "2026-07-10T09:00:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Anthropicは、同社の独立監督機関LTBTの新メンバーに、元FRB議長のベン・バーナンキ氏を任命したと発表した。LTBTは、営利企業でありながら公益の追求を掲げるAnthropic独自のガバナンス構造の中核を担う組織。バーナンキ氏はAIが経済に与える影響に関する知見を提供する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "8d5ef4cda7149b5e64e8fece7f635872",
-    "title": "「WinRAR」に脆弱性、過去の問題に類似 - 修正版をリリース",
-    "link": "https://www.security-next.com/186847",
-    "summary": "ファイルアーカイブソフト「WinRAR」にあらたな脆弱性が判明したとし、現地時間2026年6月30日にセキュリティアップデートがリリースされた。サードパーティ製ライブラリの更新も行っている。",
-    "published": "2026-07-06T14:28:43+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ファイルアーカイブソフト「WinRAR」にあらたな脆弱性が判明したとし、現地時間2026年6月30日にセキュリティアップデートがリリースされた。サードパーティ製ライブラリの更新も行っている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "0a2e4a57a03ad0d04257f523c816c7d7",
-    "title": "Sakana AI、敬語もネットスラングも“温度感そのまま”で訳す無料翻訳機能「Sakana Translate」 日英中に対応",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/06/news089.html",
-    "summary": "Sakana AIは7月6日、チャットサービス「Sakana Chat」で翻訳機能「Sakana Translate」の提供を始めた。日本語・英語・中国語の相互翻訳に対応し、翻訳・添削・質疑の3モードをアカウント登録だけで無料で使える。",
-    "published": "2026-07-06T13:59:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Sakana AIは7月6日、チャットサービス「Sakana Chat」で翻訳機能「Sakana Translate」の提供を始めた。日本語・英語・中国語の相互翻訳に対応し、翻訳・添削・質疑の3モードをアカウント登録だけで無料で使える。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
