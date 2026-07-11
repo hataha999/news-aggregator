@@ -1,5 +1,20 @@
 [
   {
+    "id": "d7e7c76b2187bb540a0477ee7bf29f68",
+    "title": "AirPods 4（アクティブノイズキャンセリング搭載）がAmazonプライムデーで23,800円に！会話中も使いやすい快適イヤホン",
+    "link": "https://ascii.jp/elem/000/004/418/4418025/?rss",
+    "summary": "AmazonプライムデーでAppleの人気ワイヤレスイヤホン『AirPods 4（アクティブノイズキャンセリング搭載モデル）』が23,800円に。快適な装着感で会話も外さず可能、外部音取り込みモードや充電ケースのワイヤレス充電対応も魅力です。",
+    "published": "2026-07-12T00:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AmazonプライムデーでAppleの人気ワイヤレスイヤホン『AirPods 4（アクティブノイズキャンセリング搭載モデル）』が23,800円に。快適な装着感で会話も外さず可能、外部音取り込みモードや充電ケースのワイヤレス充電対応も魅力です。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "2ac65398dfb02411c106aa4c86e05b7c",
     "title": "インスタのAI画像生成 3日で廃止",
     "link": "https://news.yahoo.co.jp/pickup/6587580?source=rss",
@@ -2983,20 +2998,5 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
-  },
-  {
-    "id": "5e972c4caf0be9d9b9c222f71d8809c7",
-    "title": "【Amazonプライムデー】13インチiPad Air（M3）が11万円台に！",
-    "link": "https://ascii.jp/elem/000/004/416/4416685/?rss",
-    "summary": "7月7日スタートのAmazonプライムデー先行セールで、13インチiPad Air（M3）Wi-Fi + Cellularモデルがお得な価格で販売中。大画面iPadを狙っていた人は要チェックです。",
-    "published": "2026-07-07T00:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "7月7日スタートのAmazonプライムデー先行セールで、13インチiPad Air（M3）Wi-Fi + Cellularモデルがお得な価格で販売中。大画面iPadを狙っていた人は要チェックです。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
