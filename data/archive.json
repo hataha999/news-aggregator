@@ -1,5 +1,20 @@
 [
   {
+    "id": "7f1eaf8d76d43bd09376d8b98a83a2ce",
+    "title": "家中の状況をまとめて見守るSwitchBot AIハブ、セール価格でスマートホーム環境を強化【Amazonプライムデー】",
+    "link": "https://ascii.jp/elem/000/004/418/4418602/?rss",
+    "summary": "SwitchBotの次世代中枢「AIハブ」がプライムデーセールで値下げ。過去価格39,980円から15%オフの33,980円に。カメラ連携で出来事の把握や映像検索、ローカル保存などをまとめて管理。",
+    "published": "2026-07-12T23:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "SwitchBotの次世代中枢「AIハブ」がプライムデーセールで値下げ。過去価格39,980円から15%オフの33,980円に。カメラ連携で出来事の把握や映像検索、ローカル保存などをまとめて管理。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "c5ed94d7a5dcdaacad785cd1b86d2fa2",
     "title": "iPhone Air 256GBが139,800円に！、ほぼラストチャンスの予感／Amazon",
     "link": "https://ascii.jp/elem/000/004/418/4418857/?rss",
@@ -2978,21 +2993,6 @@
     "source": "JVN（脆弱性情報）",
     "lang": "ja",
     "_score": 2,
-    "ai_summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "d7e4363c62319478801382c0185c89d3",
-    "title": "HP Deskjet 2800プリンターシリーズにおける認証不備の脆弱性",
-    "link": "https://jvn.jp/vu/JVNVU90409906/",
-    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-    "published": "2026-07-07T11:15:00+09:00",
-    "source": "JVN（脆弱性情報）",
-    "lang": "ja",
-    "_score": 1,
     "ai_summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
     "category_key": "security",
     "category_name": "セキュリティ",
