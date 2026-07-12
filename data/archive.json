@@ -15,6 +15,36 @@
     "category_priority": 2
   },
   {
+    "id": "c9e19bc7d9731d9894f49c8630b42412",
+    "title": "「設置するだけでAI検索に引用される」AEO対策SaaS「PUENTE AEO Booster」を正式リリース ── 登録不要の無料AI可読性診断も公開",
+    "link": "https://ascii.jp/elem/000/004/418/4418814/?rss",
+    "summary": "「設置するだけでAI検索に引用される」AEO対策SaaS「PUENTE AEO Booster」を正式リリース ── 登録不要の無料AI可読性診断も公開",
+    "published": "2026-07-11T20:04:21+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「設置するだけでAI検索に引用される」AEO対策SaaS「PUENTE AEO Booster」を正式リリース ── 登録不要の無料AI可読性診断も公開",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "a33ec9058a5386c8465fad41e3bc7498",
+    "title": "株式会社Mavericks、動画生成AI「NoLang」のAPIに多言語変換機能を追加。生成済み動画のナレーションと字幕を最大34言語へ一括変換し、海外向け動画制作・更新業務を自動化、海外展開を支援。",
+    "link": "https://ascii.jp/elem/000/004/418/4418815/?rss",
+    "summary": "株式会社Mavericks、動画生成AI「NoLang」のAPIに多言語変換機能を追加。生成済み動画のナレーションと字幕を最大34言語へ一括変換し、海外向け動画制作・更新業務を自動化、海外展開を支援。",
+    "published": "2026-07-11T19:31:09+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "株式会社Mavericks、動画生成AI「NoLang」のAPIに多言語変換機能を追加。生成済み動画のナレーションと字幕を最大34言語へ一括変換し、海外向け動画制作・更新業務を自動化、海外展開を支援。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "2ac65398dfb02411c106aa4c86e05b7c",
     "title": "インスタのAI画像生成 3日で廃止",
     "link": "https://news.yahoo.co.jp/pickup/6587580?source=rss",
@@ -2967,36 +2997,6 @@
     "category_key": "radio",
     "category_name": "無線",
     "category_emoji": "📡",
-    "category_priority": 3
-  },
-  {
-    "id": "a82679135c62efbc26f9313dfd9cbe3b",
-    "title": "【プライムデー】iPhone Airは2万円引きで13万9800円から、1TBモデルは6万円引き これは大バーゲンです！",
-    "link": "https://ascii.jp/elem/000/004/416/4416690/?rss",
-    "summary": "Amazonプライムセールの先行セールが開始。その目玉として予告されていたiPhone Airですが、なんと2万円引きの13万9800円から！ さらに512GBモデルは3万8000円、1TBモデルは6万円引き。これは大バーゲンです！",
-    "published": "2026-07-07T01:15:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Amazonプライムセールの先行セールが開始。その目玉として予告されていたiPhone Airですが、なんと2万円引きの13万9800円から！ さらに512GBモデルは3万8000円、1TBモデルは6万円引き。これは大バーゲンです！",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "49de0b06985015c5f4431800ae036160",
-    "title": "お掃除ロボット最新モデルが過去最安値=Amazonプライムデーでルンバが最大65%OFF",
-    "link": "https://ascii.jp/elem/000/004/416/4416670/?rss",
-    "summary": "今回のセールでは5月に発売されたばかりの最新モデルが過去最安値で登場するほか、日本の住環境に最適化されたモデルなど、計4機種がラインナップされています",
-    "published": "2026-07-07T00:01:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "今回のセールでは5月に発売されたばかりの最新モデルが過去最安値で登場するほか、日本の住環境に最適化されたモデルなど、計4機種がラインナップされています",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
     "category_priority": 3
   }
 ]
