@@ -1,5 +1,20 @@
 [
   {
+    "id": "8aa8b71ba51901f5544c9494a55ba78a",
+    "title": "ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告",
+    "link": "https://gigazine.net/news/20260715-russian-state-hackers-target-routers/",
+    "summary": "ロシア連邦保安庁(FSB)第16センターに関連する攻撃者が、世界各地でルーターに不正アクセスして通信やエネルギーなどの重要インフラを狙い続けているとして、アメリカ国家安全保障局(NSA)、サイバーセキュリティ・社会基盤安全保障庁(CISA)、連邦捜査局(FBI)など13カ国の19機関が共同勧告を発表しました。続きを読む...",
+    "published": "2026-07-15T06:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "ロシア連邦保安庁(FSB)第16センターに関連する攻撃者が、世界各地でルーターに不正アクセスして通信やエネルギーなどの重要インフラを狙い続けているとして、アメリカ国家安全保障局(NSA)、サイバーセキュリティ・社会基盤安全保障庁(CISA)、連邦捜査局(FBI)など13カ国の19機関が共同勧告を発表しました。続きを読む...",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
     "id": "8cba5f48fb36b091ba11e5b797d969d5",
     "title": "サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請",
     "link": "https://gigazine.net/news/20260714-zego-insolvency/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "ユニクロのチャリティーTシャツプロジェクト「PEACE FOR ALL」で販売されているAkamai コラボデザインのTシャツには謎の文字列が書かれています。この文字列にある秘密が隠されていたとエンジニアのTristan Sherliker氏が自身のブログで報告しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "3f4e5932704b4834b197a5456da05a07",
-    "title": "「快活CLUB」へのサイバー攻撃、18歳男を新たに逮捕 ChatGPT製プログラムを使用 グループには当時小6も 報道",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/09/news103.html",
-    "summary": "複合カフェ「快活CLUB」の運営会社がサイバー攻撃を受けた事件で、警視庁サイバー犯罪対策課が新たに18歳の会社員の男を逮捕したことが分かった。読売新聞オンラインなど複数のメディアが7月9日までに報じた。",
-    "published": "2026-07-09T13:44:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "複合カフェ「快活CLUB」の運営会社がサイバー攻撃を受けた事件で、警視庁サイバー犯罪対策課が新たに18歳の会社員の男を逮捕したことが分かった。読売新聞オンラインなど複数のメディアが7月9日までに報じた。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
