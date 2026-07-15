@@ -1,5 +1,20 @@
 [
   {
+    "id": "7e68e889827df4a4c295b5aa4dc71041",
+    "title": "AIの守りはAIの攻撃で鍛える、オープンAIが「LLMハッカー」を開発",
+    "link": "https://ascii.jp/elem/000/004/420/4420007/?rss",
+    "summary": "オープンAIは、他のLLMを攻撃する「超高度ハッカー」GPT-Redを開発した。攻撃役のAIと防御役のAIを何度も戦わせる訓練を通じて、GPT-5.6は同社史上最も堅牢なモデルになったという。",
+    "published": "2026-07-16T05:58:11+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "オープンAIは、他のLLMを攻撃する「超高度ハッカー」GPT-Redを開発した。攻撃役のAIと防御役のAIを何度も戦わせる訓練を通じて、GPT-5.6は同社史上最も堅牢なモデルになったという。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "284b3a90e91a1721f212bd10307933b5",
     "title": "年金月15万円の人がiDeCoを分割受取すると税負担が増える理由",
     "link": "https://news.livedoor.com/article/detail/31835035/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "Appleは、自社の営業秘密を不正に取得したとして、元従業員2人とOpenAIおよびその傘下企業を提訴した。iPhoneなどの開発情報がハードウェア参入を進めるOpenAIに流出したと主張。面接での機密情報の聞き出しや組織的な引き抜きを指摘し、損害賠償などを求めている。なお、AI機能での提携とは無関係としている。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "7eeaf9f7223d1b373e4fffdefe830895",
-    "title": "3つの自己免疫疾患を抱える女性が免疫系の「リセット」治療で寛解状態に",
-    "link": "https://gigazine.net/news/20260711-car-t-therapy-remission/",
-    "summary": "特定のターゲットを攻撃するように患者の細胞を改造する「CAR-T細胞療法」で、難治性の病気「自己免疫性溶血性貧血(AIHA)」を抱えていた患者が寛解したと科学者らが発表しました。この患者は毎日輸血を必要としていましたが、治療後は1年以上にわたり輸血不要の状態が続いているとのことです。続きを読む...",
-    "published": "2026-07-11T08:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "特定のターゲットを攻撃するように患者の細胞を改造する「CAR-T細胞療法」で、難治性の病気「自己免疫性溶血性貧血(AIHA)」を抱えていた患者が寛解したと科学者らが発表しました。この患者は毎日輸血を必要としていましたが、治療後は1年以上にわたり輸血不要の状態が続いているとのことです。続きを読む...",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
