@@ -1,5 +1,20 @@
 [
   {
+    "id": "4c48e25b1db4c92ca2b4bf684da18e1f",
+    "title": "Google検索の「AIモード」、検索結果からそのままアプリで作業可能に CanvaやYouTube Musicなど",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/17/news061.html",
+    "summary": "Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナライズされた回答を提示する。",
+    "published": "2026-07-17T06:51:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Googleは、検索の「AIモード」で外部アプリと直接連携できる機能の提供を開始した。まずは米国で順次展開し、Canva、YouTube Music、Instacartに対応する。検索結果から離れずにデザイン作成やカート追加などのタスクを完了できる。「Personal Intelligence」と組み合わせ、パーソナライズされた回答を提示する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "f5fb85f1757c2867eeb2cb1dfa6daedd",
     "title": "[石川温の「スマホ業界 Watch」]ターゲットは「楽天」と「ahamo」。通信品質と値上げの隙を突く、UQ・ワイモバイル新割引の狙い",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2125908.html",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "「Interop Tokyo 2026」のCato Networks紹介ブースでは、昨年Catoが買収したAim Securityのテクノロジーを統合した「Cato AI Security」が紹介されていた。Aim Security 共同創業者のマタン・ゲッツ氏、アディール・グラス氏に、これからのAIセキュリティの必要性や、Catoが提供するAIセキュリティの特徴などを聞いた。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "7d58aaea3f8660db36e9b221b53c889f",
-    "title": "情報流出の可能性、影響など調査 - テレビ朝日子会社",
-    "link": "https://www.security-next.com/187218",
-    "summary": "デジタルコンテンツの制作を手がけるテレビ朝日メディアプレックスは、サイバー攻撃により個人情報が流出した可能性があることを明らかにした。",
-    "published": "2026-07-13T10:38:54+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "デジタルコンテンツの制作を手がけるテレビ朝日メディアプレックスは、サイバー攻撃により個人情報が流出した可能性があることを明らかにした。",
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
