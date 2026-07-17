@@ -1,5 +1,20 @@
 [
   {
+    "id": "44c982c3dc84ec3f69db3f2b9e89993c",
+    "title": "メジャーリーグで「ベンチ内でiPadを使って生成AIにアクセスする行為」が禁止に",
+    "link": "https://gigazine.net/news/20260718-mlb-dugout-ipad-ai/",
+    "summary": "2016年からMLB全チームのベンチに配備されているiPadについて、複数チームが試合中の戦略立案支援に利用しているとして、生成AIへのアクセスを禁止する措置が執られたことがわかりました。続きを読む...",
+    "published": "2026-07-18T06:30:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "2016年からMLB全チームのベンチに配備されているiPadについて、複数チームが試合中の戦略立案支援に利用しているとして、生成AIへのアクセスを禁止する措置が執られたことがわかりました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "2ac6e8b189ce69aa24f291ca17d148a4",
     "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
     "link": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
@@ -2982,21 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "a6076ef783379c8acfa2637e1d258062",
-    "title": "JPCERT/CC、オムロンPSIRTに感謝状 - 製品セキュリティ向上に貢献",
-    "link": "https://www.security-next.com/187238",
-    "summary": "JPCERTコーディネーションセンター（JPCERT/CC）は、サイバーセキュリティ対策活動に貢献したオムロンPSIRTに感謝状を贈呈した。",
-    "published": "2026-07-14T11:43:11+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "JPCERTコーディネーションセンター（JPCERT/CC）は、サイバーセキュリティ対策活動に貢献したオムロンPSIRTに感謝状を贈呈した。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
