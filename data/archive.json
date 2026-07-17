@@ -1,5 +1,20 @@
 [
   {
+    "id": "2ac6e8b189ce69aa24f291ca17d148a4",
+    "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+    "summary": "米Appleは7月18日、国内のApple Storeにおいて、iPhone／Apple Watch／AirPodsを値上げした。同社は6月にもMac製品の値上げを行っていたが、iPhoneなどは対象外となっていた。ただ、海外のApple Storeでは価格改定されておらず、今回の値上げは為替修正によるものと見られる。",
+    "published": "2026-07-18T01:50:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米Appleは7月18日、国内のApple Storeにおいて、iPhone／Apple Watch／AirPodsを値上げした。同社は6月にもMac製品の値上げを行っていたが、iPhoneなどは対象外となっていた。ただ、海外のApple Storeでは価格改定されておらず、今回の値上げは為替修正によるものと見られる。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "d31007609611507566d921b63a99095c",
     "title": "AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明",
     "link": "https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/",
@@ -2983,20 +2998,5 @@
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
     "category_priority": 2
-  },
-  {
-    "id": "a61e8b4bee6851347ceaa42904571b7a",
-    "title": "65歳定年男性が退職金とiDeCoを同時受給し、想定外の重税を負った",
-    "link": "https://news.livedoor.com/article/detail/31820018/",
-    "summary": "ざっくり言うと 65歳で定年退職したハヤシさん（仮名）のiDeCo出口戦略の失敗事例を紹介 退職金2,600万円とiDeCo一時金1,100万円を同年に受け取り控除枠が合算された 税負担は180万円前後にのぼるとみられ、受取時期の設計の重要性が示された 記事を読む",
-    "published": "2026-07-14T11:30:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ざっくり言うと 65歳で定年退職したハヤシさん（仮名）のiDeCo出口戦略の失敗事例を紹介 退職金2,600万円とiDeCo一時金1,100万円を同年に受け取り控除枠が合算された 税負担は180万円前後にのぼるとみられ、受取時期の設計の重要性が示された 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
