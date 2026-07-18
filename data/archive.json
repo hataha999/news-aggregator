@@ -1,5 +1,20 @@
 [
   {
+    "id": "d7f9bcf63b808a351ecb57aa52603cb2",
+    "title": "夫のトレーディングカードを売ったら50万円 確定申告は必要？",
+    "link": "https://news.livedoor.com/article/detail/31858499/",
+    "summary": "ざっくり言うと トレーディングカードが50万円で売れた際の税金の考え方を解説 課税対象になるのは売却額ではなく購入価格との差額による利益であり 譲渡所得の特別控除50万円の範囲内なら確定申告が不要な場合もある 記事を読む",
+    "published": "2026-07-18T13:00:27+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと トレーディングカードが50万円で売れた際の税金の考え方を解説 課税対象になるのは売却額ではなく購入価格との差額による利益であり 譲渡所得の特別控除50万円の範囲内なら確定申告が不要な場合もある 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "5cd2e825981bba0e718be493bc843c34",
     "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
     "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "a8549e9cca9d0c68e0b498c6c2c96e76",
-    "title": "サイバー攻撃で悪用される脆弱性の特徴とは？ 事例から学ぶ脆弱性対策のポイント",
-    "link": "https://ascii.jp/elem/000/004/418/4418522/?rss",
-    "summary": "SMSを悪用したフィッシング（スミッシング）、LINEやビジネスチャットを悪用した「CEO詐欺」など、サイバー攻撃の手法が拡大しています。エスカとレン、そふくリスが最新のサイバーセキュリティ動向を解説します。",
-    "published": "2026-07-14T14:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 4,
-    "ai_summary": "SMSを悪用したフィッシング（スミッシング）、LINEやビジネスチャットを悪用した「CEO詐欺」など、サイバー攻撃の手法が拡大しています。エスカとレン、そふくリスが最新のサイバーセキュリティ動向を解説します。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
   }
 ]
