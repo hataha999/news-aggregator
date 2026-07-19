@@ -270,6 +270,21 @@
     "category_priority": 1
   },
   {
+    "id": "3d0b5a7facde8901efccf5ea436fabb9",
+    "title": "世界的な「抹茶」ブーム、煎茶などの「緑茶」の生産にも影響",
+    "link": "https://news.livedoor.com/article/detail/31860508/",
+    "summary": "ざっくり言うと 世界的な抹茶ブームが日本の緑茶市場にも影響を与えている 煎茶農家が「てん茶」生産に移行し、国産茶葉が2～3倍に高騰したとのこと 輸入茶葉由来の茶エキス使用増加で、表示制度の改善が必要との指摘がある 記事を読む",
+    "published": "2026-07-18T19:56:01+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 世界的な抹茶ブームが日本の緑茶市場にも影響を与えている 煎茶農家が「てん茶」生産に移行し、国産茶葉が2～3倍に高騰したとのこと 輸入茶葉由来の茶エキス使用増加で、表示制度の改善が必要との指摘がある 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "d8af657911302e9709bea1cfd852fccc",
     "title": "無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」",
     "link": "https://gigazine.net/news/20260718-sync-in/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "5c5a80fa079a869d7b2972f2de07fab7",
-    "title": "銀河怪獣やっつけて帰ってきたら地球が凍り付いていた件について。主人公と登場するロボットの友情物語『スノウボールアース』",
-    "link": "https://ascii.jp/elem/000/004/419/4419307/?rss",
-    "summary": "これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第32回はSF×怪獣×ロボットアニメ『スノウボールアース』",
-    "published": "2026-07-14T19:30:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第32回はSF×怪獣×ロボットアニメ『スノウボールアース』",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
   }
 ]
