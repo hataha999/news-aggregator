@@ -1,5 +1,20 @@
 [
   {
+    "id": "c62e93998814005f44f8321a0214ae6f",
+    "title": "年収1400万円の55歳元部長が早期退職を選び、ハローワークで直面した現実",
+    "link": "https://news.livedoor.com/article/detail/31873270/",
+    "summary": "ざっくり言うと 年収約1,400万円の55歳部長・藤原さん（仮名）の事例を紹介 社長交代を機に専門職制度が廃止され早期退職を選ぶことになった ハローワークでは現場スキルを問われ大企業の肩書が通用しなかった 記事を読む",
+    "published": "2026-07-21T05:15:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 年収約1,400万円の55歳部長・藤原さん（仮名）の事例を紹介 社長交代を機に専門職制度が廃止され早期退職を選ぶことになった ハローワークでは現場スキルを問われ大企業の肩書が通用しなかった 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "9d9ab32a92b90ad220c11ba1646bd638",
     "title": "WordPress.comの「Studio Code」ベータ版がデスクトップ版で無料利用可能なので試しに使ってみたレビュー",
     "link": "https://gigazine.net/news/20260720-studio-code/",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "da9b0e930ffa43f6fd91bd69964f0f18",
-    "title": "ChatGPT、ワールドカップの勝敗予想に予測市場「Kalshi」のデータを反映開始",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/15/news060.html",
-    "summary": "OpenAIは、予測市場を運営するKalshiの予想データを、ChatGPTのワールドカップ関連の回答に反映し始めた。特定の試合の勝敗予想を尋ねると、Kalshiのデータに基づく勝利予想グラフが表示される仕組み。ChatGPTのヘルプページにも記述が追加されており、チャット上での賭け行為はできないとしている。",
-    "published": "2026-07-15T08:09:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "OpenAIは、予測市場を運営するKalshiの予想データを、ChatGPTのワールドカップ関連の回答に反映し始めた。特定の試合の勝敗予想を尋ねると、Kalshiのデータに基づく勝利予想グラフが表示される仕組み。ChatGPTのヘルプページにも記述が追加されており、チャット上での賭け行為はできないとしている。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
