@@ -1,5 +1,20 @@
 [
   {
+    "id": "bb3a65d1ad193f07b9316b01e76569bd",
+    "title": "生成AI利用経験者 24年度から倍増",
+    "link": "https://news.yahoo.co.jp/pickup/6589191?source=rss",
+    "summary": "",
+    "published": "2026-07-24T23:23:36+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "生成AI利用経験者 24年度から倍増",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "90af2f80b09d5a7a918181fe21dacaa9",
     "title": "Switch 2ユーザー必携！ 本体やアクセサリー、AirTagも収納できるBelkin製収納ケースが3620円",
     "link": "https://ascii.jp/elem/000/004/422/4422177/?rss",
@@ -657,6 +672,36 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "cbe45a7133aadd571702d46b5ee6db19",
+    "title": "Meta、AI楽観論のブランドキャンペーン開始──BGMはなぜかボウイの終末ソング",
+    "link": "https://www.itmedia.co.jp/news/articles/2607/24/news063.html",
+    "summary": "MetaがAIに対する楽観的なビジョンを打ち出すブランドキャンペーンを開始した。マーク・ザッカーバーグCEOは「未来は全員のものだ」と投稿し、45秒の動画広告は「AIが人々のつながりを弱めると言う人もいるが、まったく同意できない」と反論する。だが、BGMに採用されたのはデビッド・ボウイが世界の終末を歌った「Five Years」だった。",
+    "published": "2026-07-24T10:37:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "MetaがAIに対する楽観的なビジョンを打ち出すブランドキャンペーンを開始した。マーク・ザッカーバーグCEOは「未来は全員のものだ」と投稿し、45秒の動画広告は「AIが人々のつながりを弱めると言う人もいるが、まったく同意できない」と反論する。だが、BGMに採用されたのはデビッド・ボウイが世界の終末を歌った「Five Years」だった。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "b29e6bc8fbc91776b7cbd929abc15509",
+    "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
+    "link": "https://gigazine.net/news/20260724-geekbench-7/",
+    "summary": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。続きを読む...",
+    "published": "2026-07-24T10:34:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2953,50 +2998,5 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
-  },
-  {
-    "id": "b78068669d30caa734bd45a5356f843e",
-    "title": "AIホストとの対話で企業の\"今\"をひもとく。株式会社PRefully、対話型Podcast番組「PRefullyのPlayful days」配信開始",
-    "link": "https://ascii.jp/elem/000/004/421/4421087/?rss",
-    "summary": "AIホストとの対話で企業の\"今\"をひもとく。株式会社PRefully、対話型Podcast番組「PRefullyのPlayful days」配信開始",
-    "published": "2026-07-21T17:30:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIホストとの対話で企業の\"今\"をひもとく。株式会社PRefully、対話型Podcast番組「PRefullyのPlayful days」配信開始",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "c82c5ccbcc4030ec8f091afdbcb9617a",
-    "title": "イスラエルはアメリカの世論を誘導する影響力工作に多額の資金を費やしてAIメッセージやインフルエンサーを利用している",
-    "link": "https://gigazine.net/news/20260721-israel-influence-campaign-ai-american-opinion/",
-    "summary": "イスラエルは長期間にわたりパレスチナ・ガザ地区に攻撃を続けており、アメリカとイランの戦闘終結に向けた交渉にも影響を及ぼしています。アメリカ国民による反イスラエル感情が高まる中、イスラエルが多額の資金を費やしてAIやインフルエンサーを動員し、アメリカの世論をイスラエル有利に誘導しようと働きかけていることが、経済紙のウォール・ストリート・ジャーナルによって報じられました。続きを読む...",
-    "published": "2026-07-21T16:10:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "イスラエルは長期間にわたりパレスチナ・ガザ地区に攻撃を続けており、アメリカとイランの戦闘終結に向けた交渉にも影響を及ぼしています。アメリカ国民による反イスラエル感情が高まる中、イスラエルが多額の資金を費やしてAIやインフルエンサーを動員し、アメリカの世論をイスラエル有利に誘導しようと働きかけていることが、経済紙のウォール・ストリート・ジャーナルによって報じられました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "5831b2c1ab3e3df503c9a49ce1c968d5",
-    "title": "AIで作ったアプリのセキュリティチェックから本番公開までを支援する「Safership」を正式リリース―株式会社プリファードと株式会社マイトラシス",
-    "link": "https://ascii.jp/elem/000/004/421/4421071/?rss",
-    "summary": "AIで作ったアプリのセキュリティチェックから本番公開までを支援する「Safership」を正式リリース―株式会社プリファードと株式会社マイトラシス",
-    "published": "2026-07-21T16:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIで作ったアプリのセキュリティチェックから本番公開までを支援する「Safership」を正式リリース―株式会社プリファードと株式会社マイトラシス",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
   }
 ]
