@@ -1,5 +1,20 @@
 [
   {
+    "id": "0e81028758f89af4038500ebc9b78086",
+    "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
+    "link": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
+    "summary": "自動運転技術を用いたロボタクシーを運用しているWaymoが、2023年10月以来続いている配車サービス大手・Uberとの提携解消を検討していることがわかりました。続きを読む...",
+    "published": "2026-07-25T22:50:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "自動運転技術を用いたロボタクシーを運用しているWaymoが、2023年10月以来続いている配車サービス大手・Uberとの提携解消を検討していることがわかりました。続きを読む...",
+    "category_key": "robotics",
+    "category_name": "ロボット",
+    "category_emoji": "🦾",
+    "category_priority": 3
+  },
+  {
     "id": "983f100905fe6fe178aca43d98bdacf2",
     "title": "株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表",
     "link": "https://ascii.jp/elem/000/004/422/4422237/?rss",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 2,
     "ai_summary": "現地時間の2026年7月20日、AI開発企業のAnthropicがAIトレーニングに海賊版サイトのデータを使ったとして作家グループに訴えられた裁判で、Anthropicと原告の和解案をカリフォルニア州北部地区連邦地方裁判所が承認しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "2cbb53e180e8ea83cc535e2b74eaa0a5",
-    "title": "GoogleのAIモードで「Google検索」の自己引用が8.4倍に急増",
-    "link": "https://gigazine.net/news/20260722-google-ai-mode-shift-to-citing/",
-    "summary": "Google検索のAIモードを対象にした調査で、2026年4月から6月の3カ月で「google.com」の引用シェアが8.4倍に急増して、ドメインランキングの2位に入ったことがわかりました。続きを読む...",
-    "published": "2026-07-22T07:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Google検索のAIモードを対象にした調査で、2026年4月から6月の3カ月で「google.com」の引用シェアが8.4倍に急増して、ドメインランキングの2位に入ったことがわかりました。続きを読む...",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
