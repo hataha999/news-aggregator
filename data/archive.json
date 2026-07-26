@@ -1,5 +1,20 @@
 [
   {
+    "id": "6648c7b530286dca8f60430267de2d63",
+    "title": "[みんなのケータイ]LCCの無料スターリンクで399Mbps、ZIPAIRの機内Wi-Fiが快適だった",
+    "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2127355.html",
+    "summary": "ここ最近、衛星通信サービスであるスターリンクを機内Wi-Fiの回線として導入する航空会社が増えている。そんななか今回、国内の格安航空会社であるZIPAIRでスターリンクを試す機会があった。実際に体験したところ、機内の過ごし方がこれまでと大きく変わるような気がした。",
+    "published": "2026-07-27T00:00:00+09:00",
+    "source": "ケータイWatch",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ここ最近、衛星通信サービスであるスターリンクを機内Wi-Fiの回線として導入する航空会社が増えている。そんななか今回、国内の格安航空会社であるZIPAIRでスターリンクを試す機会があった。実際に体験したところ、機内の過ごし方がこれまでと大きく変わるような気がした。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
     "id": "7e352febbd38491dd6934fe35462dbcf",
     "title": "人型抱き枕とはひと味違う「骨格入り抱き枕」は心音も聞こえてぐっすり快眠できそう",
     "link": "https://gigazine.net/news/20260726-bone-supported-body-pillow-wf2026s/",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "e96e1a6621edd85e2bae7d14db0e703d",
-    "title": "AI導入も「仕事省力化」しない訳",
-    "link": "https://news.yahoo.co.jp/pickup/6588868?source=rss",
-    "summary": "",
-    "published": "2026-07-22T11:11:12+09:00",
-    "source": "Yahoo!ニュース テクノロジー",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AI導入も「仕事省力化」しない訳",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
