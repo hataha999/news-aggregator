@@ -1,5 +1,20 @@
 [
   {
+    "id": "7e352febbd38491dd6934fe35462dbcf",
+    "title": "人型抱き枕とはひと味違う「骨格入り抱き枕」は心音も聞こえてぐっすり快眠できそう",
+    "link": "https://gigazine.net/news/20260726-bone-supported-body-pillow-wf2026s/",
+    "summary": "睡眠障害解消を目指して試行錯誤した末に、シンプルな人型の抱き枕を超えたところに到達したというChuukuraiLabさん作の「骨格入り抱き枕」の実物を、ワンダーフェスティバル 2026[夏]の会場で実際に触ってきました。続きを読む...",
+    "published": "2026-07-26T21:45:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "睡眠障害解消を目指して試行錯誤した末に、シンプルな人型の抱き枕を超えたところに到達したというChuukuraiLabさん作の「骨格入り抱き枕」の実物を、ワンダーフェスティバル 2026[夏]の会場で実際に触ってきました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "2bad839c98187abcd46793f07b479610",
     "title": "新NISAで年始一括240万円と毎月積立、上昇相場での利益差をFPが解説",
     "link": "https://news.livedoor.com/article/detail/31916433/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "AI導入も「仕事省力化」しない訳",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "6331bf246c801d4f8ed676fd9fca4a3b",
-    "title": "画像生成AI「Qwen-Image-3.0」が登場したので使ってみた、イラストや日本語テキストの描画性能はいかに",
-    "link": "https://gigazine.net/news/20260722-qwen-image-3/",
-    "summary": "中国の大手テクノロジー企業であるAlibabaのAI研究チームが画像生成AI「Qwen-Image-3.0」をリリースしました。Qwen-Image-3.0は「小さな文字を含む画像」を生成することを得意としているほか、物体の質感を細かく表現することもできるとのこと。Qwen Studioのアカウントを作成すれば無料で使用可能だったので使ってみました。続きを読む...",
-    "published": "2026-07-22T11:06:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "中国の大手テクノロジー企業であるAlibabaのAI研究チームが画像生成AI「Qwen-Image-3.0」をリリースしました。Qwen-Image-3.0は「小さな文字を含む画像」を生成することを得意としているほか、物体の質感を細かく表現することもできるとのこと。Qwen Studioのアカウントを作成すれば無料で使用可能だったので使ってみました。続きを読む...",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
