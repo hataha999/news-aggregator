@@ -1,5 +1,20 @@
 [
   {
+    "id": "9dbd249d9824431bb4c19e2efdb435eb",
+    "title": "余命宣告を受けた父が亡くなった場合、母が受け取れる遺族年金の金額を試算",
+    "link": "https://news.livedoor.com/article/detail/31915085/",
+    "summary": "ざっくり言うと 65歳から年金15万円予定の父が62歳で亡くなった場合の遺族年金を解説 厚生年金加入なら遺族厚生年金と中高齢寡婦加算で年135万円超を受給できる 国民年金のみの場合は寡婦年金や死亡一時金となり保障額に大きな差が出る 記事を読む",
+    "published": "2026-07-26T13:40:35+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 65歳から年金15万円予定の父が62歳で亡くなった場合の遺族年金を解説 厚生年金加入なら遺族厚生年金と中高齢寡婦加算で年135万円超を受給できる 国民年金のみの場合は寡婦年金や死亡一時金となり保障額に大きな差が出る 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "bdf6c71c28b79b5a603e6361b76e833a",
     "title": "年収720万円・52歳会社員が新NISAよりiDeCoを優先する理由をFPが解説",
     "link": "https://news.livedoor.com/article/detail/31913886/",
@@ -148,6 +163,21 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
+  },
+  {
+    "id": "8006a67bc89bbef3a2d6bee6a50de77d",
+    "title": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
+    "link": "https://ascii.jp/elem/000/004/422/4422251/?rss",
+    "summary": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
+    "published": "2026-07-25T18:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "VTuber事務所ハコネクト所属「明堂しろね」が北米最大の特化型コンベンション「OffKai EXPO」に出演決定！",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "983f100905fe6fe178aca43d98bdacf2",
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "e0313e9eaa33ab82f2d90aa678c4c1d0",
-    "title": "Perl向けX.509証明書処理モジュールに脆弱性 - 更新版で修正",
-    "link": "https://www.security-next.com/187617",
-    "summary": "X.509証明書を処理するPerl向けモジュール「Crypt::OpenSSL::X509」に複数の脆弱性が明らかとなった。修正版が提供されている。",
-    "published": "2026-07-22T10:29:26+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "X.509証明書を処理するPerl向けモジュール「Crypt::OpenSSL::X509」に複数の脆弱性が明らかとなった。修正版が提供されている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "afa6e5c0b8eb79ac6e7c8e56a7900b66",
-    "title": "MicrosoftとMistralが戦略的提携を拡大 欧州でのAIインフラ拡張とモデル展開を加速",
-    "link": "https://www.itmedia.co.jp/news/articles/2607/22/news066.html",
-    "summary": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
-    "published": "2026-07-22T10:22:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "MicrosoftとMistralは戦略的提携を拡大すると発表した。Mistralの最新モデルをMicrosoftの各プラットフォームへ展開するほか、欧州でのGPUインフラ拡張に向けて大規模な投資を行う。クラウドから完全オフラインまで多様な環境に対応し、規制業界での高度なAI導入と自社管理を支援する。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
