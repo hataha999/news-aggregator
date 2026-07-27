@@ -1,5 +1,20 @@
 [
   {
+    "id": "3da0aa8285a0b519e0969e88eb5149e4",
+    "title": "高齢者を狙ったAI音声詐欺が急増中、たった3秒の音声データでAI音声クローンが作られてしまう",
+    "link": "https://gigazine.net/news/20260728-why-ai-voice-fraud-outruns-defence/",
+    "summary": "AI技術の発展により、AI音声技術を用いた巧妙な詐欺が多発しています。そんな最先端のAI音声詐欺について、エンジニアのティム・グリーン氏がまとめています。続きを読む...",
+    "published": "2026-07-28T07:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AI技術の発展により、AI音声技術を用いた巧妙な詐欺が多発しています。そんな最先端のAI音声詐欺について、エンジニアのティム・グリーン氏がまとめています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "76b4f941707c38cfbd9631fd6c157a16",
     "title": "値上げが続く中で登場した「JALモバイル powered by ahamo」のインパクト[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）]",
     "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2127736.html",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "Samsung Electronics・SK hynix・Micron Technologyの3社が従来型DRAMの供給を協調して制限し、価格を人為的につり上げたとする反トラスト訴訟がアメリカで始まりました。原告側は「AI需要の急増だけではこれだけの価格上昇を説明できない」と主張しており、その鍵となる3社のこれまでの動向をPCハードウェア系メディアのGamers Nexusが解説しています。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "2fedaa2985b43f50f06f2c911d8b41ed",
-    "title": "気象観測所が狙われ始めた——予測市場とAIが生む新しいリスク",
-    "link": "https://ascii.jp/elem/000/004/421/4421519/?rss",
-    "summary": "誰かが多数の気象観測所の数値を、それぞれ単独では気づかれない程度に、遠隔で少しずつ操作したらどうなるか。パリの空港では実際に気温が改ざんされ、予測市場で2万ドルが動いた。予測がAIへ移行し、観測データへの依存が高まるほど、この種の攻撃は見つけにくくなる可能性がある。",
-    "published": "2026-07-23T05:02:57+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "誰かが多数の気象観測所の数値を、それぞれ単独では気づかれない程度に、遠隔で少しずつ操作したらどうなるか。パリの空港では実際に気温が改ざんされ、予測市場で2万ドルが動いた。予測がAIへ移行し、観測データへの依存が高まるほど、この種の攻撃は見つけにくくなる可能性がある。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
