@@ -1,5 +1,20 @@
 [
   {
+    "id": "b80f6aedf45e486166f04e1cf451f21b",
+    "title": "製品サイトが侵害、サーバ内に個人情報も - ナカバヤシ",
+    "link": "https://www.security-next.com/187949",
+    "summary": "アルバムや手帳などの製造、販売を手がけるナカバヤシは、製品紹介サイトが不正アクセスを受け、フォームから問い合わせをした顧客の個人情報が流出した可能性があることを明らかにした。",
+    "published": "2026-07-28T23:42:57+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "アルバムや手帳などの製造、販売を手がけるナカバヤシは、製品紹介サイトが不正アクセスを受け、フォームから問い合わせをした顧客の個人情報が流出した可能性があることを明らかにした。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
     "id": "398142a61372f5fee0b3e730b9bd65f0",
     "title": "令和8年熊本地震で無料Wi-Fi「00000JAPAN」開放",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2128700.html",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "b84d538415f747d9fb95c63306c84034",
-    "title": "中国AI「Kimi K3」立ちはだかる壁",
-    "link": "https://news.yahoo.co.jp/pickup/6589041?source=rss",
-    "summary": "",
-    "published": "2026-07-23T18:27:14+09:00",
-    "source": "Yahoo!ニュース テクノロジー",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "中国AI「Kimi K3」立ちはだかる壁",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
