@@ -1,5 +1,20 @@
 [
   {
+    "id": "fdfc47e60b2954f7c4909ce81b7b8787",
+    "title": "業務監視ツールや評価AIが病院に導入されたせいで患者へのケアが悪化していると看護師らが主張",
+    "link": "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
+    "summary": "近年は企業が従業員の生産性を監視するためのツールが数多く登場しており、中にはAIを利用しているツールもあります。アメリカ最大規模の医療サービス組織・カイザーパーマネンテの看護師らは、職場に導入された監視ツールやAIのせいで、患者へのケアが悪化していると主張しました。続きを読む...",
+    "published": "2026-07-30T07:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "近年は企業が従業員の生産性を監視するためのツールが数多く登場しており、中にはAIを利用しているツールもあります。アメリカ最大規模の医療サービス組織・カイザーパーマネンテの看護師らは、職場に導入された監視ツールやAIのせいで、患者へのケアが悪化していると主張しました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "f9d198e748f222e42670dabd5f5575ea",
     "title": "米FRB 政策金利の据え置きを決定",
     "link": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "スタートアップ企業を含む約200のAI関連企業が、「中国のオープンウェイトAIモデルへのアクセスを遮断すれば、次世代のスタートアップの競争力を損なう恐れがある」として、ドナルド・トランプ政権に対し公開書簡を送付しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "658dca131264b82958bce10fca933c1f",
-    "title": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
-    "link": "https://ascii.jp/elem/000/004/422/4422169/?rss",
-    "summary": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
-    "published": "2026-07-24T18:32:54+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
