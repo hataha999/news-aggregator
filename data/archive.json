@@ -1,5 +1,35 @@
 [
   {
+    "id": "43efbeb6a182c8b8ccceb9821a569f75",
+    "title": "ドコモ「ahamo」が10GB増量で40GBに、「ドコモmini」も増量",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2129087.html",
+    "summary": "NTTドコモは、料金プラン「ahamo」および「ドコモmini」の契約者を対象にした「データ増量おためしキャンペーン」を発表した。",
+    "published": "2026-07-30T00:23:02+09:00",
+    "source": "ケータイWatch",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "NTTドコモは、料金プラン「ahamo」および「ドコモmini」の契約者を対象にした「データ増量おためしキャンペーン」を発表した。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
+    "id": "df53812a8acae044d71ecfdf3bc9b4d7",
+    "title": "プライムデー再来？iPhone Air 256GBが139,800円に！",
+    "link": "https://ascii.jp/elem/000/004/423/4423288/?rss",
+    "summary": "Appleの薄型スマートフォン、iPhone Air 256GBがAmazonでセール価格である。13万円台まで下がり、ほぼラストチャンス級の買い時だ。",
+    "published": "2026-07-29T23:10:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Appleの薄型スマートフォン、iPhone Air 256GBがAmazonでセール価格である。13万円台まで下がり、ほぼラストチャンス級の買い時だ。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "516e97aa5a1414908364e2a4396e2fd8",
     "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
     "link": "https://gigazine.net/news/20260729-mcpbench/",
@@ -12,6 +42,21 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "4532d12b70332e6c4e0bf9c68539f588",
+    "title": "サーバにランサム攻撃、顧客情報流出の可能性 - 名鉄協商",
+    "link": "https://www.security-next.com/187989",
+    "summary": "名古屋鉄道グループの総合商社である名鉄協商は、サーバがランサムウェアによるサイバー攻撃を受け、顧客情報が流出した可能性があることを明らかにした。",
+    "published": "2026-07-29T22:35:21+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "名古屋鉄道グループの総合商社である名鉄協商は、サーバがランサムウェアによるサイバー攻撃を受け、顧客情報が流出した可能性があることを明らかにした。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
     "category_priority": 2
   },
   {
@@ -2952,51 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "f468aaf87105e1d4105566e793f69303",
-    "title": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
-    "link": "https://ascii.jp/elem/000/004/422/4422184/?rss",
-    "summary": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
-    "published": "2026-07-24T18:01:32+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "株式会社Mavericksは、動画生成AI「NoLang」の「読み方を修正する」ダイアログを強化し、動画全体の横断検索・一括修正と辞書登録を1画面で完結できるように",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "0dea47dcc062251d67888625be248803",
-    "title": "【開催レポート】Humanoid Hack Tokyo 2 : 事前登録236名、Unitree G1 を使ったヒューマノイド/フィジカルAIハッカソン第2回完走",
-    "link": "https://ascii.jp/elem/000/004/422/4422185/?rss",
-    "summary": "【開催レポート】Humanoid Hack Tokyo 2 : 事前登録236名、Unitree G1 を使ったヒューマノイド/フィジカルAIハッカソン第2回完走",
-    "published": "2026-07-24T18:00:04+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "【開催レポート】Humanoid Hack Tokyo 2 : 事前登録236名、Unitree G1 を使ったヒューマノイド/フィジカルAIハッカソン第2回完走",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
-  },
-  {
-    "id": "36a15820ffe6280b087533a424ee9634",
-    "title": "「BIND 9」にキャッシュ汚染など複数脆弱性 - 修正版を公開",
-    "link": "https://www.security-next.com/187829",
-    "summary": "Internet Systems Consortium（ISC）は、「BIND 9」のセキュリティアップデートを公開した。あわせて9件の脆弱性を解消している。日本レジストリサービスなどは緊急対応を呼びかけている。",
-    "published": "2026-07-24T17:10:56+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "Internet Systems Consortium（ISC）は、「BIND 9」のセキュリティアップデートを公開した。あわせて9件の脆弱性を解消している。日本レジストリサービスなどは緊急対応を呼びかけている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
