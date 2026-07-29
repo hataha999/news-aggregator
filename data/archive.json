@@ -1,5 +1,20 @@
 [
   {
+    "id": "f9d198e748f222e42670dabd5f5575ea",
+    "title": "米FRB 政策金利の据え置きを決定",
+    "link": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
+    "summary": "",
+    "published": "2026-07-30T03:24:52+09:00",
+    "source": "Yahoo!ニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米FRB 政策金利の据え置きを決定",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "43efbeb6a182c8b8ccceb9821a569f75",
     "title": "ドコモ「ahamo」が10GB増量で40GBに、「ドコモmini」も増量",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2129087.html",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "Dify、AIエージェントの本番実装をテーマに「IF Con Tokyo 2026」開催",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "53870bac34ceeaa2e6dfa65840f7f02e",
-    "title": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
-    "link": "https://ascii.jp/elem/000/004/422/4422172/?rss",
-    "summary": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
-    "published": "2026-07-24T18:06:01+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "「金の課題」と「赤の課題」。AI導入を成果につなげる課題選定とは？",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
