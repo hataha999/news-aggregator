@@ -1,5 +1,20 @@
 [
   {
+    "id": "794dbce1e6abeb0e82a71ca103047c19",
+    "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
+    "link": "https://ascii.jp/elem/000/004/423/4423700/?rss",
+    "summary": "AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot+ PC。大画面でも持ち運びやすさを重視したい人には見逃せないモデルだ。",
+    "published": "2026-08-01T20:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot+ PC。大画面でも持ち運びやすさを重視したい人には見逃せないモデルだ。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "4373648154a350141e9cb2ff2f26b3f0",
     "title": "3万8000円引きなら話が変わる。史上最薄「iPhone Air」が13万9800円",
     "link": "https://ascii.jp/elem/000/004/422/4422943/?rss",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "151e5ee2f937c8ac2073b3fc746ecf7e",
-    "title": "AIフェスティバルにはクラファン700％達成の「AIゲームセンター」も登場、サードウェーブが次に目指す「挑戦の場」とは？",
-    "link": "https://ascii.jp/elem/000/004/420/4420787/?rss",
-    "summary": "生成AIが一部の先進的なユーザーだけが使う技術ではなくなった一方で、部材不足や価格高騰が重なり、パソコンを必要としていても簡単には購入できない状況も生まれている。今回は、社長就任から1年の変化、サードウェーブの現状、そしてAI時代にサードウェーブはどう変わろうとしているのかについて永井氏にお話を伺う。聞き手はASCIIブランド総編集長の小林 久。",
-    "published": "2026-07-29T09:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "生成AIが一部の先進的なユーザーだけが使う技術ではなくなった一方で、部材不足や価格高騰が重なり、パソコンを必要としていても簡単には購入できない状況も生まれている。今回は、社長就任から1年の変化、サードウェーブの現状、そしてAI時代にサードウェーブはどう変わろうとしているのかについて永井氏にお話を伺う。聞き手はASCIIブランド総編集長の小林 久。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
