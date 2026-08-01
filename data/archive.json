@@ -1,5 +1,35 @@
 [
   {
+    "id": "dbaf59bf5310e79500a8b2cd4b4ffc44",
+    "title": "BYDオート社長 EV補助金に見解",
+    "link": "https://news.yahoo.co.jp/pickup/6590164?source=rss",
+    "summary": "",
+    "published": "2026-08-01T16:46:05+09:00",
+    "source": "Yahoo!ニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "BYDオート社長 EV補助金に見解",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
+    "id": "1771abe8f1057c4f064c4ca2b06e6315",
+    "title": "トランプ関税と原油高騰が重なり、日本は「お金を積んでも買えない」事態も",
+    "link": "https://news.livedoor.com/article/detail/31964016/",
+    "summary": "ざっくり言うと トランプ関税とイラン情勢で日本経済への打撃が続くと専門家が警告した エコノミスト崔真淑氏は物価上昇などの悪影響が最低2年続くと予測している 米国の石油備蓄が残り15日分に激減し日本が買えなくなる恐れもあるという 記事を読む",
+    "published": "2026-08-01T13:50:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "ざっくり言うと トランプ関税とイラン情勢で日本経済への打撃が続くと専門家が警告した エコノミスト崔真淑氏は物価上昇などの悪影響が最低2年続くと予測している 米国の石油備蓄が残り15日分に激減し日本が買えなくなる恐れもあるという 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "1fe434e1d8c9320ea9bb6304a438bfcc",
     "title": "ねんきん定期便に載らない隠れ年金が5つ、申請しないと受け取れない",
     "link": "https://news.livedoor.com/article/detail/31963501/",
@@ -13,6 +43,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "1b275e5cd5d640040a5a0a24176cffdf",
+    "title": "AIを最も使う業界1位「教育・人材」76.9%、最下位「医療・福祉」13.8% - 業界格差5.6倍が示すAI浸透の濃淡",
+    "link": "https://ascii.jp/elem/000/004/424/4424136/?rss",
+    "summary": "AIを最も使う業界1位「教育・人材」76.9%、最下位「医療・福祉」13.8% - 業界格差5.6倍が示すAI浸透の濃淡",
+    "published": "2026-08-01T12:10:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIを最も使う業界1位「教育・人材」76.9%、最下位「医療・福祉」13.8% - 業界格差5.6倍が示すAI浸透の濃淡",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "59095a04e0403cca43827120a799024c",
@@ -60,6 +105,21 @@
     "category_priority": 1
   },
   {
+    "id": "93e0bf5d3a6c41ed0a2bf2c6470e78fb",
+    "title": "「難しそう」を「自分にもできる」へ。Antigravity A1の女性向け360度ドローン体験会を東京で開催",
+    "link": "https://ascii.jp/elem/000/004/424/4424126/?rss",
+    "summary": "「難しそう」を「自分にもできる」へ。Antigravity A1の女性向け360度ドローン体験会を東京で開催",
+    "published": "2026-08-01T10:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「難しそう」を「自分にもできる」へ。Antigravity A1の女性向け360度ドローン体験会を東京で開催",
+    "category_key": "robotics",
+    "category_name": "ロボット",
+    "category_emoji": "🦾",
+    "category_priority": 3
+  },
+  {
     "id": "885cbeb923a4637dee910c073cf4900a",
     "title": "60代年金夫婦が孫旅行の全額負担を続け、年間47万円の支出が発覚",
     "link": "https://news.livedoor.com/article/detail/31962568/",
@@ -88,6 +148,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "2ee59ed1802c09e141fdbbf0a4338d3e",
+    "title": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
+    "link": "https://ascii.jp/elem/000/004/424/4424129/?rss",
+    "summary": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
+    "published": "2026-08-01T08:50:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 3,
+    "ai_summary": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "b735c729feb010a2317a19abfeb0ab1b",
@@ -2922,81 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "d7741e5993610e50c1bf2007f567ccd4",
-    "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
-    "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
-    "summary": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
-    "published": "2026-07-29T07:50:56+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "b2ef8f33771a80ff7fc3fcf06f65d626",
-    "title": "オープンソースソフトウェアのためのホスティングサービス「Codeberg」が生成AI主体のプロジェクトを投票で禁止",
-    "link": "https://gigazine.net/news/20260729-codeberg-bans-ai-contributions/",
-    "summary": "Codebergはオープンソースプロジェクトのために作られた非営利のホスティングサービスであり、GitHubの代替サービスとしても人気を集めています。そんなCodebergが運営団体の会員による投票で、主に生成AIのコードで作られた「バイブコードプロジェクト」を禁止することを決定しました。続きを読む...",
-    "published": "2026-07-29T07:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "Codebergはオープンソースプロジェクトのために作られた非営利のホスティングサービスであり、GitHubの代替サービスとしても人気を集めています。そんなCodebergが運営団体の会員による投票で、主に生成AIのコードで作られた「バイブコードプロジェクト」を禁止することを決定しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "465f0f02e753c2f82c0e2b1c248fec12",
-    "title": "オンラインアシスタントからAIアシスタントへ。業務自動化と共生する人の価値",
-    "link": "https://ascii.jp/elem/000/004/422/4422379/?rss",
-    "summary": "株式会社キャスターが提供する新サービス「CASTER NEO Assistant」は、チャットツールで依頼するだけで、秘書や経理、採用支援といったバックオフィス業務全般をオンラインで代行する既存の「オンラインアシスタント」サービスをAI前提に刷新したもの。オンラインアシスタントのパイオニアとして業界を牽引してきた同社が、サービス構造の本格的な転換へと舵を切った背景を同社代表に聞いた。",
-    "published": "2026-07-29T07:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "株式会社キャスターが提供する新サービス「CASTER NEO Assistant」は、チャットツールで依頼するだけで、秘書や経理、採用支援といったバックオフィス業務全般をオンラインで代行する既存の「オンラインアシスタント」サービスをAI前提に刷新したもの。オンラインアシスタントのパイオニアとして業界を牽引してきた同社が、サービス構造の本格的な転換へと舵を切った背景を同社代表に聞いた。",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
-  },
-  {
-    "id": "eb1f4e5298e4e62719a91e0856604b27",
-    "title": "“脳のゴミ”は鼻から捨てられていた？ 老化で詰まる排出路、薬を鼻から投与で改善 韓国主導チーム研究",
-    "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000226/",
-    "summary": "韓国の基礎科学研究院やKAISTなどに所属する研究者らがCellで発表した論文「CSF clearance through arachnoid fenestrations to olfactory meningeal lymphatics」は、脳の老廃物を運ぶ「脳脊髄液」が、嗅球（においを感じる領域）周辺のくも膜の穴から鼻へと抜けて排出される詳細な経路を解明した研究報告だ。",
-    "published": "2026-07-29T07:00:00+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "韓国の基礎科学研究院やKAISTなどに所属する研究者らがCellで発表した論文「CSF clearance through arachnoid fenestrations to olfactory meningeal lymphatics」は、脳の老廃物を運ぶ「脳脊髄液」が、嗅球（においを感じる領域）周辺のくも膜の穴から鼻へと抜けて排出される詳細な経路を解明した研究報告だ。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "b80f6aedf45e486166f04e1cf451f21b",
-    "title": "製品サイトが侵害、サーバ内に個人情報も - ナカバヤシ",
-    "link": "https://www.security-next.com/187949",
-    "summary": "アルバムや手帳などの製造、販売を手がけるナカバヤシは、製品紹介サイトが不正アクセスを受け、フォームから問い合わせをした顧客の個人情報が流出した可能性があることを明らかにした。",
-    "published": "2026-07-28T23:42:57+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "アルバムや手帳などの製造、販売を手がけるナカバヤシは、製品紹介サイトが不正アクセスを受け、フォームから問い合わせをした顧客の個人情報が流出した可能性があることを明らかにした。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
