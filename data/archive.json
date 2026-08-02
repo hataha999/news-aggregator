@@ -1,5 +1,20 @@
 [
   {
+    "id": "191268569cb3e2872b33d0e3739d05f3",
+    "title": "画面のないスマートバンド「Fitbit Air」はAIコーチ機能が親切 AIフル活用で情報追加も簡単",
+    "link": "https://ascii.jp/elem/000/004/424/4424155/?rss",
+    "summary": "画面がないスマートバンド「Fitbit Air」の連続レビューです。本製品で用いるアプリにはAIによるコーチ機能がありますが、特に便利なのが食事の記録。AIをフル活用するので、アバウトに口頭で伝えたり、食事の写真を撮るだけで自動で分析して記録。修正も容易です",
+    "published": "2026-08-02T12:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "画面がないスマートバンド「Fitbit Air」の連続レビューです。本製品で用いるアプリにはAIによるコーチ機能がありますが、特に便利なのが食事の記録。AIをフル活用するので、アバウトに口頭で伝えたり、食事の写真を撮るだけで自動で分析して記録。修正も容易です",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "05ce5f8f39efc54071cb663fbf984f45",
     "title": "年収1200万円の共働き夫婦がNISAで2年間に120万円を溶かした原因",
     "link": "https://news.livedoor.com/article/detail/31968459/",
@@ -2983,20 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "1445ad94c9c320c6c80690f50a9816e6",
-    "title": "トランプ政権はアメリカのAI開発を守るため中国製の新型人型ロボットやインバーターの輸入を禁止",
-    "link": "https://gigazine.net/news/20260729-trump-administration-bans-chinese-humanoid-robots/",
-    "summary": "トランプ政権がアメリカのAI開発を保護するため、中国製の新型人型ロボットや四足歩行ロボット、再生可能エネルギー設備、インバーターなどの輸入を禁止すると発表しました。続きを読む...",
-    "published": "2026-07-29T10:38:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "トランプ政権がアメリカのAI開発を保護するため、中国製の新型人型ロボットや四足歩行ロボット、再生可能エネルギー設備、インバーターなどの輸入を禁止すると発表しました。続きを読む...",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
   }
 ]
