@@ -1,5 +1,20 @@
 [
   {
+    "id": "365879a1523e3d371e9f700a3890c116",
+    "title": "EU AI規制法で透明性確保を義務化",
+    "link": "https://news.yahoo.co.jp/pickup/6590319?source=rss",
+    "summary": "",
+    "published": "2026-08-02T22:58:32+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "EU AI規制法で透明性確保を義務化",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "be83f49b2417201a2c0194b60d2c86c1",
     "title": "食品消費税1%引き下げで年4.4兆円減収、減税終了後に物価が上がる懸念",
     "link": "https://news.livedoor.com/article/detail/31970771/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 2,
     "ai_summary": "この記事は2026年7月22日に三菱UFJ信託銀行で公開された「不動産マーケットリサーチレポートvol.310『国内REITの投資対象としてのDCの可能性 ～制度整備の進展と残された課題～』」を一部編集し、転載したものです。",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "b2d27714de72660d2893a41309df6dd3",
-    "title": "最低賃金の目安 時給1176円に決定",
-    "link": "https://news.yahoo.co.jp/pickup/6589750?source=rss",
-    "summary": "",
-    "published": "2026-07-29T11:26:54+09:00",
-    "source": "Yahoo!ニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "最低賃金の目安 時給1176円に決定",
     "category_key": "money",
     "category_name": "お金",
     "category_emoji": "💰",
