@@ -1,5 +1,20 @@
 [
   {
+    "id": "be83f49b2417201a2c0194b60d2c86c1",
+    "title": "食品消費税1%引き下げで年4.4兆円減収、減税終了後に物価が上がる懸念",
+    "link": "https://news.livedoor.com/article/detail/31970771/",
+    "summary": "記事を読む",
+    "published": "2026-08-02T19:00:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 3,
+    "ai_summary": "記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "630b3703fa888f6bc76a9502d087a14c",
     "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
     "link": "https://gigazine.net/news/20260802-dayglance/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "c85f60834d70920e9cdbf4c31638f6f5",
-    "title": "AnthropicのClaude Mythos Previewがポスト量子暗号の強度を半分に減らす攻撃手法を発見",
-    "link": "https://gigazine.net/news/20260729-claude-mythos-preview-finds-flaws/",
-    "summary": "ソフトウェアの脆弱(ぜいじゃく)性を発見する能力が極めて高いAIモデル「Claude Mythos Preview」が、2つの暗号化アルゴリズムに欠陥を見つけたことが分かりました。続きを読む...",
-    "published": "2026-07-29T11:26:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ソフトウェアの脆弱(ぜいじゃく)性を発見する能力が極めて高いAIモデル「Claude Mythos Preview」が、2つの暗号化アルゴリズムに欠陥を見つけたことが分かりました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
