@@ -1,5 +1,35 @@
 [
   {
+    "id": "c0e520623bc9a663c48a1be2ee3e0e27",
+    "title": "まるで「ずる賢い学生」、 なぜAIエージェントは 不正や嘘に走るのか",
+    "link": "https://ascii.jp/elem/000/004/424/4424506/?rss",
+    "summary": "好成績への意欲は強いが、道徳心はそれほど強くない——ある研究者は、不正を働くAIをそんな学生にたとえる。7月にはオープンAIのモデルが、テストの答えを探して他社のWebサイトに不正侵入した。目標に忠実であろうとするほど、正攻法で行き詰まったモデルは近道に走る。なぜAIは不正と嘘に走るのか、その仕組みを説明しよう。",
+    "published": "2026-08-04T06:25:35+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "好成績への意欲は強いが、道徳心はそれほど強くない——ある研究者は、不正を働くAIをそんな学生にたとえる。7月にはオープンAIのモデルが、テストの答えを探して他社のWebサイトに不正侵入した。目標に忠実であろうとするほど、正攻法で行き詰まったモデルは近道に走る。なぜAIは不正と嘘に走るのか、その仕組みを説明しよう。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "b2893517de867ed5f7a856df740d64f7",
+    "title": "eムック 『AIの10大潮流［2026年版］』特集号",
+    "link": "https://ascii.jp/elem/000/004/424/4424505/?rss",
+    "summary": "MITテクノロジーレビュー［日本版］はeムック Vol.87 / 2026.07をリリースした。特集は『AIの10大潮流［2026年版］』。",
+    "published": "2026-08-04T05:19:57+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "MITテクノロジーレビュー［日本版］はeムック Vol.87 / 2026.07をリリースした。特集は『AIの10大潮流［2026年版］』。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "0131286967deaddb0b333f33a437cfdd",
     "title": "年間売上が16億4000万円を超える「1人事業者」がAIの支援を受けて2年で約3倍に急増",
     "link": "https://gigazine.net/news/20260803-solo-business-10-million-revenue/",
@@ -2968,35 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "f35c4012148133bdcf2fb1379229e66c",
-    "title": "トレンドマイクロ製TrendAI Vision Oneに対するセキュリティアップデート（2026年7月）",
-    "link": "https://jvn.jp/vu/JVNVU98815601/",
-    "summary": "トレンドマイクロ株式会社から、TrendAI Vision OneのService Gateway向けのアップデートが公開されました。",
-    "published": "2026-07-30T09:30:00+09:00",
-    "source": "JVN（脆弱性情報）",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "トレンドマイクロ株式会社から、TrendAI Vision OneのService Gateway向けのアップデートが公開されました。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "fa817a0852ace525c7e81cc075246e3c",
-    "title": "退職金でローン完済すると老後資金が不足するリスクを解説",
-    "link": "https://news.livedoor.com/article/detail/31945887/",
-    "summary": "ざっくり言うと 退職金で住宅ローンを一括完済すべきかFINANCIAL FIELDが検討した 65歳夫婦は月約6万円の年金不足が生じ500万円の手元資金は約7年で枯渇するとのこと 完済で団信の保障が消える点も含め年金や貯蓄と総合的に判断する必要があるという 記事を読む",
-    "published": "2026-07-30T09:20:59+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 退職金で住宅ローンを一括完済すべきかFINANCIAL FIELDが検討した 65歳夫婦は月約6万円の年金不足が生じ500万円の手元資金は約7年で枯渇するとのこと 完済で団信の保障が消える点も含め年金や貯蓄と総合的に判断する必要があるという 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
