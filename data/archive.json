@@ -780,6 +780,21 @@
     "category_priority": 1
   },
   {
+    "id": "87f0c382b7643a05e1e2ffd0f17339d9",
+    "title": "SpaceX、IPO後初の決算で売上高92％増 AI設備投資158億ドルで「2030年には年商1兆ドルに」とマスクCEO",
+    "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000388/",
+    "summary": "SpaceXはIPO後初となる2026年第2四半期決算を発表した。売上高は前年同期比92％増の78億1400万ドル、純損失は5億4100万ドルに改善した。xAIとの合併を経たAI事業の売上高が247％増と急成長を牽引。設備投資はAIインフラを中心に183億6900万ドルへ拡大し、将来の売上予測も上方修正した。",
+    "published": "2026-08-05T09:08:44+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "SpaceXはIPO後初となる2026年第2四半期決算を発表した。売上高は前年同期比92％増の78億1400万ドル、純損失は5億4100万ドルに改善した。xAIとの合併を経たAI事業の売上高が247％増と急成長を牽引。設備投資はAIインフラを中心に183億6900万ドルへ拡大し、将来の売上予測も上方修正した。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "d3d05694c78964ca43891a3034db12a3",
     "title": "児童手当の所得制限は2024年10月に撤廃、残業代増加で止まることはない",
     "link": "https://news.livedoor.com/article/detail/31989455/",
@@ -837,6 +852,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "6912483e39dce90ab470e8b02b297ff5",
+    "title": "OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」",
+    "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000387/",
+    "summary": "OpenAIは、Appleが提起した営業秘密の不正取得訴訟に対し、公式ブログで全面的に反論した。Apple側の誤連絡や連絡不備をメールのやり取りを添えて指摘し、営業秘密の所有や利用を強く否定。一方、Appleは被告らの証人尋問や端末の複製データの提出などを求める仮処分を申し立てており、双方の主張が対立している。",
+    "published": "2026-08-05T07:16:06+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIは、Appleが提起した営業秘密の不正取得訴訟に対し、公式ブログで全面的に反論した。Apple側の誤連絡や連絡不備をメールのやり取りを添えて指摘し、営業秘密の所有や利用を強く否定。一方、Appleは被告らの証人尋問や端末の複製データの提出などを求める仮処分を申し立てており、双方の主張が対立している。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2968,35 +2998,5 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
-  },
-  {
-    "id": "81478ac4e80849cd46635f4e10cd8f08",
-    "title": "Ghostty開発者が新会社「Superlogical」を始動、人間とAIの作業を統合するターミナル基盤を構築へ",
-    "link": "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
-    "summary": "HashiCorp共同創業者でターミナルエミュレーター「Ghostty」の開発者でもあるミッチェル・ハシモト氏が、新会社「Superlogical」の設立を発表しました。Superlogicalは、複数のターミナルでの作業を長期間維持・共有できる新しいターミナルマルチプレクサーの開発から事業を開始し、将来的には人間やAIエージェントが行うさまざまなソフトウェア作業を統合する基盤の構築を目指します。続きを読む...",
-    "published": "2026-07-31T19:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "HashiCorp共同創業者でターミナルエミュレーター「Ghostty」の開発者でもあるミッチェル・ハシモト氏が、新会社「Superlogical」の設立を発表しました。Superlogicalは、複数のターミナルでの作業を長期間維持・共有できる新しいターミナルマルチプレクサーの開発から事業を開始し、将来的には人間やAIエージェントが行うさまざまなソフトウェア作業を統合する基盤の構築を目指します。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "03ad7502407924d054d94fe4a25efc32",
-    "title": "サーバでランサム被害を確認、影響など調査 - 八王子中高校",
-    "link": "https://www.security-next.com/187991",
-    "summary": "八王子中学校・高校を運営する八王子学園は、第三者によるサイバー攻撃を受けたことを明らかにした。詳細について調査を進めている。",
-    "published": "2026-07-31T18:28:20+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "八王子中学校・高校を運営する八王子学園は、第三者によるサイバー攻撃を受けたことを明らかにした。詳細について調査を進めている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
   }
 ]
