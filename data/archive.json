@@ -1,5 +1,35 @@
 [
   {
+    "id": "0bc3c3fa2d4513937a4ff9f9f7743613",
+    "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
+    "link": "https://gigazine.net/news/20260808-sandboxd/",
+    "summary": "アプリやシステムの開発環境を隔離して他のプロジェクトへの影響を防ぎながらコードを実行する仕組みをサンドボックスと言います。Docker・Traefik・SQLiteを利用し、なおかつAIエージェントによる開発に特化したサンドボックス基盤を簡単に構築できる「sandboxd」が公開されています。続きを読む...",
+    "published": "2026-08-08T18:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "アプリやシステムの開発環境を隔離して他のプロジェクトへの影響を防ぎながらコードを実行する仕組みをサンドボックスと言います。Docker・Traefik・SQLiteを利用し、なおかつAIエージェントによる開発に特化したサンドボックス基盤を簡単に構築できる「sandboxd」が公開されています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "f16b4719339ac62317611f970e72c839",
+    "title": "折りたたみiPhoneはまだか！ ライバル機は動画視聴に最強か実際に試してみた",
+    "link": "https://ascii.jp/elem/000/004/425/4425960/?rss",
+    "summary": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8」のレビューです。開くと動画や読書に最適な4:3の大画面になり、約201gという世界最軽量クラスの軽さを実現しました。進化したGalaxy AIを搭載し、約27万円という価格に見合う高い完成度を誇る注目のフラッグシップ機です。",
+    "published": "2026-08-08T17:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8」のレビューです。開くと動画や読書に最適な4:3の大画面になり、約201gという世界最軽量クラスの軽さを実現しました。進化したGalaxy AIを搭載し、約27万円という価格に見合う高い完成度を誇る注目のフラッグシップ機です。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "9b70a1730fc73d5c4b1437d5eb4158ea",
     "title": "ボーナス60万円から12万円超が引かれる仕組みを計算式で解説",
     "link": "https://news.livedoor.com/article/detail/32020088/",
@@ -2968,35 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "77fded3891c85db03d2cb940394640c8",
-    "title": "「え、めっっちゃおもろいやん」歌手の宮本佳林さん、バイブコーディングとAWSを熱く語る",
-    "link": "https://ascii.jp/elem/000/004/424/4424810/?rss",
-    "summary": "ハロープロジェクト（ハロプロ）出身でミュージシャンの宮本佳林氏は8月3日、生成AIを活用したソフトウェア開発手法「バイブコーディング」を習得するまでの歩みをブログで公開。SNSを中心に話題を集めている。",
-    "published": "2026-08-04T17:30:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ハロープロジェクト（ハロプロ）出身でミュージシャンの宮本佳林氏は8月3日、生成AIを活用したソフトウェア開発手法「バイブコーディング」を習得するまでの歩みをブログで公開。SNSを中心に話題を集めている。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "1b251d28a3bfa0eccff74abaa6a37cac",
-    "title": "ソフトバンク宮川社長、ahamoの増量“40GB”化に「追いかけるつもりはない」",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2130487.html",
-    "summary": "ソフトバンクの宮川潤一社長は、2027年3月期第1四半期決算説明会の質疑応答で、NTTドコモが料金プラン「ahamo」のデータ通信量を10GB増量したことに対して、「追いかけるつもりはない」と説明した。中容量帯での競争激化を踏まえつつ、自社のオプションサービスを組み合わせることで十分な競争力を維持できるとの認識を示す。",
-    "published": "2026-08-04T17:19:12+09:00",
-    "source": "ケータイWatch",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ソフトバンクの宮川潤一社長は、2027年3月期第1四半期決算説明会の質疑応答で、NTTドコモが料金プラン「ahamo」のデータ通信量を10GB増量したことに対して、「追いかけるつもりはない」と説明した。中容量帯での競争激化を踏まえつつ、自社のオプションサービスを組み合わせることで十分な競争力を維持できるとの認識を示す。",
-    "category_key": "radio",
-    "category_name": "無線",
-    "category_emoji": "📡",
-    "category_priority": 3
   }
 ]
