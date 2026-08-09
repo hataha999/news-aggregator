@@ -1,5 +1,35 @@
 [
   {
+    "id": "f5e8be68eaff24ab49ca25c276d4245a",
+    "title": "物価が上がるほど価値が増す株主優待、FPが厳選して紹介",
+    "link": "https://news.livedoor.com/article/detail/32024525/",
+    "summary": "ざっくり言うと FPの藤原久敏氏が物価高に強い株主優待の選び方を詳しく解説した 近鉄の招待乗車券など商品現物の優待は値上がりで実質価値が増すとFP藤原氏はいう 割引優待も物価高対応になり得るが普段使いの店舗かどうかを見極めることが重要だ 記事を読む",
+    "published": "2026-08-09T08:15:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと FPの藤原久敏氏が物価高に強い株主優待の選び方を詳しく解説した 近鉄の招待乗車券など商品現物の優待は値上がりで実質価値が増すとFP藤原氏はいう 割引優待も物価高対応になり得るが普段使いの店舗かどうかを見極めることが重要だ 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
+    "id": "9a71860fa0449e2fc5f1d4621b8ac3ee",
+    "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+    "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+    "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+    "published": "2026-08-09T07:16:59+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "0bc3c3fa2d4513937a4ff9f9f7743613",
     "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
     "link": "https://gigazine.net/news/20260808-sandboxd/",
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "7bac3df23200927a1ece631ba5ddea85",
-    "title": "超激安Copilot+ PCは、本当に“大丈夫”なのか？ これ、他社なら「20万円級のスペック」だが……CoreBook Air",
-    "link": "https://ascii.jp/elem/000/004/424/4424065/?rss",
-    "summary": "物価高のこのご時世、コスパは何よりも重要です。そして、なんと13万円切りで手に入る、しかもノートPCのCopilot+ PCが登場。注目のモバイルノートPCを検証しました！",
-    "published": "2026-08-04T18:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "物価高のこのご時世、コスパは何よりも重要です。そして、なんと13万円切りで手に入る、しかもノートPCのCopilot+ PCが登場。注目のモバイルノートPCを検証しました！",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "0df925150a0faf5cbdad68317486dea8",
-    "title": "AI監督のリモート試験が大失敗に終わり5万8000人の学生が再受験する羽目に",
-    "link": "https://gigazine.net/news/20260804-ai-supervised-remote-exam-58000-students-retake/",
-    "summary": "2026年夏、メキシコ最大の大学であるメキシコ国立自治大学の入学試験が行われ、約16万人が受験しました。この試験では同大学史上初の「完全リモートでの試験」が実施されたのですが、5万8000人もの学生が再受験しなければいけなくなるという悲惨な結果に終わりました。続きを読む...",
-    "published": "2026-08-04T17:53:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "2026年夏、メキシコ最大の大学であるメキシコ国立自治大学の入学試験が行われ、約16万人が受験しました。この試験では同大学史上初の「完全リモートでの試験」が実施されたのですが、5万8000人もの学生が再受験しなければいけなくなるという悲惨な結果に終わりました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
