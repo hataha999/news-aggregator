@@ -1,5 +1,35 @@
 [
   {
+    "id": "d86d30bb8767715ceda9c8d13fa280be",
+    "title": "がん関連ウイルスを大幅に減少させるチューインガムが開発される",
+    "link": "https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/",
+    "summary": "ペンシルベニア大学の研究者らが、がん予防効果のあるチューインガムを開発しました。チューインガムをかむだけで、首から顔の領域にできる「頭頸部(とうけいぶ)がん」に関連する微生物を標的としてウイルス1種と細菌2種を大幅に減少させたことが報告されています。続きを読む...",
+    "published": "2026-08-09T21:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ペンシルベニア大学の研究者らが、がん予防効果のあるチューインガムを開発しました。チューインガムをかむだけで、首から顔の領域にできる「頭頸部(とうけいぶ)がん」に関連する微生物を標的としてウイルス1種と細菌2種を大幅に減少させたことが報告されています。続きを読む...",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "94a6179d6290f678aa3d57fd602a625a",
+    "title": "見えないドローン「ファントム・ツイスト」、本体ごと高速回転して姿を消しつつ飛行可能",
+    "link": "https://gigazine.net/news/20260809-phantom-twist-drone/",
+    "summary": "「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。続きを読む...",
+    "published": "2026-08-09T19:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「見えないドローン」をアメリカ・ノースウェスタン大学の研究グループが開発しました。「ファントム・ツイスト(Phantom Twist)」と名付けられたこのドローンは、高速回転する扇風機の羽根やプロペラの形状が見えにくくなる「モーションブラー」を利用して姿を隠します。続きを読む...",
+    "category_key": "robotics",
+    "category_name": "ロボット",
+    "category_emoji": "🦾",
+    "category_priority": 3
+  },
+  {
     "id": "bfe581171553bbef4841e8513532794b",
     "title": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
     "link": "https://ascii.jp/elem/000/004/426/4426041/?rss",
@@ -2967,36 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "3b194e7e84a9fd946cddab9ce1b764bb",
-    "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
-    "link": "https://gigazine.net/news/20260804-ai-test-cg/",
-    "summary": "OpenAIの共同設立者であるアンドレイ・カーパシー氏が「AIに指輪物語の3D世界を生成させる」という形式のベンチマークテストを提案しています。続きを読む...",
-    "published": "2026-08-04T19:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "OpenAIの共同設立者であるアンドレイ・カーパシー氏が「AIに指輪物語の3D世界を生成させる」という形式のベンチマークテストを提案しています。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "9cdf25e79a1a6892a00254f626462e9b",
-    "title": "360°回転する2.8K OLED搭載AI PC「OmniBook X Flip」が17万円台",
-    "link": "https://ascii.jp/elem/000/004/424/4424528/?rss",
-    "summary": "HPのノートPC「OmniBook X Flip 14-fk（B9EE2PA-AAAA）」がAmazonタイムセール対象。参考価格198,000円のところ、9％オフの179,800円で販売中。360°回転するコンバーチブルタイプで、14型2.8K OLEDタッチディスプレイや最大50TOPSのNPUを搭載したAI PCだ。",
-    "published": "2026-08-04T19:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "HPのノートPC「OmniBook X Flip 14-fk（B9EE2PA-AAAA）」がAmazonタイムセール対象。参考価格198,000円のところ、9％オフの179,800円で販売中。360°回転するコンバーチブルタイプで、14型2.8K OLEDタッチディスプレイや最大50TOPSのNPUを搭載したAI PCだ。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
