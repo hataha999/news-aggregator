@@ -1,5 +1,35 @@
 [
   {
+    "id": "eb63055783ba9d0f6069a0d6d0e1297b",
+    "title": "グーグルの画面のないスマートバンド「Google Fitbit Air」はiPhoneでも同じように使える",
+    "link": "https://ascii.jp/elem/000/004/425/4425965/?rss",
+    "summary": "グーグルの画面を持たないスマートバンド「Fitbit Air」はAndroidスマホだけでなく、iPhoneとペアリングして使うこともできます。そこで、筆者が普段メインに使っているiPhone 16 Proと接続させて、Androidでの動作時との違いをチェックしました。",
+    "published": "2026-08-09T12:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "グーグルの画面を持たないスマートバンド「Fitbit Air」はAndroidスマホだけでなく、iPhoneとペアリングして使うこともできます。そこで、筆者が普段メインに使っているiPhone 16 Proと接続させて、Androidでの動作時との違いをチェックしました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "7ffe8f43e30279932683e5888ff5ed48",
+    "title": "スキマバイトで当日キャンセル横行、未払い賃金300億円疑惑の実態",
+    "link": "https://news.livedoor.com/article/detail/32025354/",
+    "summary": "ざっくり言うと スキマバイトの実態を多角的に伝える記事3本をPRESIDENT Onlineが紹介 当日キャンセルや未払い賃金300億円疑惑など働き手側の深刻な被害が明らかに 生活保護利用者が「働くほど苦しくなる」制度の矛盾も藤田和恵さんが取材した 記事を読む",
+    "published": "2026-08-09T11:15:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "ざっくり言うと スキマバイトの実態を多角的に伝える記事3本をPRESIDENT Onlineが紹介 当日キャンセルや未払い賃金300億円疑惑など働き手側の深刻な被害が明らかに 生活保護利用者が「働くほど苦しくなる」制度の矛盾も藤田和恵さんが取材した 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "f5e8be68eaff24ab49ca25c276d4245a",
     "title": "物価が上がるほど価値が増す株主優待、FPが厳選して紹介",
     "link": "https://news.livedoor.com/article/detail/32024525/",
@@ -2968,35 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "13ec2f2e55960ee4810cf1f284ab4533",
-    "title": "高額療養費制度改定で「自己負担額が増加する」SNSでは反発者が続出",
-    "link": "https://news.livedoor.com/article/detail/31986252/",
-    "summary": "ざっくり言うと 高額療養費制度の上限額が8月1日から引き上げられ改定が行われた 自己負担額が年収に応じて4～7%増加し、年間上限も新設されるとのこと 受診控えを懸念する声が多く、全国保険医団体連合会は白紙撤回を求めている 記事を読む",
-    "published": "2026-08-04T18:03:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ざっくり言うと 高額療養費制度の上限額が8月1日から引き上げられ改定が行われた 自己負担額が年収に応じて4～7%増加し、年間上限も新設されるとのこと 受診控えを懸念する声が多く、全国保険医団体連合会は白紙撤回を求めている 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "e5a98393aca4a004c1e2cddd4290d3f6",
-    "title": "iPS細胞治療薬5320万円が保険適用、超高額新薬が生まれる背景とは",
-    "link": "https://news.livedoor.com/article/detail/31985487/",
-    "summary": "記事を読む",
-    "published": "2026-08-04T18:00:20+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
