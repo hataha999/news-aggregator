@@ -735,6 +735,21 @@
     "category_priority": 2
   },
   {
+    "id": "5bcde5afd540644dbdd6fbc5237dd7b9",
+    "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+    "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+    "summary": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
+    "published": "2026-08-13T06:32:01+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "2e00c1216ae768e62ca163b8b722e453",
     "title": "無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性",
     "link": "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
@@ -2983,20 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "808d4649d2c5a6b417d8f06b31f7713a",
-    "title": "欧州を襲う記録的な猛暑が経済にも影響 物価率上昇を押し上げか",
-    "link": "https://news.livedoor.com/article/detail/32018551/",
-    "summary": "ざっくり言うと 欧州の記録的猛暑が経済に深刻な影響を与えているとモハP氏が解説した ライン川水位低下で輸送費が2ヶ月で3倍に上昇するなど物流が打撃を受けている 欧州中央銀行の試算では2022年猛暑がGDP成長率を1%押し下げたとのこと 記事を読む",
-    "published": "2026-08-08T10:00:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 欧州の記録的猛暑が経済に深刻な影響を与えているとモハP氏が解説した ライン川水位低下で輸送費が2ヶ月で3倍に上昇するなど物流が打撃を受けている 欧州中央銀行の試算では2022年猛暑がGDP成長率を1%押し下げたとのこと 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
