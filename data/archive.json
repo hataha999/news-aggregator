@@ -1,5 +1,20 @@
 [
   {
+    "id": "1cc44930a5d652469cd40cad9d834409",
+    "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
+    "link": "https://gigazine.net/news/20260813-traffic-bot-percent/",
+    "summary": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがおよそ214回発生していたとのことです。続きを読む...",
+    "published": "2026-08-13T23:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがおよそ214回発生していたとのことです。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "76f837bf0b7f82389078f9db52f322e5",
     "title": "レクサス新型ESのエントリーモデル790万円、HEVとBEVの2択で選べる",
     "link": "https://news.livedoor.com/article/detail/32059997/",
@@ -420,6 +435,36 @@
     "category_priority": 2
   },
   {
+    "id": "472c65dec9cbfd66ecb3e2366c0a4f50",
+    "title": "Googleが手話をテキストに変換するAIモデルをPixel 11に搭載",
+    "link": "https://gigazine.net/news/20260813-google-sl2t/",
+    "summary": "Google DeepMindの手話チームが、手話の映像を文字に変換する「多言語手話・テキスト変換(sign-language-to-text：SL2T)翻訳モデル」を発表しました。2026年8月20日発売のPixel 11で、手話で文字を入力できるようになる予定です。続きを読む...",
+    "published": "2026-08-13T11:32:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Google DeepMindの手話チームが、手話の映像を文字に変換する「多言語手話・テキスト変換(sign-language-to-text：SL2T)翻訳モデル」を発表しました。2026年8月20日発売のPixel 11で、手話で文字を入力できるようになる予定です。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "608940c7540c68d43dd980ee62fde36b",
+    "title": "AppleはSiri AIが時事問題にさらにアクセスできるようにするため出版社との提携を模索している",
+    "link": "https://gigazine.net/news/20260813-apple-pay-publishers-improve-ai-siri/",
+    "summary": "AppleがWWDC26で発表したSiri AIをよりスマートにするべく、Appleは出版社と報酬支払いについて協議を進めているとウォール・ストリート・ジャーナルが報じました。続きを読む...",
+    "published": "2026-08-13T11:08:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AppleがWWDC26で発表したSiri AIをよりスマートにするべく、Appleは出版社と報酬支払いについて協議を進めているとウォール・ストリート・ジャーナルが報じました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "092c4600e856acb1b72f497afadb75b8",
     "title": "Googleが落とし物トラッカーの「Pixel Tag」を発表、1個5010円",
     "link": "https://gigazine.net/news/20260813-pixel-tag/",
@@ -555,6 +600,21 @@
     "category_priority": 2
   },
   {
+    "id": "3d19fc2324cd839a6c95670e407b9ead",
+    "title": "AIの5大サボりパターンを自動的に解決し無理矢理限界突破させて働かせまくるAIエージェント向けプラグイン「pua」",
+    "link": "https://gigazine.net/news/20260813-pua/",
+    "summary": "「環境の問題かもしれません」と言い訳したり、何回も同じコマンドを実行して「解決できません」と言ったりしてAIが処理をストップしてしまうことを防ぐAIエージェント向けプラグイン「pua」が公開されました。続きを読む...",
+    "published": "2026-08-13T09:30:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「環境の問題かもしれません」と言い訳したり、何回も同じコマンドを実行して「解決できません」と言ったりしてAIが処理をストップしてしまうことを防ぐAIエージェント向けプラグイン「pua」が公開されました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "f18719d6f71a3017c5d388b57b1fc593",
     "title": "会議参加者間でRCE攻撃が可能となる脆弱性 - Zoomが修正",
     "link": "https://www.security-next.com/188719",
@@ -657,6 +717,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "293fd6f75e9b5efd3f6b879beacccabe",
+    "title": "Microsoftは次世代AIチップ「Maia 300」を早ければ2026年9月にも発表予定、2027年中に30万個以上の製造を目指しTSMCと交渉中",
+    "link": "https://gigazine.net/news/20260813-microsoft-maia-300-ai-chip-fall/",
+    "summary": "Microsoftは次世代AIチップである「Maia 300」を早ければ2026年9月にも発表する予定であり、2027年中に30万個以上のチップを製造するために台湾のTSMCと交渉中だと、海外メディアのThe Informationが報じました。続きを読む...",
+    "published": "2026-08-13T08:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Microsoftは次世代AIチップである「Maia 300」を早ければ2026年9月にも発表する予定であり、2027年中に30万個以上のチップを製造するために台湾のTSMCと交渉中だと、海外メディアのThe Informationが報じました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2923,80 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "bff559e935393a730e6172cc715132e8",
-    "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
-    "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
-    "summary": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。続きを読む...",
-    "published": "2026-08-08T09:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "48e93031b61da48c631e15efcd5357cb",
-    "title": "猫の腎臓病ゼロを目指して。AIMが変える猫と人の未来について考える。ねこ検定10周年記念トークライブ開催！",
-    "link": "https://ascii.jp/elem/000/004/425/4425993/?rss",
-    "summary": "猫の腎臓病ゼロを目指して。AIMが変える猫と人の未来について考える。ねこ検定10周年記念トークライブ開催！",
-    "published": "2026-08-08T09:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "猫の腎臓病ゼロを目指して。AIMが変える猫と人の未来について考える。ねこ検定10周年記念トークライブ開催！",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "761f873a16dfa26fe18364d33622db48",
-    "title": "Xがクリエイター報酬制度を刷新、オリジナル投稿を重視する新プログラムへ",
-    "link": "https://news.livedoor.com/article/detail/32018299/",
-    "summary": "ざっくり言うと XがクリエイターへのAd収益分配制度を2026年9月7日で終了すると発表した 新制度ではオリジナルコンテンツのみを報酬対象とし転載や自動投稿は除外される 参加条件は過去90日で50万インプレッション以上などハードルは高めとなっている 記事を読む",
-    "published": "2026-08-08T08:50:14+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと XがクリエイターへのAd収益分配制度を2026年9月7日で終了すると発表した 新制度ではオリジナルコンテンツのみを報酬対象とし転載や自動投稿は除外される 参加条件は過去90日で50万インプレッション以上などハードルは高めとなっている 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "c98b0bcaa28ee451e6f9c3639bd42b6e",
-    "title": "高2息子が夏休みに稼ぎすぎると扶養を外れる？税と保険の仕組みをFPが解説",
-    "link": "https://news.livedoor.com/article/detail/32018102/",
-    "summary": "ざっくり言うと 高校2年生の夏休みバイト収入が扶養に影響するかFPが解説した 扶養には税法上と社会保険上の2種類があり基準や判定方法が異なる 1年間の収入見込みを親子で把握し上手に管理することが重要とのこと 記事を読む",
-    "published": "2026-08-08T08:00:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ざっくり言うと 高校2年生の夏休みバイト収入が扶養に影響するかFPが解説した 扶養には税法上と社会保険上の2種類があり基準や判定方法が異なる 1年間の収入見込みを親子で把握し上手に管理することが重要とのこと 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "fa935fd2724937427a0720eded0c9de1",
-    "title": "Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減",
-    "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
-    "summary": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用途での利便性を向上させた。",
-    "published": "2026-08-08T07:57:07+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "Anthropicは、AIモデル「Claude Fable 5」の生物学分野における過度な保護機能を緩和したと発表した。安全性を重視するあまり発生していた無害な質問への誤検知や下位モデルへのフォールバックを大幅に削減。専門的な二重用途研究への制限は維持しつつ、一般的な健康・教育用途での利便性を向上させた。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
