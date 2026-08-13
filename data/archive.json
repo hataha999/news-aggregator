@@ -1,5 +1,20 @@
 [
   {
+    "id": "9e7db99d817710b7885619aa7d323d4e",
+    "title": "KDDIが「VTuber」と「Galaxy Z Fold8」でミリ波をアピール、通信量増大に“ミリ波を活用しなければいけない”フェーズに",
+    "link": "https://k-tai.watch.impress.co.jp/docs/review/2132390.html",
+    "summary": "KDDIは3日、5G通信とサムスン電子製のスマートフォン「Samsung Galaxy Z Fold8」の魅力を体験できるイベント「Samsung Galaxy Z Fold8シリーズとミリ波で体験！ VTuberスペシャル3Dトークライブ presented by KDDI ｜ Samsung」を開催した。",
+    "published": "2026-08-14T06:00:00+09:00",
+    "source": "ケータイWatch",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "KDDIは3日、5G通信とサムスン電子製のスマートフォン「Samsung Galaxy Z Fold8」の魅力を体験できるイベント「Samsung Galaxy Z Fold8シリーズとミリ波で体験！ VTuberスペシャル3Dトークライブ presented by KDDI ｜ Samsung」を開催した。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
     "id": "1cc44930a5d652469cd40cad9d834409",
     "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
     "link": "https://gigazine.net/news/20260813-traffic-bot-percent/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "81c8ee2ac4f91a8f16391ca015c3f2aa",
-    "title": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
-    "link": "https://ascii.jp/elem/000/004/425/4425997/?rss",
-    "summary": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
-    "published": "2026-08-08T11:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "「METEORA GRAVITY」×クリエイターマッチングポートフォリオ「ENRAI」がコラボ！新進気鋭のクリエイター向けのコンテスト＆法人・団体向けの企画が同時始動！",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
