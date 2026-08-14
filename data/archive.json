@@ -1,5 +1,20 @@
 [
   {
+    "id": "41c89e04e3ad244fca79ad9a1e664152",
+    "title": "10-Year-Old Receives Ham License and More",
+    "link": "http://www.arrl.org/news/view/10-year-old-receives-ham-license-and-more",
+    "summary": "A brand-new young ham in Arizona got more than he was expecting after passing his amateur radio Technician class license exam earlier this month. Along with getting his call sign, KM7HFU, from the FCC, 10-year-old Reynaldo Mangual was presented by the Maricopa Amateur Radio Association (MARA) with an almost-new Yaesu FT-857D HF/VHF/UHF multimode transceiver, an LDG YT-100 automatic antenna tune...",
+    "published": "2026-08-15T02:13:00+09:00",
+    "source": "ARRL",
+    "lang": "en",
+    "_score": 1,
+    "ai_summary": "A brand-new young ham in Arizona got more than he was expecting after passing his amateur radio Technician class license exam earlier this month. Along with getting his call sign, KM7HFU, from the FCC。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
     "id": "0b967c8432c9051e080e6a23cec5f823",
     "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある",
     "link": "https://gigazine.net/news/20260814-openai-special-address/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "c189a4a9c6bda5ac83a4488ee31a4d14",
-    "title": "これならiPhoneの折りたたみにも（多分）勝てる「Galazy Z Fold8 Ultra」を実際にテストする",
-    "link": "https://ascii.jp/elem/000/004/426/4426020/?rss",
-    "summary": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 Ultra」のレビューです。開くと約8.0型の大画面ながら、厚さ約4.1mm、重さ約215gと驚異の薄型軽量化を実現。約30万円からと高価ですが、最上位の性能とAI機能を備えた完成形と言える1台です。",
-    "published": "2026-08-10T17:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8 Ultra」のレビューです。開くと約8.0型の大画面ながら、厚さ約4.1mm、重さ約215gと驚異の薄型軽量化を実現。約30万円からと高価ですが、最上位の性能とAI機能を備えた完成形と言える1台です。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
