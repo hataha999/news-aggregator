@@ -1,5 +1,20 @@
 [
   {
+    "id": "298907b1bc020d27a1e81ff85207a355",
+    "title": "オープンAI 経営幹部が相次ぎ退社",
+    "link": "https://news.yahoo.co.jp/pickup/6592006?source=rss",
+    "summary": "",
+    "published": "2026-08-17T00:00:50+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "オープンAI 経営幹部が相次ぎ退社",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "c278f957ffad416d7c3962cf146b95c2",
     "title": "AI生成テキストの「透かし」が埋め込まれる仕組み",
     "link": "https://gigazine.net/news/20260816-ai-text-watermarking/",
@@ -2983,20 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "517d51f6ba10f6285c96ef41e9cb5dde",
-    "title": "60代から家計を圧迫する、放置しがちな5つの無駄な出費を見直す",
-    "link": "https://news.livedoor.com/article/detail/32045380/",
-    "summary": "ざっくり言うと 元教員FPの秋山ひろ氏がYouTubeで老後破産の入り口を解説した 無意識のサブスクや放置口座など家計を蝕む5項目を今すぐ見直すよう提言 クレジットカードの「永年無料」はずっと無料ではないリスクも指摘した 記事を読む",
-    "published": "2026-08-12T09:00:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 元教員FPの秋山ひろ氏がYouTubeで老後破産の入り口を解説した 無意識のサブスクや放置口座など家計を蝕む5項目を今すぐ見直すよう提言 クレジットカードの「永年無料」はずっと無料ではないリスクも指摘した 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
