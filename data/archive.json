@@ -1,5 +1,20 @@
 [
   {
+    "id": "c278f957ffad416d7c3962cf146b95c2",
+    "title": "AI生成テキストの「透かし」が埋め込まれる仕組み",
+    "link": "https://gigazine.net/news/20260816-ai-text-watermarking/",
+    "summary": "AIが生成したコンテンツに目印を埋め込んで区別できるようにする「ウォーターマーク」が注目されており、OpenAIが試験的に導入したりAnthropicが導入を発表したりしています。画像と違ってデータを隠すためのピクセルがないテキストにはどのようにウォーターマークを入れるのかという仕組みについて、人間とAIの関係性について調査・研究するNOPEが解説しています。続きを読む...",
+    "published": "2026-08-16T19:20:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIが生成したコンテンツに目印を埋め込んで区別できるようにする「ウォーターマーク」が注目されており、OpenAIが試験的に導入したりAnthropicが導入を発表したりしています。画像と違ってデータを隠すためのピクセルがないテキストにはどのようにウォーターマークを入れるのかという仕組みについて、人間とAIの関係性について調査・研究するNOPEが解説しています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "14332d110bdde013b6d2ce8592c0c084",
     "title": "無料でオープンソースの写真撮影ワークフローアプリ「darktable」、RAW現像も可能",
     "link": "https://gigazine.net/news/20260816-darktable/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "d02ade7ce95984e8716c29d775f77965",
-    "title": "EC × AI 売れているショップはどのように活用しているか？ 「集客（LLMO）」「データ活用」「顧客接点」を8/19(水)・8/21(金)・8/26(水)に開催",
-    "link": "https://ascii.jp/elem/000/004/426/4426368/?rss",
-    "summary": "EC × AI 売れているショップはどのように活用しているか？ 「集客（LLMO）」「データ活用」「顧客接点」を8/19(水)・8/21(金)・8/26(水)に開催",
-    "published": "2026-08-12T09:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "EC × AI 売れているショップはどのように活用しているか？ 「集客（LLMO）」「データ活用」「顧客接点」を8/19(水)・8/21(金)・8/26(水)に開催",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
