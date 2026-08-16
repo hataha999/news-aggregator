@@ -1,5 +1,20 @@
 [
   {
+    "id": "e6fef9e2feadebcb9cd6b39e32ed5332",
+    "title": "二宮和也とアイナ・ジ・エンド、ドコモ「ahamo」の「Google Pixel 11」新CMで初共演 メイキング公開",
+    "link": "https://k-tai.watch.impress.co.jp/docs/news/2132891.html",
+    "summary": "NTTドコモは、オンライン専用プラン「ahamo」と新型スマホ「Google Pixel 11」のWebCMを13日に公開した。二宮和也とアイナ・ジ・エンドが起用されており、2人は今回が初共演となる。新たに、メイキング映像とインタビュー映像が公開された。",
+    "published": "2026-08-17T04:00:00+09:00",
+    "source": "ケータイWatch",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "NTTドコモは、オンライン専用プラン「ahamo」と新型スマホ「Google Pixel 11」のWebCMを13日に公開した。二宮和也とアイナ・ジ・エンドが起用されており、2人は今回が初共演となる。新たに、メイキング映像とインタビュー映像が公開された。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
     "id": "298907b1bc020d27a1e81ff85207a355",
     "title": "オープンAI 経営幹部が相次ぎ退社",
     "link": "https://news.yahoo.co.jp/pickup/6592006?source=rss",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "98cd9aa03302a5571ccf7d9f6cf06996",
-    "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
-    "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
-    "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-    "published": "2026-08-12T09:21:15+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
