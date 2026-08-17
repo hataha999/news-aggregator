@@ -1,5 +1,20 @@
 [
   {
+    "id": "b72b039d2c612a87d1bd85493c8a9dfc",
+    "title": "週刊アスキー No.1609(2026年8月18日発行)",
+    "link": "https://ascii.jp/elem/000/004/426/4426917/?rss",
+    "summary": "特集1はAIを使ったワンランク上の使いこなしとプログラミング環境の紹介。かつては覚えることが多かったプログラミングもAIに聞けば初心者でも簡単に取り組める。特集2はスマホを便利にする代表的なAIツールを紹介。",
+    "published": "2026-08-18T00:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "特集1はAIを使ったワンランク上の使いこなしとプログラミング環境の紹介。かつては覚えることが多かったプログラミングもAIに聞けば初心者でも簡単に取り組める。特集2はスマホを便利にする代表的なAIツールを紹介。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "ac94a123b6fa1d2a3f78d2008d91599a",
     "title": "生成AIで標章偽造の疑い 書類送検",
     "link": "https://news.yahoo.co.jp/pickup/6592107?source=rss",
@@ -27,6 +42,21 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "6f1066c9dc9add673af0b0e672c582b4",
+    "title": "「うんこミュージアム」でサイト改ざん - 個人情報流出の可能性",
+    "link": "https://www.security-next.com/188876",
+    "summary": "エンターテインメント施設「うんこミュージアム」のサイトが不正アクセスを受け、一部個人情報が流出した可能性があることがわかった。",
+    "published": "2026-08-17T20:48:38+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "エンターテインメント施設「うんこミュージアム」のサイトが不正アクセスを受け、一部個人情報が流出した可能性があることがわかった。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
     "category_priority": 2
   },
   {
@@ -390,6 +420,36 @@
     "category_priority": 2
   },
   {
+    "id": "53f9a54de9eff2c4193689af3ddc8758",
+    "title": "OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チームが解散",
+    "link": "https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/",
+    "summary": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。続きを読む...",
+    "published": "2026-08-17T13:29:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "b893028fb7f74db54e5f736ee8ed26c5",
+    "title": "Anthropicのダリオ・アモデイCEOが「AIの規制」について物申す、規制が中央集権化につながるという指摘に反論",
+    "link": "https://gigazine.net/news/20260817-dario-amodei-comment/",
+    "summary": "Anthropicのダリオ・アモデイCEOは、カリフォルニア州で成立したAI規制法に賛成の立場を示し、AIが危険になり得るというメッセージを発信しています。このことが一部の人に「AIを中央集権化して独占したいと考えているのでは」と捉えられたため、アモデイCEOが発言意図について説明しました。続きを読む...",
+    "published": "2026-08-17T13:26:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Anthropicのダリオ・アモデイCEOは、カリフォルニア州で成立したAI規制法に賛成の立場を示し、AIが危険になり得るというメッセージを発信しています。このことが一部の人に「AIを中央集権化して独占したいと考えているのでは」と捉えられたため、アモデイCEOが発言意図について説明しました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "93e2185da12f9b7b7e0350a477636333",
     "title": "GoogleがGeminiとFlowにAIが生成した画像・動画・音楽から目に見える「透かし」を削除する切り替え機能を追加、ただしSynthID透かしとC2PAメタデータは残る",
     "link": "https://gigazine.net/news/20260817-google-visible-watermarks/",
@@ -568,6 +628,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "b3338ea8e78306ff4d05d3e0191e3904",
+    "title": "顧客の個人情報が流出した可能性 - 淡路島の宿泊施設",
+    "link": "https://www.security-next.com/188294",
+    "summary": "淡路島で宿泊施設「海月館」を運営するかいげつは、外部からのサイバー攻撃により、同社顧客の個人情報が流出した可能性があることを明らかにした。",
+    "published": "2026-08-17T11:16:07+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "淡路島で宿泊施設「海月館」を運営するかいげつは、外部からのサイバー攻撃により、同社顧客の個人情報が流出した可能性があることを明らかにした。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
   },
   {
     "id": "6c422670ca641f4630ab8f65a8f71ba7",
@@ -2923,80 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "db424929148ea760ef1e4322e96fc481",
-    "title": "「WordPress 7.0.4」が公開、RCE脆弱性に対処 - 特定条件下で影響",
-    "link": "https://www.security-next.com/188759",
-    "summary": "コンテンツマネジメントシステム「WordPress」の開発チームは、脆弱性へ対処したアップデート「同7.0.4」をリリースした。すみやかに更新するよう利用者に呼びかけている。",
-    "published": "2026-08-13T08:19:22+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "コンテンツマネジメントシステム「WordPress」の開発チームは、脆弱性へ対処したアップデート「同7.0.4」をリリースした。すみやかに更新するよう利用者に呼びかけている。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "293fd6f75e9b5efd3f6b879beacccabe",
-    "title": "Microsoftは次世代AIチップ「Maia 300」を早ければ2026年9月にも発表予定、2027年中に30万個以上の製造を目指しTSMCと交渉中",
-    "link": "https://gigazine.net/news/20260813-microsoft-maia-300-ai-chip-fall/",
-    "summary": "Microsoftは次世代AIチップである「Maia 300」を早ければ2026年9月にも発表する予定であり、2027年中に30万個以上のチップを製造するために台湾のTSMCと交渉中だと、海外メディアのThe Informationが報じました。続きを読む...",
-    "published": "2026-08-13T08:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Microsoftは次世代AIチップである「Maia 300」を早ければ2026年9月にも発表する予定であり、2027年中に30万個以上のチップを製造するために台湾のTSMCと交渉中だと、海外メディアのThe Informationが報じました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "5bcde5afd540644dbdd6fbc5237dd7b9",
-    "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
-    "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-    "summary": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
-    "published": "2026-08-13T06:32:01+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "2e00c1216ae768e62ca163b8b722e453",
-    "title": "無気力感や抑うつ症状を伴うロングCOVID患者は健康な人よりもドーパミンを放出する神経終末が約18％少ない可能性",
-    "link": "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
-    "summary": "新型コロナウイルスへの感染後、急性期を過ぎても体調不良が長く続く状態は「ロングCOVID」と呼ばれています。カナダの研究チームが無気力感や抑うつ症状を伴うロングCOVID患者の脳をスキャンして調べたところ、ドーパミンを放出する神経終末の状態を示す指標が健康な人より約18％低いことが分かりました。続きを読む...",
-    "published": "2026-08-13T06:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "新型コロナウイルスへの感染後、急性期を過ぎても体調不良が長く続く状態は「ロングCOVID」と呼ばれています。カナダの研究チームが無気力感や抑うつ症状を伴うロングCOVID患者の脳をスキャンして調べたところ、ドーパミンを放出する神経終末の状態を示す指標が健康な人より約18％低いことが分かりました。続きを読む...",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "c2e64445afdd43b0461a2a835cf49951",
-    "title": "エリック・シュミット：データからエージェントへ、AIは科学を再び変える",
-    "link": "https://ascii.jp/elem/000/004/426/4426530/?rss",
-    "summary": "ノーベル賞に輝いたAlphaFold（アルファフォールド）は、AIが科学を加速させる手本と称賛されてきた。だが、それを可能にしたタンパク質構造データバンクは、長い年月と膨大な労力をかけて築かれたもので、他分野での再現は難しい。巨大なデータに頼らず実際の研究プロセスを模倣するAIエージェントこそが、科学を変える——元グーグルCEOはそう説く。",
-    "published": "2026-08-13T05:53:24+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ノーベル賞に輝いたAlphaFold（アルファフォールド）は、AIが科学を加速させる手本と称賛されてきた。だが、それを可能にしたタンパク質構造データバンクは、長い年月と膨大な労力をかけて築かれたもので、他分野での再現は難しい。巨大なデータに頼らず実際の研究プロセスを模倣するAIエージェントこそが、科学を変える——元グーグルCEOはそう説く。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
