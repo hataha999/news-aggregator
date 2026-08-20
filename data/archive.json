@@ -15,6 +15,21 @@
     "category_priority": 3
   },
   {
+    "id": "9a64c0835e0110584e2a532e9f2b454b",
+    "title": "情報流出の可能性、影響範囲など調査 - 農業用温室メーカー",
+    "link": "https://www.security-next.com/188290",
+    "summary": "農業用温室や建築資材の製造、販売を手がける大仙は、外部からシステムが侵害され、マルウェアに感染したことを明らかにした。同社より情報が流出した可能性もあるとし、調査を進めている。",
+    "published": "2026-08-20T23:07:47+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "農業用温室や建築資材の製造、販売を手がける大仙は、外部からシステムが侵害され、マルウェアに感染したことを明らかにした。同社より情報が流出した可能性もあるとし、調査を進めている。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
     "id": "471b6a0244f8a22be2f4782a098b33b4",
     "title": "プログラマーはどの言語からどの言語へ移住しているのか？JetBrainsが8837人分の回答を分析",
     "link": "https://gigazine.net/news/20260820-jetbrains-programming-language-migration/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 2,
     "ai_summary": "進化した生成AIと映像演出で「好きなキャラと暮らす夢」を部屋の中で具現化する、次元を超えた魔法の箱がこちら！",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "a93e4be4285a4434794949d9d0fe0e08",
-    "title": "「気持ち悪い…」飲食店のAI販促物、SNSで相次ぎ注目 使い方の問題か",
-    "link": "https://ascii.jp/elem/000/004/427/4427098/?rss",
-    "summary": "SNS（X）で8月中旬頃から、画像生成AIを使った飲食店の販促物に対して、「気持ち悪い」などの否定的な声が複数挙がっている。背景にはAIの使い方の問題があるようだ。",
-    "published": "2026-08-17T17:55:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "SNS（X）で8月中旬頃から、画像生成AIを使った飲食店の販促物に対して、「気持ち悪い」などの否定的な声が複数挙がっている。背景にはAIの使い方の問題があるようだ。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
