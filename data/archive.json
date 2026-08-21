@@ -1,5 +1,20 @@
 [
   {
+    "id": "1db91ebb3f9bf2da6f790a7c1254d8dc",
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
+    "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
+    "summary": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。Hermes Agentにはこうして実際に行った作業の手順やトラブルの解決方法を「スキル」として保存し、別のセッションでも再利用できるようにする機能があります。そこで今回は、前回の「GIGAZINEから記事を探して内容をまとめる」という一連の作業を実際にスキル化し、新しいセッションで同じような作業を頼んだ際に前回の経験がどのように生かされるのかを確かめてみます。続きを読む...",
+    "published": "2026-08-21T23:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "45eb7cfdc09d64c6883f10756fb97050",
     "title": "AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」",
     "link": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
@@ -375,6 +390,21 @@
     "category_priority": 2
   },
   {
+    "id": "7253f1db3aa92cf157e36cebc38861c9",
+    "title": "Chromebookの後継機種「Googlebook」のプレビューイベントをGoogleが2026年9月15日にニューヨークで開催",
+    "link": "https://gigazine.net/news/20260821-googlebook-event/",
+    "summary": "Googleは2026年5月に、Gemini Intelligence向けに設計されたノートPC「Googlebook」を発表しました。価格や発売時期、詳細なスペックなどは公開されていませんでしたが、Googleは2026年9月15日にメディア関係者限定のGooglebookプレビューイベントをニューヨークで開催することが明らかになりました。続きを読む...",
+    "published": "2026-08-21T13:15:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Googleは2026年5月に、Gemini Intelligence向けに設計されたノートPC「Googlebook」を発表しました。価格や発売時期、詳細なスペックなどは公開されていませんでしたが、Googleは2026年9月15日にメディア関係者限定のGooglebookプレビューイベントをニューヨークで開催することが明らかになりました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "6c4f273448658ac91496496095b0acab",
     "title": "「ロボットのChatGPTモーメントは近い」―─上場した中国ロボット大手Unitree CEO",
     "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000665/",
@@ -492,6 +522,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "a5c34997db0abdf01b7db0d59f0bfca1",
+    "title": "Microsoftが「8月のWindowsアップデートがゲームに問題を引き起こす可能性がある」と警告",
+    "link": "https://gigazine.net/news/20260821-windows-update-game-crash/",
+    "summary": "2026年8月12日に配信されたWindowsのバージョン「26100.9168/KB5121003」で、「ARC Raiders」「The Finals」「MARVEL Tōkon: Fighting Souls」など一部のゲームにクラッシュ等の問題が起きていることが分かりました。Microsoftはこの問題を認め、Microsoftに起因するものなのかどうかを調査しています。続きを読む...",
+    "published": "2026-08-21T11:05:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "2026年8月12日に配信されたWindowsのバージョン「26100.9168/KB5121003」で、「ARC Raiders」「The Finals」「MARVEL Tōkon: Fighting Souls」など一部のゲームにクラッシュ等の問題が起きていることが分かりました。Microsoftはこの問題を認め、Microsoftに起因するものなのかどうかを調査しています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2953,50 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "9d3890467905ccc188921444db5eeb09",
-    "title": "Telegramの海賊版配信者をAIで自動検出するツールを研究者らが開発、61日間で海賊版チャンネル524件とボット71件の削除に役立つ",
-    "link": "https://gigazine.net/news/20260818-telegram-pirates/",
-    "summary": "ロシアの起業家が開発したメッセージアプリ「Telegram」は、ロシアやウクライナで主要なメッセージングサービスとして使われているほか、映画やテレビ番組などの海賊版コンテンツを共有するプラットフォームとして使われている側面があります。ルイジアナ州立大学とテキサス大学アーリントン校の研究者らは、「Telegram上の動画海賊行為に関する最初の大規模な研究」と表現するTelegramの分析結果を発表しています。続きを読む...",
-    "published": "2026-08-18T15:16:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ロシアの起業家が開発したメッセージアプリ「Telegram」は、ロシアやウクライナで主要なメッセージングサービスとして使われているほか、映画やテレビ番組などの海賊版コンテンツを共有するプラットフォームとして使われている側面があります。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "282075bf9b9797f0b7b18ca945724c93",
-    "title": "「2年先の暑さ」までAIが予測 企業の計画に変化も",
-    "link": "https://ascii.jp/elem/000/004/427/4427424/?rss",
-    "summary": "ウェザーニューズは8月18日、法人向けサービス「ウェザーニュース for business」で24ヵ月先までの月別気温予測の提供を開始したと発表した。",
-    "published": "2026-08-18T15:05:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ウェザーニューズは8月18日、法人向けサービス「ウェザーニュース for business」で24ヵ月先までの月別気温予測の提供を開始したと発表した。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "893d30c883e5f9f61929527b69334259",
-    "title": "対照的な日米の金融政策により1ドル＝170円超えも視野に",
-    "link": "https://zuuonline.com/archives/302830",
-    "summary": "この記事は2026年8月7日に「きんざいOnline：週刊金融財政事情」で公開された「対照的な日米の金融政策により1ドル＝170円超えも視野に」を一部編集し、転載したものです。 (画像=eRuslan/stock.adobe.com)円安進行を抑える切り札である「日本銀行の利上げ続行」カードが、政治の闇に葬り去られようとしている。入院によって6月金融政策決定会合を欠席した植田和男総裁を、日銀関係者が批判したという怪しげなうわさが市場で流れた。5年間の任期満了まで2年近く残すなか、内田眞一副総裁を引き合いに出し、後任の総裁人事予想を報道するメディアも出始めたが、まったく失礼な話である。内田副総裁は、アベノミクスの異次元緩和を長年支えた日銀事務方だ。そのハト派ぶりは随所に垣間見える。足元では「6カ月に1回」程度の利上げペースだが、2024年2月の内田副総裁の講演では「12カ月に1回」と示唆していた（図表）。高市早苗政権がリフレ派委員を日銀に送り込んでいるが、植田総裁の任期中には、政策委員会9人の過半数を握れない。そのためか、力ずくで2％前後へ利上げを続行しそうな植田総裁を降板させ、ハト派の内田副総裁を登板させたい政治家の影がちらつく。折しも、高市政権が26年の「骨太の方針」原案で、政府の成長戦略への連携を日銀に求めたため、利上げ打ち止め観測が一部で浮上した。プライマリーバランス黒字化方針の削除は財政不安を増幅し、長期金利が急上昇。円は1ドル＝163円台後半に達し、40年ぶりの水準に沈んだ。この「骨太ショック」が、国内外投資家の「日本売り」を誘発したことは疑いようがない。こうした状況下で、年度末にかけてドル円相場の想定レンジを示すとすれば、下値は為替介入観測報道があった7月30日に一時つけた1ドル＝156円付近がせいぜいとみる。その理由は、日米金利差のいっそうの拡大を米連邦準備制",
-    "published": "2026-08-18T15:00:00+09:00",
-    "source": "ZUU online",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "この記事は2026年8月7日に「きんざいOnline：週刊金融財政事情」で公開された「対照的な日米の金融政策により1ドル＝170円超えも視野に」を一部編集し、転載したものです。 (画像=eRuslan/stock.adobe.com)円安進行を抑える切り札である「日本銀行の利上げ続行」カードが、政治の闇に葬り去られようとしている。",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
