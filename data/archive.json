@@ -1,5 +1,35 @@
 [
   {
+    "id": "8a1be590fd072e1bb54e6aad3c1c25b8",
+    "title": "80代母を支えた60代長女が実家1850万円を生前贈与した理由",
+    "link": "https://news.livedoor.com/article/detail/32135257/",
+    "summary": "ざっくり言うと 80代母が60代長女に評価額1,850万円の実家を生前贈与した事例を紹介 相続時精算課税制度を活用し、贈与税・相続税ともに0円になる見込みとなった 母親が元気なうちに妹へ直接説明し、将来のきょうだい間トラブルを防いだ 記事を読む",
+    "published": "2026-08-23T08:15:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "ざっくり言うと 80代母が60代長女に評価額1,850万円の実家を生前贈与した事例を紹介 相続時精算課税制度を活用し、贈与税・相続税ともに0円になる見込みとなった 母親が元気なうちに妹へ直接説明し、将来のきょうだい間トラブルを防いだ 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
+    "id": "d72b8356fc876bd8276d2e549e99b03a",
+    "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言",
+    "link": "https://gigazine.net/news/20260823-openai-lawsuit-chatgpt-medical-advice/",
+    "summary": "肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。続きを読む...",
+    "published": "2026-08-23T08:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "肺塞栓症を患っていた男性が医療アドバイスを求めてChatGPTを利用したところ、不正確な回答をされ、その結果治療が遅れてしまったとして、その男性がChatGPT開発元のOpenAIを訴えたことが分かりました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "973b6d736144f0833a5c4f7333b83bcb",
     "title": "架空の党員をAIで作成 立憲苦言",
     "link": "https://news.yahoo.co.jp/pickup/6592700?source=rss",
@@ -2967,36 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "552f8cb7de10754ab50cc505d8390e2b",
-    "title": "千葉豪雨で約2500台の車が道路に放置、水没時の脱出法と保険を確認",
-    "link": "https://news.livedoor.com/article/detail/32099816/",
-    "summary": "記事を読む",
-    "published": "2026-08-18T23:02:01+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "49fa467b4ff0d7151e49a7ed1f80da62",
-    "title": "メルアカに不正アクセス、個人情報流出の可能性 - ナイス",
-    "link": "https://www.security-next.com/188537",
-    "summary": "建築資材の卸売や住宅販売を手がけるナイスは、メールアカウントが不正アクセスを受け、アカウント内に保存されていた個人情報が流出した可能性があることを明らかにした。",
-    "published": "2026-08-18T22:53:53+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "建築資材の卸売や住宅販売を手がけるナイスは、メールアカウントが不正アクセスを受け、アカウント内に保存されていた個人情報が流出した可能性があることを明らかにした。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
