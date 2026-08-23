@@ -1,5 +1,20 @@
 [
   {
+    "id": "c97ff587cae16757665076fe95075938",
+    "title": "お得なPC買い替えならFMV Storeの「目玉品」に注目！ Ryzen AI 5 340搭載デスクトップPCもこの価格！",
+    "link": "https://ascii.jp/elem/000/004/427/4427655/?rss",
+    "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+    "published": "2026-08-23T17:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "b9c514eff2bde47c0a2eb196710b8e0e",
     "title": "年金だけ苦しい 炎天下働くシニア",
     "link": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "79a94036df7e5991a66dccb675fff1f3",
-    "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
-    "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-    "summary": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
-    "published": "2026-08-19T07:54:32+09:00",
-    "source": "ITmedia NEWS",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
