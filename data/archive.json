@@ -1,5 +1,20 @@
 [
   {
+    "id": "8a86bb000c6d2bf502f10464b39e46bc",
+    "title": "「Mac Studio」待望の新モデル M5 UltraでAI性能は最大4.3倍に 512GBメモリも選べる",
+    "link": "https://www.itmedia.co.jp/news/article/2608/26/2000000778/",
+    "summary": "米Appleが、デスクトップPC「Mac Studio」の新モデルを発表した。新チップ「M5 Ultra」を載せた上位モデルはユニファイドメモリを最大512GB搭載でき、下位のM5 Max搭載モデルは最大128GB。世界的なメモリ不足で、現行モデルの選択肢は最大96GBまで絞られていた。価格は41万9800円から。",
+    "published": "2026-08-26T02:26:42+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米Appleが、デスクトップPC「Mac Studio」の新モデルを発表した。新チップ「M5 Ultra」を載せた上位モデルはユニファイドメモリを最大512GB搭載でき、下位のM5 Max搭載モデルは最大128GB。世界的なメモリ不足で、現行モデルの選択肢は最大96GBまで絞られていた。価格は41万9800円から。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "c421cdf93e25b0ff45ba55a81dcce2bf",
     "title": "クアルコムのCPU「Oryon」最新モデル発表、スマホ初の5GHz駆動と新キャッシュ採用",
     "link": "https://k-tai.watch.impress.co.jp/docs/news/2135548.html",
@@ -58,6 +73,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "acb86aceba959b2330436b648b28a8c4",
+    "title": "「Chrome」が「クリティカル」含む脆弱性7件を修正",
+    "link": "https://www.security-next.com/189386",
+    "summary": "Googleは現地時間2026年8月20日、「Google Chrome」のセキュリティアップデートをリリースした。「クリティカル」1件を含む7件の脆弱性を解消している。",
+    "published": "2026-08-25T23:16:08+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "Googleは現地時間2026年8月20日、「Google Chrome」のセキュリティアップデートをリリースした。「クリティカル」1件を含む7件の脆弱性を解消している。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
   },
   {
     "id": "b7062c643840c522f0e15fd36bcb2bd6",
@@ -268,6 +298,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "0c32091fa0760abe5e2fff8b3654bba8",
+    "title": "LDPlayerにAIライブ壁紙機能を追加！自分だけのゲーム環境を楽しむ！",
+    "link": "https://ascii.jp/elem/000/004/429/4429327/?rss",
+    "summary": "LDPlayerにAIライブ壁紙機能を追加！自分だけのゲーム環境を楽しむ！",
+    "published": "2026-08-25T18:35:57+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "LDPlayerにAIライブ壁紙機能を追加！自分だけのゲーム環境を楽しむ！",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "91324cb66e678cab17ef9e265b8b8aef",
@@ -2952,51 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "37973b98b1de253d4aa5ebc2195cbf32",
-    "title": "「PostgreSQL」が脆弱性28件や多数バグを修正",
-    "link": "https://www.security-next.com/189206",
-    "summary": "データベース「PostgreSQL」の開発チームは現地時間2026年8月13日、複数の脆弱性へ対処したセキュリティアップデートをリリースした。",
-    "published": "2026-08-21T11:53:15+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "データベース「PostgreSQL」の開発チームは現地時間2026年8月13日、複数の脆弱性へ対処したセキュリティアップデートをリリースした。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "45f582b2be91737af8299512e600be4a",
-    "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
-    "link": "https://gigazine.net/news/20260821-anthropic-claude-academy/",
-    "summary": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。続きを読む...",
-    "published": "2026-08-21T11:42:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "AIの「Claude」を開発するAnthropicが、Claudeの使い方を解説するページ「Claude Academy」を公開しました。文章・画像・動画でClaudeの使用方法が解説されており、日本語にも対応しています。サインイン不要で誰でも閲覧できるのが特徴です。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "3d517fb8ccf1bd3da9d93e83a518648f",
-    "title": "Googleの無料AIモデル「Gemma」が10億ダウンロードを達成",
-    "link": "https://gigazine.net/news/20260821-gemma-passes-1-billion-downloads/",
-    "summary": "Googleが開発するオープンモデル「Gemma」のダウンロード数が、10億回を突破したことが明らかになりました。続きを読む...",
-    "published": "2026-08-21T11:24:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Googleが開発するオープンモデル「Gemma」のダウンロード数が、10億回を突破したことが明らかになりました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
