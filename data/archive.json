@@ -1,5 +1,20 @@
 [
   {
+    "id": "0f7005f5ca0bd8d1b2e1774eb6551846",
+    "title": "AIエージェント時代のコーディングテクニック「コーディングルールをAGENTS.mdにまとめる」「品質が低下したらAGENTS.mdの読み直しを指示」",
+    "link": "https://gigazine.net/news/20260826-agent-improve-llm-code-quality/",
+    "summary": "AIエージェント時代向けのコーディングテクニックを、エンジニアのファビアン・サングラール氏が紹介しています。続きを読む...",
+    "published": "2026-08-26T22:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIエージェント時代向けのコーディングテクニックを、エンジニアのファビアン・サングラール氏が紹介しています。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "cf89392c3209fcce0fc99bfc65e9f0ba",
     "title": "AIトレーニングでGPUが無駄に待機状態になってしまっている理由とAdobeが行った対処とは？",
     "link": "https://gigazine.net/news/20260826-gpu-idle/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "手元のスマートフォンを見たあとに遠くを見ると、ピント合わせに時間がかかる。このピント調節を電子制御で自動化しようとしているのがViXion株式会社だ。2026年7月1日から3日まで京都で開催されたスタートアップカンファレンス「IVS2026」では、オートフォーカスアイウェア「ViXion」を展示していた。",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
-  },
-  {
-    "id": "3c24ccbeb79a233fe4a7a311e3ead0be",
-    "title": "人類はなぜ宇宙を目指すのか？ 揺らぐ宇宙飛行士の役割",
-    "link": "https://ascii.jp/elem/000/004/428/4428659/?rss",
-    "summary": "2026年4月、アルテミスIIの宇宙飛行士4人が月を周回し、人類が地球から最も遠くまで到達した記録を塗り替えた。米中は月の南極に基地を競い、民間企業は宇宙観光へ乗り出す。だが、最も本質的な問いは残ったままだ。危険で費用もかさみ、ロボットで足りるかもしれないのに、人はなぜ宇宙へ行くのか？",
-    "published": "2026-08-24T06:57:33+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "2026年4月、アルテミスIIの宇宙飛行士4人が月を周回し、人類が地球から最も遠くまで到達した記録を塗り替えた。米中は月の南極に基地を競い、民間企業は宇宙観光へ乗り出す。だが、最も本質的な問いは残ったままだ。危険で費用もかさみ、ロボットで足りるかもしれないのに、人はなぜ宇宙へ行くのか？",
     "category_key": "robotics",
     "category_name": "ロボット",
     "category_emoji": "🦾",
