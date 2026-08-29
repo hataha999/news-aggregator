@@ -1,5 +1,20 @@
 [
   {
+    "id": "1ff8672a95902e69eba69998f89e1354",
+    "title": "「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+    "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
+    "summary": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。",
+    "published": "2026-08-30T07:16:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "成人向けECサイトである「FANZA」で、生成AIを使って作品を作り、公開できるサービス「FANZAスタジオ」の先行体験がスタートしました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "4686c6a10df3ab1d4f291fc5ed594840",
     "title": "Ryzen AI 5 340搭載で、23.8型ディスプレーの一体型デスクトップPCが22万円台！",
     "link": "https://ascii.jp/elem/000/004/429/4429930/?rss",
@@ -1303,6 +1318,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "09c64ed35b41e01b952e95cd62a7191d",
+    "title": "MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力",
+    "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
+    "summary": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。",
+    "published": "2026-08-27T10:25:36+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、今後のMCPの進化について、その方向性を示す新たなロードマップを発表しました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "1c93f6377bab95075b2b237625edb73b",
@@ -2967,36 +2997,6 @@
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "2dae78ccaed1d1c31e399a49eba0b98a",
-    "title": "SORACOM Knowledge MCPサーバー、ChatGPT・Claude・GitHub公式ディレクトリに掲載 数クリックで利用可能に",
-    "link": "https://ascii.jp/elem/000/004/429/4429015/?rss",
-    "summary": "SORACOMは「SORACOM Knowledge MCPサーバー」をChatGPT、Claude、GitHubの公式ディレクトリ／レジストリに掲載。手動設定不要で数クリックから利用でき、公式ドキュメントやAPIリファレンスなどをAIから参照しやすくなった。",
-    "published": "2026-08-25T13:30:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 3,
-    "ai_summary": "SORACOMは「SORACOM Knowledge MCPサーバー」をChatGPT、Claude、GitHubの公式ディレクトリ／レジストリに掲載。手動設定不要で数クリックから利用でき、公式ドキュメントやAPIリファレンスなどをAIから参照しやすくなった。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "029c6e1185b4204afaafca959200791a",
-    "title": "「SKYSEA Client View」などに複数脆弱性 - 修正版を提供",
-    "link": "https://www.security-next.com/189344",
-    "summary": "Skyが提供するIT資産管理ツール「SKYSEA Client View」「SKYMEC IT Manager」に複数の脆弱性が明らかとなった。",
-    "published": "2026-08-25T13:03:04+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Skyが提供するIT資産管理ツール「SKYSEA Client View」「SKYMEC IT Manager」に複数の脆弱性が明らかとなった。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
     "category_priority": 2
   }
 ]
