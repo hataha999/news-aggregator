@@ -240,6 +240,21 @@
     "category_priority": 2
   },
   {
+    "id": "9d64d8bd7415b794aeb64d22f8d83490",
+    "title": "【本日セール最終日】iPhone Airもまだ安い！ Amazonで今のうちに買っておきたいもの5選",
+    "link": "https://ascii.jp/elem/000/004/432/4432157/?rss",
+    "summary": "スマイルSaleの最後にもう一度チェックしておきたい商品を5つピックアップしました。「これなら今買っておきたい」と思える値引きと、セール終了後もちゃんと使える実用性の両方を重視して選んでいます。",
+    "published": "2026-09-03T17:30:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "スマイルSaleの最後にもう一度チェックしておきたい商品を5つピックアップしました。「これなら今買っておきたい」と思える値引きと、セール終了後もちゃんと使える実用性の両方を重視して選んでいます。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "292d0fba36fe743dab5700f1a9debdc5",
     "title": "トランプ政権「記事のAI学習は著作権侵害ではない」 OpenAIを支持する意見書、対New York Timesなどとの訴訟で",
     "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001130/",
@@ -270,6 +285,21 @@
     "category_priority": 2
   },
   {
+    "id": "37e2184b473c5fe999c1fd67cba09e89",
+    "title": "AWSをゲームで学べる“AWSクエスト”にまさかの新バージョン AIバーチャル顧客と対話可能に",
+    "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001124/",
+    "summary": "米Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。",
+    "published": "2026-09-03T16:26:37+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "860a0be4d9782aab2fc111ff94cd1829",
     "title": "AIブームで迫られる米利上げ、債券市場の構造不況の脱却も",
     "link": "https://zuuonline.com/archives/302975",
@@ -283,6 +313,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "8e8941d943a7b132afc6fc9cf8c5fc58",
+    "title": "公立学校の生徒が高校生になるまでAIの使用を禁止するとニューヨーク市教育局が発表、すべての学年でチャットボットを禁止するなど新たな方針も採用",
+    "link": "https://gigazine.net/news/20260903-nyc-school-system-ban-ai-middle-school/",
+    "summary": "現地時間の2026年9月2日、ニューヨーク市長のゾーラン・マムダニ氏と、ニューヨーク市教育局のカマル・サミュエルズ教育長が、アメリカにおいて最も広範な学校におけるAI禁止措置を発表しました。続きを読む...",
+    "published": "2026-09-03T15:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "現地時間の2026年9月2日、ニューヨーク市長のゾーラン・マムダニ氏と、ニューヨーク市教育局のカマル・サミュエルズ教育長が、アメリカにおいて最も広範な学校におけるAI禁止措置を発表しました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "417f9ac512f2862a18e1e2988e69922c",
@@ -300,6 +345,21 @@
     "category_priority": 2
   },
   {
+    "id": "1647becfa0882d6564417568398fbbc1",
+    "title": "Claudeの“見えない透かし”適用開始 Fable 5.1とMythos 5.1が出力する文やコード、画像に付与 日本も対象",
+    "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001110/",
+    "summary": "米Anthropicが「Claude」の出力に埋め込むと予告していた機械可読な透かしが、9月1日（現地時間）提供開始の最新モデル「Claude Fable 5.1」と「Claude Mythos 5.1」で有効になった。ファイルの来歴を確かめる無料ツールの公開も始まっている。",
+    "published": "2026-09-03T14:45:33+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米Anthropicが「Claude」の出力に埋め込むと予告していた機械可読な透かしが、9月1日（現地時間）提供開始の最新モデル「Claude Fable 5.1」と「Claude Mythos 5.1」で有効になった。ファイルの来歴を確かめる無料ツールの公開も始まっている。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "dd7a87e00a93bcf5412f2093b1cbedd6",
     "title": "Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減",
     "link": "https://gigazine.net/news/20260903-google-mantis-open-source/",
@@ -312,6 +372,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "50eece0e6c15638e0f27ac4ff410d499",
+    "title": "著作権を巡るOpenAIとニューヨーク・タイムズの訴訟について司法省が「AIトレーニングはフェアユース」と主張する書面を提出",
+    "link": "https://gigazine.net/news/20260903-trump-administration-sides-with-openai-in-lawsuit-against-nyt/",
+    "summary": "アメリカの大手日刊紙であるニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で訴えた訴訟で、アメリカの司法省が「AIのトレーニングで著作権保護対象の資料を使うのは著作権法違反ではない」と主張し、OpenAIを支持する意見書を提出しました。続きを読む...",
+    "published": "2026-09-03T13:55:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "アメリカの大手日刊紙であるニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で訴えた訴訟で、アメリカの司法省が「AIのトレーニングで著作権保護対象の資料を使うのは著作権法違反ではない」と主張し、OpenAIを支持する意見書を提出しました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2923,80 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "202fbd5a1dd9dc909bcad3289aa9b9ea",
-    "title": "年金月14万と25万の差、現役時代の収入が2倍でも年金は約1.5倍にとどまる",
-    "link": "https://news.livedoor.com/article/detail/32196076/",
-    "summary": "ざっくり言うと 年金月14万円と月25万円の差が生じる仕組みをFINANCIAL FIELDが解説した 年収400万円と800万円で2倍差があっても年金額の差は約1.48倍にとどまるという 国民年金の定額性や標準報酬月額の上限が差が縮まる主な要因とされている 記事を読む",
-    "published": "2026-08-30T12:30:06+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 年金月14万円と月25万円の差が生じる仕組みをFINANCIAL FIELDが解説した 年収400万円と800万円で2倍差があっても年金額の差は約1.48倍にとどまるという 国民年金の定額性や標準報酬月額の上限が差が縮まる主な要因とされている 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "cfcf1516c12236a6bca21c8d94763017",
-    "title": "無料でAIチャットを編集可能なノードのつながりに変えてくれる「ThoughtDAG」",
-    "link": "https://gigazine.net/news/20260830-thoughtdag/",
-    "summary": "「ThoughtDAG」はLLMとの対話をグラフ構造で直感的に編集でき、AIとの対話における「コンテキスト」の扱い方を根本から変える革新的なツールです。続きを読む...",
-    "published": "2026-08-30T12:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "「ThoughtDAG」はLLMとの対話をグラフ構造で直感的に編集でき、AIとの対話における「コンテキスト」の扱い方を根本から変える革新的なツールです。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "9c3179b9511412255f52fc0d843dd47b",
-    "title": "被相続人が妹に渡した現金、審判所が「生前贈与」と認定した判断の根拠",
-    "link": "https://news.livedoor.com/article/detail/32195476/",
-    "summary": "ざっくり言うと 相続税をめぐり、妹が受け取った現金が生前贈与か死因贈与かで争われた 「残っていた分を分けてほしい」という発言が死因贈与と整合しないと審判所が判断 調査時の発言は論理的整合性まで検討すべきと示した裁決事例だと税理士が解説 記事を読む",
-    "published": "2026-08-30T11:15:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 相続税をめぐり、妹が受け取った現金が生前贈与か死因贈与かで争われた 「残っていた分を分けてほしい」という発言が死因贈与と整合しないと審判所が判断 調査時の発言は論理的整合性まで検討すべきと示した裁決事例だと税理士が解説 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "95412750109746cda48c00396e25e9a3",
-    "title": "年収950万円の妻を亡くした50歳専業主夫、遺族年金を受け取れない理由",
-    "link": "https://news.livedoor.com/article/detail/32195180/",
-    "summary": "ざっくり言うと 専業主夫の50歳男性が妻を亡くし遺族年金を受給できない事例をCFPが解説 子のない50歳未満の夫は遺族厚生年金の対象外という制度の盲点が判明した 2028年改正で男女共通5年給付へ変わるが現行制度では救済されないとのこと 記事を読む",
-    "published": "2026-08-30T10:15:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 3,
-    "ai_summary": "ざっくり言うと 専業主夫の50歳男性が妻を亡くし遺族年金を受給できない事例をCFPが解説 子のない50歳未満の夫は遺族厚生年金の対象外という制度の盲点が判明した 2028年改正で男女共通5年給付へ変わるが現行制度では救済されないとのこと 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "11c9fb18a0cd5ecb441c3663d170479e",
-    "title": "再雇用を断り独立した65歳夫、3年で貯金500万円を溶かし夜バイトへ",
-    "link": "https://news.livedoor.com/article/detail/32195246/",
-    "summary": "ざっくり言うと 60歳で独立開業した仮名・浩一さんの事業が3年で失敗した事例を紹介 売上はほぼゼロのまま貯蓄500万円が消え、妻が熟年離婚を検討するに至った 夫婦で節目の基準を決めることの重要性を家計再生コンサルタントが説いている 記事を読む",
-    "published": "2026-08-30T10:15:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 60歳で独立開業した仮名・浩一さんの事業が3年で失敗した事例を紹介 売上はほぼゼロのまま貯蓄500万円が消え、妻が熟年離婚を検討するに至った 夫婦で節目の基準を決めることの重要性を家計再生コンサルタントが説いている 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
