@@ -1,5 +1,20 @@
 [
   {
+    "id": "cf92ef69f96076825cd2e7c66b61a893",
+    "title": "世帯年収1700万円の50代女性が家計を公開、夫の小遣いは月10万円",
+    "link": "https://news.livedoor.com/article/detail/32252693/",
+    "summary": "ざっくり言うと 宮崎県在住の50代女性が世帯年収1700万円の家計の実態を明かした 食費は家族3人で月8万円、夫婦の小遣いは合計月17万円とのこと 金融資産5400万円・不動産3000万円を保有し住宅ローンも5年で完済予定 記事を読む",
+    "published": "2026-09-06T06:00:23+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 宮崎県在住の50代女性が世帯年収1700万円の家計の実態を明かした 食費は家族3人で月8万円、夫婦の小遣いは合計月17万円とのこと 金融資産5400万円・不動産3000万円を保有し住宅ローンも5年で完済予定 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "e547ba9b52fc37110d142c23212ae6ae",
     "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
     "link": "https://gigazine.net/news/20260905-robot-olympics/",
@@ -2982,21 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "9722028bd8710d62e98bf1deaab5d370",
-    "title": "AIとやり取りし続けると人間が「ロボットのように」振る舞い始めてしまう可能性",
-    "link": "https://gigazine.net/news/20260901-interacting-ai-people-act-like-robots/",
-    "summary": "AIの急速な発展に伴い、ユーザーからの質問に回答するAIチャットボットや、生成AIによる自動音声サポートを導入する企業が増えています。そんな中、人間がAIとのやり取りを重ねるにつれて、「まるでロボットのように振る舞い始めてしまう可能性がある」と研究者らが指摘しました。続きを読む...",
-    "published": "2026-09-01T14:07:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "AIの急速な発展に伴い、ユーザーからの質問に回答するAIチャットボットや、生成AIによる自動音声サポートを導入する企業が増えています。そんな中、人間がAIとのやり取りを重ねるにつれて、「まるでロボットのように振る舞い始めてしまう可能性がある」と研究者らが指摘しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
