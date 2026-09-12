@@ -1,5 +1,35 @@
 [
   {
+    "id": "1dab9c94933e30c4c43b227d963ab7ac",
+    "title": "AnthropicCEO AI開発の減速訴え",
+    "link": "https://news.yahoo.co.jp/pickup/6595106?source=rss",
+    "summary": "",
+    "published": "2026-09-13T07:35:27+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AnthropicCEO AI開発の減速訴え",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "bd1600c81b93b4657c7e9d8bed0e39ec",
+    "title": "元国税局調査官が語る、税務署に狙われやすい店の特徴と内偵の手口",
+    "link": "https://news.livedoor.com/article/detail/32310558/",
+    "summary": "ざっくり言うと 税務署が狙う業種の特徴を元東京国税局調査官の菊池悠税理士が解説した 2026年はAI・ビッグデータを活用し民泊や暗号資産取引を重点調査するという 調査の前段階で時間をかけた情報収集が行われているとのことで注意が必要だ 記事を読む",
+    "published": "2026-09-13T06:00:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 税務署が狙う業種の特徴を元東京国税局調査官の菊池悠税理士が解説した 2026年はAI・ビッグデータを活用し民泊や暗号資産取引を重点調査するという 調査の前段階で時間をかけた情報収集が行われているとのことで注意が必要だ 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "d58b715e3c038e16ee0e8120924e54f2",
     "title": "米利上げ予想高まる インフレ続く",
     "link": "https://news.yahoo.co.jp/pickup/6595097?source=rss",
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "ec0b5cf1146b988744f691c40beb3977",
-    "title": "「IBM Operational Decision Manager」に深刻なSQLi脆弱性",
-    "link": "https://www.security-next.com/189995",
-    "summary": "IBMは、「IBM Operational Decision Manager（ODM）」に複数の脆弱性が判明したことを明らかにした。脆弱性を修正したアップデートを提供している。",
-    "published": "2026-09-08T14:45:43+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "IBMは、「IBM Operational Decision Manager（ODM）」に複数の脆弱性が判明したことを明らかにした。脆弱性を修正したアップデートを提供している。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "a7f30008f0bc9567905ebb62d9821852",
-    "title": "Googleが「AIで飛行機雲を避ける」実証実験を航空会社と連携して実施、温暖化影響を約40％削減",
-    "link": "https://gigazine.net/news/20260908-contrail-avoidance-trial/",
-    "summary": "航空機が搭載しているジェットエンジンの排気ガスに含まれる粒子に水蒸気が凝結して形成される飛行機雲(コントレイル)は、地球温暖化の原因の1つであり、航空業界による気候への影響のおよそ3分の1を占めているとされています。Googleは、AIを利用して飛行機雲による地球温暖化を緩和するための研究「Project Contrails」に取り組んでおり、その一環として航空会社パートナーであるキャセイパシフィック航空と提携し、超長距離フライトにおける飛行機雲回避のテスト結果を報告しています。続きを読む...",
-    "published": "2026-09-08T14:45:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "航空機が搭載しているジェットエンジンの排気ガスに含まれる粒子に水蒸気が凝結して形成される飛行機雲(コントレイル)は、地球温暖化の原因の1つであり、航空業界による気候への影響のおよそ3分の1を占めているとされています。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
