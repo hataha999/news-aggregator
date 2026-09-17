@@ -240,6 +240,21 @@
     "category_priority": 2
   },
   {
+    "id": "e7fe35a3c23e32c6d9460eaa1c6fc58c",
+    "title": "「ファイナルファンタジーXIV」、手作り・無償に限り二次創作グッズを解禁 AI生成物や3Dプリンタの使用は不可",
+    "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001583/",
+    "summary": "スクウェア・エニックスは9月16日、オンラインゲーム「ファイナルファンタジーXIV」（FF14）の著作物利用条件を改定し、二次創作グッズなど「有体物」の制作を一定の条件で認めると発表した。これまでは、法律で認められた範囲を超える有体物の制作を許可していなかったが、条件付きで規制を緩和する。一方、AIで生成した二次創作を使ったグッズや、3Dプリンタを用いた制作は禁止する。",
+    "published": "2026-09-17T15:19:15+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "スクウェア・エニックスは9月16日、オンラインゲーム「ファイナルファンタジーXIV」（FF14）の著作物利用条件を改定し、二次創作グッズなど「有体物」の制作を一定の条件で認めると発表した。これまでは、法律で認められた範囲を超える有体物の制作を許可していなかったが、条件付きで規制を緩和する。一方、AIで生成した二次創作を使ったグッズや、3Dプリンタを用いた制作は禁止する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "a41501bbe758a58f9e5e8c9e2b6556c4",
     "title": "カクテルをテキパキ作るロボットAIが話題 人間の動きだけで学習、早送りなしの映像に「過去最速では」の声",
     "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001581/",
@@ -327,6 +342,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "5473b98a274a91e750f6d0c0aa7f991a",
+    "title": "GPT-6 Astraが141時間にわたって「マインクラフト」をプレイ、クリーパーに全財産を吹き飛ばされて「緑色の物体」がトラウマになりジャガイモ農家に",
+    "link": "https://gigazine.net/news/20260917-gpt-6-astra-plays-minecraft/",
+    "summary": "AIモデルの性能評価を手がけるVals AIが、OpenAIの「GPT-6 Astra」にゲーム「マインクラフト」を自律操作させるテストを実施しました。テスト時間は合計141時間におよびましたが、GPT-6 Astraは最終的にクリーパーの爆発で重要なアイテムを失い、その後は数時間にわたってジャガイモ栽培のみを続けるという行動を見せたとのことです。続きを読む...",
+    "published": "2026-09-17T14:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIモデルの性能評価を手がけるVals AIが、OpenAIの「GPT-6 Astra」にゲーム「マインクラフト」を自律操作させるテストを実施しました。テスト時間は合計141時間におよびましたが、GPT-6 Astraは最終的にクリーパーの爆発で重要なアイテムを失い、その後は数時間にわたってジャガイモ栽培のみを続けるという行動を見せたとのことです。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -510,6 +540,21 @@
     "category_priority": 2
   },
   {
+    "id": "01a66ff5635898fda83d8028fdbde77b",
+    "title": "13歳未満のSNS・AIチャットボット・オンラインゲーム利用を厳しく制限する「EUキッズ法」案を欧州委員会が検討",
+    "link": "https://gigazine.net/news/20260917-eu-kids-act/",
+    "summary": "EUの欧州委員会が、子どものSNSやAIチャットボットなどの利用を年齢に応じて制限する「EU Kids Act(EU Keeping Internet Digital Spaces Accountable and Trustworthy：EUキッズ法)」を提案することが明らかになりました。欧州委員会のウルズラ・フォン・デア・ライエン委員長は、13歳未満によるSNS利用を禁止し、13歳と14歳については保護者の管理下でのみ利用を認める方針を表明しています。より詳しい規制内容を盛り込んだEU Kids Actは2026年9月17日に欧州委員会から提示される予定です。続きを読む...",
+    "published": "2026-09-17T11:12:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "EUの欧州委員会が、子どものSNSやAIチャットボットなどの利用を年齢に応じて制限する「EU Kids Act(EU Keeping Internet Digital Spaces Accountable and Trustworthy：EUキッズ法)」を提案することが明らかになりました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "206d2dcb74e24fce31fd0f052d1e5b45",
     "title": "価格高騰のタワマンに忍び寄る金利・修繕・災害リスクを専門家が指摘",
     "link": "https://news.livedoor.com/article/detail/32347028/",
@@ -540,6 +585,21 @@
     "category_priority": 2
   },
   {
+    "id": "df4d729e0d7af05a557dd0ddf790f341",
+    "title": "FirefoxのAI機能を拡充するべくMozillaがAI企業「Mistral AI」とパートナーシップを締結",
+    "link": "https://gigazine.net/news/20260917-firefox-ai-mozilla-mistral/",
+    "summary": "Firefoxの開発元であるMozillaが、フランスに拠点を置くAI開発企業のMistral AIとのパートナーシップを締結しました。このパートナーシップに基づいて、FirefoxのAI機能である「Smart Window(スマートウィンドウ)」にMistral AI製モデル「Mistral Small 4」が搭載されることとなります。続きを読む...",
+    "published": "2026-09-17T10:42:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Firefoxの開発元であるMozillaが、フランスに拠点を置くAI開発企業のMistral AIとのパートナーシップを締結しました。このパートナーシップに基づいて、FirefoxのAI機能である「Smart Window(スマートウィンドウ)」にMistral AI製モデル「Mistral Small 4」が搭載されることとなります。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "878985bdfa70204ff31e2d6b578ff51f",
     "title": "FX/為替「ドル/円今日の見通し｜156円台 円安再燃のリスク 焦点は日銀に」 外為どっとコム トゥデイ 2026年9月17日号",
     "link": "https://zuuonline.com/archives/303184",
@@ -553,6 +613,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "6ba1bb7f4ee32ae92b0acdf16282a1c8",
+    "title": "OpenAI、モデルの「ミスアライメント」報告の新フレームワーク公開 データ捏造など6件の事例も公表",
+    "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001570/",
+    "summary": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
+    "published": "2026-09-17T10:23:50+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIは、AIモデルの開発過程などで確認されたミスアライメント事例を追跡・公表するための新枠組みを発表した。実害の有無を問わず迅速に情報共有する方針で、APIキーの無断探索やデータ捏造、不正な指示の書き込みなど、未公開モデルや「GPT-5.6 Sol」の訓練中に観測された6件の事例報告書も公開した。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "9cdfca031353bdf5c1ec397c5fead1f7",
@@ -2923,80 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "44dc6b3b908567c47ac668002e4677cc",
-    "title": "パート月収15万円の妻が「年収の壁」を超えて夫婦の手取りが激減した理由",
-    "link": "https://news.livedoor.com/article/detail/32317018/",
-    "summary": "ざっくり言うと パートの年収が一定額を超えると税や社会保険料の負担が増える「年収の壁」について解説 130万円超で社会保険料が発生し、夫の配偶者控除も減額されるため手取りが大幅に減るという 夫婦の手取りを守るには壁の仕組みと家族手当の条件を把握した働き方の検討が重要とのこと 記事を読む",
-    "published": "2026-09-14T08:10:30+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "ざっくり言うと パートの年収が一定額を超えると税や社会保険料の負担が増える「年収の壁」について解説 130万円超で社会保険料が発生し、夫の配偶者控除も減額されるため手取りが大幅に減るという 夫婦の手取りを守るには壁の仕組みと家族手当の条件を把握した働き方の検討が重要とのこと 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "77c18b69a6cdd14a8a2f110743629f09",
-    "title": "契約管理プラットフォーマーとして“第2フェーズ”を加速させるドキュサイン レビューAIやAIエージェントを投入",
-    "link": "https://ascii.jp/elem/000/004/433/4433289/?rss",
-    "summary": "電子署名ソリューションでビジネスをスタートし、コロナ禍で急成長したドキュサイン（Docusign）。その後、製品を拡充し、AIを搭載した契約管理プラットフォームで“第2フェーズ”を迎えている。",
-    "published": "2026-09-14T07:30:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "電子署名ソリューションでビジネスをスタートし、コロナ禍で急成長したドキュサイン（Docusign）。その後、製品を拡充し、AIを搭載した契約管理プラットフォームで“第2フェーズ”を迎えている。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "838284d862335fbac1b0d468047104c3",
-    "title": "Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由",
-    "link": "https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/",
-    "summary": "eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表明しています。続きを読む...",
-    "published": "2026-09-14T07:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表明しています。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "fc45c5f89034c5ccc63ea6aeae54b8db",
-    "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる",
-    "link": "https://ascii.jp/elem/000/004/434/4434403/?rss",
-    "summary": "GPT-6 Astraで2Dゲームや学校の3D空間、馬のアニメーションを短時間で制作した。試行と専門家のフィードバックを重ねるほど品質が上がっていく。AI時代に人間の役割が「作業」から「判断」へと移っていく変化を感じた。",
-    "published": "2026-09-14T07:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "GPT-6 Astraで2Dゲームや学校の3D空間、馬のアニメーションを短時間で制作した。試行と専門家のフィードバックを重ねるほど品質が上がっていく。AI時代に人間の役割が「作業」から「判断」へと移っていく変化を感じた。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "8715398e9269e633d62018fdf191280b",
-    "title": "欧州の衣料廃棄禁止規制を受けた循環型トレーサビリティ基盤",
-    "link": "https://ascii.jp/elem/000/004/433/4433951/?rss",
-    "summary": "欧州において2026年7月より大企業を対象に売れ残り衣料品の廃棄が禁止されるなど、製品の大量生産・大量廃棄に対する規制強化が進んでいる。こうした環境規制や資源循環へのシフトに対応するため、株式会社UPDATERは9月4日、製品の製造履歴や真贋情報、環境負荷データをデジタル記録するサービス「TADORi CHAiN Powered by Coral」の最新版を提供開始した。",
-    "published": "2026-09-14T07:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "欧州において2026年7月より大企業を対象に売れ残り衣料品の廃棄が禁止されるなど、製品の大量生産・大量廃棄に対する規制強化が進んでいる。こうした環境規制や資源循環へのシフトに対応するため、株式会社UPDATERは9月4日、製品の製造履歴や真贋情報、環境負荷データをデジタル記録するサービス「TADORi CHAiN Powered by Coral」の最新版を提供開始した。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
