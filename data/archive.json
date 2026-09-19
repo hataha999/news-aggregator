@@ -2565,6 +2565,21 @@
     "category_priority": 2
   },
   {
+    "id": "8ec835546d36237c10e04cf78491f21f",
+    "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？",
+    "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
+    "summary": "昔描いた漫画のデータをGoogleドライブにアップロードしている途中で警告を受け、再審査請求も却下されてGoogleアカウントを停止──その原因と対策は。",
+    "published": "2026-09-16T12:00:00+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "昔描いた漫画のデータをGoogleドライブにアップロードしている途中で警告を受け、再審査請求も却下されてGoogleアカウントを停止──その原因と対策は。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "8973a84b723ea52de1e6955e0c75bda3",
     "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
     "link": "https://gigazine.net/news/20260916-system-one-jev/",
@@ -2574,6 +2589,21 @@
     "lang": "ja",
     "_score": 4,
     "ai_summary": "AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "fd9d0970f97626a3a04caae8c4b0e21e",
+    "title": "Meta、InstagramやFacebook横断の新サブスク「Meta One」発表 AI枠拡大で月額949円から",
+    "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001529/",
+    "summary": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。",
+    "published": "2026-09-16T11:24:39+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
@@ -2968,35 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "6dff7838b06901d2bdd2c8ed8f0c38a9",
-    "title": "めちゃくちゃパワフル。災害が心配なので「冷蔵庫も動くポータブルバッテリー」買いました",
-    "link": "https://ascii.jp/elem/000/004/433/4433631/?rss",
-    "summary": "「DJI Power 2000（DYM2000L）」は、あのドローンで有名なDJIが手掛けるポータブル電源です。2048Whの超大容量と最大2700Wの超高出力を誇り、家庭内のほぼすべての家電を同時に動かせるモンスター級の性能を備えています。",
-    "published": "2026-09-15T18:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "「DJI Power 2000（DYM2000L）」は、あのドローンで有名なDJIが手掛けるポータブル電源です。2048Whの超大容量と最大2700Wの超高出力を誇り、家庭内のほぼすべての家電を同時に動かせるモンスター級の性能を備えています。",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
-  },
-  {
-    "id": "7aca884115d75d91f9602000219bcc7c",
-    "title": "NVIDIAが映像フレーム補間や生中継翻訳などの放送業界向けAIコレクション「NVIDIA AI for Media」の大幅拡充を発表",
-    "link": "https://gigazine.net/news/20260915-nvidia-ai-for-media/",
-    "summary": "NVIDIAは放送業界向けのAIツールコレクションとして「NVIDIA AI For Media」を展開しています。このNVIDIA AI For Mediaに複数の新規AIツールが加わりました。続きを読む...",
-    "published": "2026-09-15T17:39:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "NVIDIAは放送業界向けのAIツールコレクションとして「NVIDIA AI For Media」を展開しています。このNVIDIA AI For Mediaに複数の新規AIツールが加わりました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
