@@ -330,6 +330,21 @@
     "category_priority": 2
   },
   {
+    "id": "5756faca7d40f22c3ec367d43bc0c063",
+    "title": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
+    "link": "https://ascii.jp/elem/000/004/436/4436603/?rss",
+    "summary": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
+    "published": "2026-09-22T08:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "44d8bb79f8544608fa4ab0a36e872136",
     "title": "Google、「Googlebook」の予約受付開始 899ドル（約14万円）から",
     "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
@@ -2983,20 +2998,5 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
-  },
-  {
-    "id": "233457e1b50c610787fdc3de4eb5b4f1",
-    "title": "破綻バイオ企業もターゲット、オープンAIが生物学データに投資",
-    "link": "https://ascii.jp/elem/000/004/435/4435571/?rss",
-    "summary": "オープンAI財団が、AIの学習用に「高品質な科学データセット」を作る新たな取り組みを始めた。助成先の一つは、経営破綻したバイオテクノロジー企業の破産手続きで、規制当局への申請資料など通常は営業秘密にあたる文書を買い取る構想だ。生物学データの不足が医療AIの最大のボトルネックになっているとの認識が背景にある。",
-    "published": "2026-09-17T06:52:33+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "オープンAI財団が、AIの学習用に「高品質な科学データセット」を作る新たな取り組みを始めた。助成先の一つは、経営破綻したバイオテクノロジー企業の破産手続きで、規制当局への申請資料など通常は営業秘密にあたる文書を買い取る構想だ。生物学データの不足が医療AIの最大のボトルネックになっているとの認識が背景にある。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
