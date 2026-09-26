@@ -1,5 +1,20 @@
 [
   {
+    "id": "707caf0787e45d95be1e5bcd9311ad24",
+    "title": "Video/Podcast with ARRL CEO David Minster, NA2AA",
+    "link": "http://www.arrl.org/news/view/video-podcast-with-arrl-ceo-david-minster-na2aa",
+    "summary": "ARRL CEO David Minster, NA2AA, was a guest on episode 103 of The DX Mentor, which aired September 19, 2026. Hosted by Bill Salyers, AJ8B, with Joe Pater, W8GEX, the discussion covered highlights from the ARRL Board of Directors’ annual Second Meeting, held July 17; the International Amateur Radio Union (IARU); the August ARRL National Convention hosted by the Huntsville Hamfest, and recent supp...",
+    "published": "2026-09-27T00:00:00+09:00",
+    "source": "ARRL",
+    "lang": "en",
+    "_score": 1,
+    "ai_summary": "ARRL CEO David Minster, NA2AA, was a guest on episode 103 of The DX Mentor, which aired September 19, 2026. Hosted by Bill Salyers, AJ8B, with Joe Pater, W8GEX, the discussion covered highlights from 。",
+    "category_key": "radio",
+    "category_name": "無線",
+    "category_emoji": "📡",
+    "category_priority": 3
+  },
+  {
     "id": "c0e859ffc98b51c0a634526358dd5e50",
     "title": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？",
     "link": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
@@ -2983,20 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "27332c0d683290e83a7bc65893fc8d1b",
-    "title": "サウジ東西パイプライン停止で原油供給に不安、専門家が物価高騰を懸念",
-    "link": "https://news.livedoor.com/article/detail/32378477/",
-    "summary": "記事を読む",
-    "published": "2026-09-21T11:00:37+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
