@@ -1,5 +1,20 @@
 [
   {
+    "id": "a20faec82be78ee2dde90d9a35352353",
+    "title": "AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」",
+    "link": "https://gigazine.net/news/20260927-digital-camouflage-shirt/",
+    "summary": "AI搭載のカメラで監視されることを嫌った人物が、着ている人をAIが人と認識できなくなる特製の迷彩柄シャツを作り上げました。続きを読む...",
+    "published": "2026-09-27T08:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AI搭載のカメラで監視されることを嫌った人物が、着ている人をAIが人と認識できなくなる特製の迷彩柄シャツを作り上げました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "707caf0787e45d95be1e5bcd9311ad24",
     "title": "Video/Podcast with ARRL CEO David Minster, NA2AA",
     "link": "http://www.arrl.org/news/view/video-podcast-with-arrl-ceo-david-minster-na2aa",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 3,
     "ai_summary": "Uravation代表 佐藤傑、2024年からの公開登壇55回の実績一覧ページを公開。自社主催講座の受講後満足度96.2%などの数値、生成AI・Claude Codeの講演テーマ、登壇予定6件を掲載",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "8f38fffb1836814fcd78035545ef4c48",
-    "title": "AIで仕事は進む。では、建設現場に「判断経験」は残るか。",
-    "link": "https://ascii.jp/elem/000/004/436/4436574/?rss",
-    "summary": "AIで仕事は進む。では、建設現場に「判断経験」は残るか。",
-    "published": "2026-09-21T11:34:01+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIで仕事は進む。では、建設現場に「判断経験」は残るか。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
