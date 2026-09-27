@@ -1,5 +1,20 @@
 [
   {
+    "id": "a6be6798dbf10db4ee3f29554f1b5424",
+    "title": "【特別企画】急激に進化する「AI」 - 見直すべき運用と変わらぬ防御原則",
+    "link": "https://www.security-next.com/190251",
+    "summary": "2026年に入り、「AI」が従来の予想を超える急激な進化を遂げている。AIによる大量の脆弱性報告など、セキュリティ分野に与えたインパクトは大きい。AIエージェントの過剰権限やシャドーAIといったリスクにも直面しており、セキュリティの確保が組織にとって大きな課題となっている。",
+    "published": "2026-09-28T00:01:17+09:00",
+    "source": "Security NEXT",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "2026年に入り、「AI」が従来の予想を超える急激な進化を遂げている。AIによる大量の脆弱性報告など、セキュリティ分野に与えたインパクトは大きい。AIエージェントの過剰権限やシャドーAIといったリスクにも直面しており、セキュリティの確保が組織にとって大きな課題となっている。",
+    "category_key": "security",
+    "category_name": "セキュリティ",
+    "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
     "id": "8156b9511cb22b31b95981ed3bff238c",
     "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
     "link": "https://gigazine.net/news/20260927-comfy-router/",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 1,
     "ai_summary": "Googleは5月に発表した新型ノートPC「Googlebook」の予約受付を開始した。899ドル（約14万円）からで日本は発売地域外。Androidを基盤にデスクトップ機能を組み合わせ、AIやスマホ連携を強化したフラグシップ機と位置付ける。自社製はなくAcerやASUSなど5社から展開し、最長10年のOSアップデートを提供する。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "39bd42306f34077c5f5f56da0cfee5f8",
-    "title": "偶然出会った彼女はAI、電話に出た警察官はディープフェイク──急速に巧妙化するAI詐欺",
-    "link": "https://ascii.jp/limit/group/ida/elem/000/004/436/4436553/?rss",
-    "summary": "生成AIの進化で、詐欺の手口も急速に巧妙化している。マッチング相手がAI、声を女性に変換、警察官を装ったディープフェイクまで、実際に確認された事例から最新のAI詐欺の実態を紹介する。",
-    "published": "2026-09-22T07:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "生成AIの進化で、詐欺の手口も急速に巧妙化している。マッチング相手がAI、声を女性に変換、警察官を装ったディープフェイクまで、実際に確認された事例から最新のAI詐欺の実態を紹介する。",
     "category_key": "ai",
     "category_name": "AI",
     "category_emoji": "🤖",
