@@ -15,6 +15,21 @@
     "category_priority": 2
   },
   {
+    "id": "800cd3ec7c2ef51326d7db887f5a6677",
+    "title": "住宅ローン変動型が大手5行で1%超え、超長期化の動きが広がる",
+    "link": "https://news.livedoor.com/article/detail/32486688/",
+    "summary": "ざっくり言うと 日銀の利上げを受け、住宅ローンの金利引き上げが相次いでいる状況だ 変動型最優遇金利は大手5行で1％超となり固定型でも4％台が広がった 住宅高騰で超長期ローン利用が拡大し返済リスクへの懸念が高まっている 記事を読む",
+    "published": "2026-10-04T19:32:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 日銀の利上げを受け、住宅ローンの金利引き上げが相次いでいる状況だ 変動型最優遇金利は大手5行で1％超となり固定型でも4％台が広がった 住宅高騰で超長期ローン利用が拡大し返済リスクへの懸念が高まっている 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "522aa44880130265b54e11278f2111e7",
     "title": "名刺ケースがボタン1つで自動展開！わずか0.2秒で圧倒的なインパクトと共に名刺を出せる「機動文具 自動変形名刺ケース」レビュー",
     "link": "https://gigazine.net/news/20261004-mobile-stationery-business-card-case/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "0cbc83128335c3de558ef5a22b5f0ec1",
-    "title": "PFU製Image Scanner Driver for Linuxにおける複数の脆弱性",
-    "link": "https://jvn.jp/vu/JVNVU96968110/",
-    "summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。",
-    "published": "2026-09-29T15:00:00+09:00",
-    "source": "JVN（脆弱性情報）",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "株式会社PFUが提供するImage Scanner Driver for Linuxには、複数の脆弱性が存在します。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
   }
 ]
