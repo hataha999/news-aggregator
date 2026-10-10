@@ -1,5 +1,20 @@
 [
   {
+    "id": "212b03773746a6638e5bc3d8827eb163",
+    "title": "500万円を1年預けるなら、どの銀行の定期預金が有利か金利で比較",
+    "link": "https://news.livedoor.com/article/detail/32538122/",
+    "summary": "ざっくり言うと All Aboutが2026年10月5日時点で、500万円を1年預ける定期預金を紹介した SBJ銀行が年1.70％で最高水準で、新規や久しぶりの利用なら年1.87％になる 金利1.70％なら税引き後の利息は約6万7733円で、元本1000万円まで保護される 記事を読む",
+    "published": "2026-10-10T21:20:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 2,
+    "ai_summary": "ざっくり言うと All Aboutが2026年10月5日時点で、500万円を1年預ける定期預金を紹介した SBJ銀行が年1.70％で最高水準で、新規や久しぶりの利用なら年1.87％になる 金利1.70％なら税引き後の利息は約6万7733円で、元本1000万円まで保護される 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "017525de72870a02b4f0d082eccf095f",
     "title": "【中3でFP2級に合格】FP夫婦が実践！ お金に一生困らない子を育てる方法",
     "link": "https://zuuonline.com/archives/303321",
@@ -735,6 +750,21 @@
     "category_priority": 1
   },
   {
+    "id": "115384dad768088b751cd02652c5b670",
+    "title": "Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表 「Amazonキッズタブレット」は日本でも発売へ",
+    "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002155/",
+    "summary": "Amazonは、新タブレット「Amazon Alexa Tablet」3機種を発表した。「Fire」ブランドを刷新し、AndroidとGoogle Playに対応したほか、AIアシスタント「Alexa+」を内蔵する。子ども向け「Amazonキッズタブレット」も発表し、日本限定「ちいかわ」モデルなどを10月14日より出荷する。",
+    "published": "2026-10-09T10:20:36+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Amazonは、新タブレット「Amazon Alexa Tablet」3機種を発表した。「Fire」ブランドを刷新し、AndroidとGoogle Playに対応したほか、AIアシスタント「Alexa+」を内蔵する。子ども向け「Amazonキッズタブレット」も発表し、日本限定「ちいかわ」モデルなどを10月14日より出荷する。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "9f267af5a7901ea9635d3d5b881d0d0b",
     "title": "IDCFフロンティア、ランサムウェア攻撃で顧客データ復元困難に 企業や自治体など495者に影響",
     "link": "https://ascii.jp/elem/000/004/441/4441355/?rss",
@@ -1197,6 +1227,36 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "e531289163b2f1a2e333e3071b67a21e",
+    "title": "Google、AI生成物の判定ツールを一般公開 OpenAIやNVIDIA製サービスも対象に",
+    "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/",
+    "summary": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
+    "published": "2026-10-08T13:25:25+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米Googleは10月7日（現地時間）、AI生成コンテンツの判定ツール「SynthID Detector」を一般公開したと発表した。これまではジャーナリストや研究者など一部に限って提供していた。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
+    "id": "7cb916720880e660aa62265ddebd4c8d",
+    "title": "止まらない不正アクセス、背景にAIの“超高速攻撃”か 識者「使われていない方が不自然」",
+    "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002101/",
+    "summary": "相次ぐ不正アクセスに、専門家は「個々のインシデントについて、攻撃にAIが使われているかどうかを外部から断定はできない」としつつ、攻撃の特徴から「使われていないと考える方が不自然」との見方を示す。",
+    "published": "2026-10-08T13:11:50+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "相次ぐ不正アクセスに、専門家は「個々のインシデントについて、攻撃にAIが使われているかどうかを外部から断定はできない」としつつ、攻撃の特徴から「使われていないと考える方が不自然」との見方を示す。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2938,65 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "b5616e3ba52f83aeaa18e7b80421a1ea",
-    "title": "SpaceXAIを「SpaceXSI」に改名するとイーロン・マスクが表明",
-    "link": "https://gigazine.net/news/20261005-spacexai-rename-spacexsi/",
-    "summary": "宇宙企業SpaceXの傘下企業で、AI開発やXの運営を手がける「SpaceXAI」を「SpaceXSI」に改名するとイーロン・マスク氏が表明しました。続きを読む...",
-    "published": "2026-10-05T17:15:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "宇宙企業SpaceXの傘下企業で、AI開発やXの運営を手がける「SpaceXAI」を「SpaceXSI」に改名するとイーロン・マスク氏が表明しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "d7ff0a7201b4288e6c132d119426fa27",
-    "title": "Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘",
-    "link": "https://gigazine.net/news/20261005-debian-security-advisory/",
-    "summary": "Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。続きを読む...",
-    "published": "2026-10-05T17:10:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 3,
-    "ai_summary": "Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。続きを読む...",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "c1e9a2fc478e7e4efd5a3c4db5aa9938",
-    "title": "アメリカがSI(超知能)分野で世界をリードし続けるための「超知能部隊」設立をトランプ大統領が表明",
-    "link": "https://gigazine.net/news/20261005-formation-of-super-intelligence-force/",
-    "summary": "アメリカのドナルド・トランプ大統領が、AI(人工知能)改めSI(超知能)の分野でアメリカが世界をリードし続けるために連邦政府の取り組みを調整する「Super Intelligence Force(SIF：超知能部隊)」の設立を表明しました。続きを読む...",
-    "published": "2026-10-05T15:55:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "アメリカのドナルド・トランプ大統領が、AI(人工知能)改めSI(超知能)の分野でアメリカが世界をリードし続けるために連邦政府の取り組みを調整する「Super Intelligence Force(SIF：超知能部隊)」の設立を表明しました。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "1a5418261ddd928698f91c074d05571e",
-    "title": "無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す",
-    "link": "https://gigazine.net/news/20261005-artcraft-crafting-apps/",
-    "summary": "AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発されているのが特徴。ArtCraftはサブスクリプションやクラウドへの常時接続を必要としないクリエイティブ環境を目指しています。続きを読む...",
-    "published": "2026-10-05T15:52:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発されているのが特徴。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
