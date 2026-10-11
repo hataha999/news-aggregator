@@ -1,5 +1,35 @@
 [
   {
+    "id": "0fb53d7af95eecffc0a064c32b285a51",
+    "title": "開発費年4.6兆円のHuawei開発拠点「松山湖キャンパス」はテーマパークを超えていた＝最新Watch＆スマホにタッチ!!",
+    "link": "https://ascii.jp/elem/000/004/440/4440496/?rss",
+    "summary": "ファーウェイの超巨大開発拠点に、グローバル発表された新製品、スマホ製品、深圳のフラッグシップストアや自動運転のクルマなど、ファーウェイ・ワールドを紹介していこう。",
+    "published": "2026-10-12T00:01:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ファーウェイの超巨大開発拠点に、グローバル発表された新製品、スマホ製品、深圳のフラッグシップストアや自動運転のクルマなど、ファーウェイ・ワールドを紹介していこう。",
+    "category_key": "robotics",
+    "category_name": "ロボット",
+    "category_emoji": "🦾",
+    "category_priority": 3
+  },
+  {
+    "id": "43aa21df03205c686e55839555f10f7e",
+    "title": "63歳から厚生年金を受け取り働く会社員、65歳で年金額に起きる変化",
+    "link": "https://news.livedoor.com/article/detail/32543909/",
+    "summary": "ざっくり言うと 63歳から厚生年金を受給し働く人が、65歳以降の年金額の増減を質問した 専門家は65歳で加入記録に基づき年金額が再計算され、受給額は増えると回答 65歳以降も加入を続けると、毎年10月分から老齢厚生年金額が改定されるという 記事を読む",
+    "published": "2026-10-11T22:20:01+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 63歳から厚生年金を受給し働く人が、65歳以降の年金額の増減を質問した 専門家は65歳で加入記録に基づき年金額が再計算され、受給額は増えると回答 65歳以降も加入を続けると、毎年10月分から老齢厚生年金額が改定されるという 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "3127ad3cbe5c2d8b17c8cd9ff1c7197f",
     "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
     "link": "https://gigazine.net/news/20261011-computer-art/",
@@ -2968,35 +2998,5 @@
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
     "category_priority": 2
-  },
-  {
-    "id": "76614408d53de0b5b142c17dc01bb34e",
-    "title": "125Bの「Qwen3.8-Flash-Next」の量子化版をゲーミングPCで高速ローカル実行可能にするAI実行アプリ「Strata」",
-    "link": "https://gigazine.net/news/20261005-strata-local-ai/",
-    "summary": "最先端AIモデルがオープンモデルとして公開される例が増えていますが、最先端モデルは規模が大きすぎてローカルで実行するにはデータセンター級のAI実行インフラが必要となります。「Strata」は1250億パラメーターのQwen3.8-Flash-Nextの量子化版を比較的入手しやすいハイエンドゲーミングPCで実行可能にするアプリです。続きを読む...",
-    "published": "2026-10-05T21:08:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "最先端AIモデルがオープンモデルとして公開される例が増えていますが、最先端モデルは規模が大きすぎてローカルで実行するにはデータセンター級のAI実行インフラが必要となります。「Strata」は1250億パラメーターのQwen3.8-Flash-Nextの量子化版を比較的入手しやすいハイエンドゲーミングPCで実行可能にするアプリです。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "372acd6a995647bce69b766b03bc6d03",
-    "title": "変動金利が0.5%上昇すると総返済額が156万円増える試算",
-    "link": "https://news.livedoor.com/article/detail/32495042/",
-    "summary": "ざっくり言うと 変動金利上昇時の住宅ローン対策をFINANCIAL FIELDが解説した 残高3000万円・20年で金利が0.5％上昇すると総返済額が約156万円増加する 手元資金の余裕に応じ固定借り換えか繰り上げ返済かを選ぶことが重要だ 記事を読む",
-    "published": "2026-10-05T19:40:13+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと 変動金利上昇時の住宅ローン対策をFINANCIAL FIELDが解説した 残高3000万円・20年で金利が0.5％上昇すると総返済額が約156万円増加する 手元資金の余裕に応じ固定借り換えか繰り上げ返済かを選ぶことが重要だ 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
