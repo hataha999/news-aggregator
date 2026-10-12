@@ -1,5 +1,20 @@
 [
   {
+    "id": "d2ba191d54cc822678bb60650d8aaa87",
+    "title": "AIに「法隆寺の五重塔」を作らせてみた 修正を重ねてたどり着いた驚きの完成度",
+    "link": "https://ascii.jp/elem/000/004/441/4441802/?rss",
+    "summary": "Dotsで法隆寺の五重塔を3D化し、UE5で動かすまでを紹介。専門家の指摘や論文を基に修正を重ね、AIによる制作の可能性と、建築物の構造を理解して精度を確保する難しさ、専門家による監修の必要性を実感した。",
+    "published": "2026-10-12T07:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Dotsで法隆寺の五重塔を3D化し、UE5で動かすまでを紹介。専門家の指摘や論文を基に修正を重ね、AIによる制作の可能性と、建築物の構造を理解して精度を確保する難しさ、専門家による監修の必要性を実感した。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "0fb53d7af95eecffc0a064c32b285a51",
     "title": "開発費年4.6兆円のHuawei開発拠点「松山湖キャンパス」はテーマパークを超えていた＝最新Watch＆スマホにタッチ!!",
     "link": "https://ascii.jp/elem/000/004/440/4440496/?rss",
@@ -2979,21 +2994,6 @@
     "lang": "ja",
     "_score": 2,
     "ai_summary": "米サイバーセキュリティインフラストラクチャセキュリティ庁（CISA）は、現地時間2026年10月1日から4日にかけて、脆弱性4件を「悪用が確認された脆弱性カタログ（KEV）」へ追加した。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "f06049d795c9824d382733c21795ad11",
-    "title": "「NetScaler」のSAML構成にDoS脆弱性 - すでに悪用も",
-    "link": "https://www.security-next.com/191050",
-    "summary": "Cloud Software Groupが提供する「NetScaler ADC（旧Citrix ADC）」「NetScaler Gateway（旧Citrix Gateway）」にあらたな脆弱性が明らかとなった。悪用も確認されている。",
-    "published": "2026-10-05T22:17:37+09:00",
-    "source": "Security NEXT",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Cloud Software Groupが提供する「NetScaler ADC（旧Citrix ADC）」「NetScaler Gateway（旧Citrix Gateway）」にあらたな脆弱性が明らかとなった。悪用も確認されている。",
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
