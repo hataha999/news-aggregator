@@ -1,5 +1,20 @@
 [
   {
+    "id": "9ed9562a8dfcb42c9c9ec32db9b5b82a",
+    "title": "堀江貴文氏が指摘、退職金は「ごほうび」でなく給与の後払いという見方",
+    "link": "https://news.livedoor.com/article/detail/32593707/",
+    "summary": "ざっくり言うと 実業家の堀江貴文氏が著書で退職金の位置づけについて持論を述べている 退職金は「ごほうび」でなく、給与を後払いにしているだけだと主張した 自身はライブドア経営時に退職金制度をつくらず、そのほうが健全と考えたという 記事を読む",
+    "published": "2026-10-18T06:00:00+09:00",
+    "source": "ライブドアニュース 経済",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "ざっくり言うと 実業家の堀江貴文氏が著書で退職金の位置づけについて持論を述べている 退職金は「ごほうび」でなく、給与を後払いにしているだけだと主張した 自身はライブドア経営時に退職金制度をつくらず、そのほうが健全と考えたという 記事を読む",
+    "category_key": "money",
+    "category_name": "お金",
+    "category_emoji": "💰",
+    "category_priority": 1
+  },
+  {
     "id": "7cd8f6a2ff6aec481a73d7f52fd549a9",
     "title": "無料オープンソースオフィススイート「ibisOffice」をibisPaint開発元がリリース、ブラウザまたはWindows・Mac版アプリでWord・Excel・PowerPointファイルの閲覧と編集が可能",
     "link": "https://gigazine.net/news/20261017-ibisOffice/",
@@ -2983,20 +2998,5 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
-  },
-  {
-    "id": "cb621252d3b3a1c962fa63640cb27e6c",
-    "title": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも",
-    "link": "https://ascii.jp/elem/000/004/441/4441895/?rss",
-    "summary": "Metaは10月12日、AIエージェント向けの新モデル「Muse Wonder」と「Muse Wonder Full」を発表した。",
-    "published": "2026-10-13T11:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "Metaは10月12日、AIエージェント向けの新モデル「Muse Wonder」と「Muse Wonder Full」を発表した。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
   }
 ]
