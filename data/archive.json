@@ -360,6 +360,21 @@
     "category_priority": 2
   },
   {
+    "id": "0bd80290b49013ac6748597a91508f6c",
+    "title": "PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002486/",
+    "summary": "「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。",
+    "published": "2026-10-22T12:33:13+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "84ad62857f8a93828b1d994e7e1cd06e",
     "title": "AIが自分を監視するシステムを勝手に無効化して問い詰められると「無効化していない」と虚偽の説明",
     "link": "https://gigazine.net/news/20261022-openai-misalignment-report/",
@@ -525,6 +540,21 @@
     "category_priority": 1
   },
   {
+    "id": "63953bce2622b9dba543d1d5b03a8f6d",
+    "title": "GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ",
+    "link": "https://gigazine.net/news/20261022-google-cloud-openai-models/",
+    "summary": "OpenAIがGoogle CloudのAIモデル提供基盤「Model Garden」を通じてOpenAIの最新AIモデルを提供すると発表しました。これにより、Google Cloudの利用者はOpenAIのAIモデルを既存のクラウド環境から直接利用できるようになります。続きを読む...",
+    "published": "2026-10-22T10:11:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIがGoogle CloudのAIモデル提供基盤「Model Garden」を通じてOpenAIの最新AIモデルを提供すると発表しました。これにより、Google Cloudの利用者はOpenAIのAIモデルを既存のクラウド環境から直接利用できるようになります。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "649e5f63eaaba96a7ededa4592552386",
     "title": "LIFF SDKにおけるクロスサイトスクリプティングの脆弱性",
     "link": "https://jvn.jp/vu/JVNVU91023667/",
@@ -540,6 +570,21 @@
     "category_priority": 2
   },
   {
+    "id": "97e077759e81a791f9b77badcbe92eda",
+    "title": "Meta決算、売上高26％増も営業益37％減 AIエージェント「Muse」は1000万人超が利用開始",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002489/",
+    "summary": "Metaの7?9月期決算は、売上高が26％増の646億ドルと伸長した一方、若者のSNS利用を巡る州司法長官らとの巨額和解費用を計上したことで営業利益は37％減となった。AIエージェント「Muse」は利用者が1000万人を突破。無議決権株の創設による実質的な株式分割も発表した。",
+    "published": "2026-10-22T09:43:02+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Metaの7?9月期決算は、売上高が26％増の646億ドルと伸長した一方、若者のSNS利用を巡る州司法長官らとの巨額和解費用を計上したことで営業利益は37％減となった。AIエージェント「Muse」は利用者が1000万人を突破。無議決権株の創設による実質的な株式分割も発表した。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "2d0ea7e70e2a8dec9750d90863e5ffc5",
     "title": "米当局、「PHP脆弱性」の即修正を勧告 - 困難ならオフラインに",
     "link": "https://www.security-next.com/191766",
@@ -552,6 +597,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "0f71fc5d313bd885692d5d2cbf662ab7",
+    "title": "情報抜き取りに15秒 悪用指摘のAI",
+    "link": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
+    "summary": "",
+    "published": "2026-10-22T09:04:11+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "情報抜き取りに15秒 悪用指摘のAI",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -582,6 +642,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "33b76ea7332c29ca6be5490e3f603504",
+    "title": "Adobeそっくり「ArtCraft」の動画編集ツールを試す AIで挙動を再現した“クローンソフト”はアリなのか",
+    "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002485/",
+    "summary": "Photoshop、Premiere、Excel――定番ソフトをAIで“そっくり”に作り直す動きが出てきた。米ArtCraftの動画編集ソフト「FilmCraft」は、ソースを流用せず、仕様と挙動の解析だけでPremiereを再実装したという。試すと、未完成ながらダッキングや字幕まで備える。ソースを盗まないクローンは、ソフト業界と消費者に何をもたらすのか。",
+    "published": "2026-10-22T08:43:14+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Photoshop、Premiere、Excel――定番ソフトをAIで“そっくり”に作り直す動きが出てきた。米ArtCraftの動画編集ソフト「FilmCraft」は、ソースを流用せず、仕様と挙動の解析だけでPremiereを再実装したという。試すと、未完成ながらダッキングや字幕まで備える。ソースを盗まないクローンは、ソフト業界と消費者に何をもたらすのか。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2923,80 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "8fcca0d241658e8b5db816c8aa3ae515",
-    "title": "背景と目的を確かめる力を仕事で育てる 指示された仕事からAIとの共働を広げる実践資料を公開",
-    "link": "https://ascii.jp/elem/000/004/443/4443574/?rss",
-    "summary": "背景と目的を確かめる力を仕事で育てる 指示された仕事からAIとの共働を広げる実践資料を公開",
-    "published": "2026-10-18T10:47:32+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "背景と目的を確かめる力を仕事で育てる 指示された仕事からAIとの共働を広げる実践資料を公開",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "0754a3b096aa7635c1976c2d4a6b1a51",
-    "title": "AIと共に働く力を何に向けるのか 背景・目的・考え方を共に捉える図解資料を公開",
-    "link": "https://ascii.jp/elem/000/004/443/4443568/?rss",
-    "summary": "AIと共に働く力を何に向けるのか 背景・目的・考え方を共に捉える図解資料を公開",
-    "published": "2026-10-18T10:30:16+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "AIと共に働く力を何に向けるのか 背景・目的・考え方を共に捉える図解資料を公開",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "556b5f725fc7fc644148641c3ba1a9cb",
-    "title": "上場3,817社の有価証券報告書をAIで分析、人手不足・人材確保をリスクに挙げたのは60.6%、そのうち対策にAIの活用を書いたのは7.1%",
-    "link": "https://ascii.jp/elem/000/004/443/4443571/?rss",
-    "summary": "上場3,817社の有価証券報告書をAIで分析、人手不足・人材確保をリスクに挙げたのは60.6%、そのうち対策にAIの活用を書いたのは7.1%",
-    "published": "2026-10-18T10:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "上場3,817社の有価証券報告書をAIで分析、人手不足・人材確保をリスクに挙げたのは60.6%、そのうち対策にAIの活用を書いたのは7.1%",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "b2c0fc8b1872c82dd0bf34317e6e228d",
-    "title": "Claude・ChatGPTのサブスクでデータ分析をAIに任せる。デスクトップAIエージェント「Kari」が、CSV・Excelの分析自動化機能を追加",
-    "link": "https://ascii.jp/elem/000/004/443/4443572/?rss",
-    "summary": "Claude・ChatGPTのサブスクでデータ分析をAIに任せる。デスクトップAIエージェント「Kari」が、CSV・Excelの分析自動化機能を追加",
-    "published": "2026-10-18T09:39:04+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 3,
-    "ai_summary": "Claude・ChatGPTのサブスクでデータ分析をAIに任せる。デスクトップAIエージェント「Kari」が、CSV・Excelの分析自動化機能を追加",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "753682591ac09c1ee8e3f08716ab8741",
-    "title": "BMWが世界115台のマン島TT記念限定車を発表、日本への割当てはわずか2台",
-    "link": "https://news.livedoor.com/article/detail/32594307/",
-    "summary": "ざっくり言うと BMW Motorradが限定車M1000RRのマン島TT仕様を発表した 最高出力218hpの4気筒に伝統の緑を採用し、価格は税込900万円である 世界115台のうち日本は2台の抽選販売で、納車は11月上旬以降の予定 記事を読む",
-    "published": "2026-10-18T08:30:00+09:00",
-    "source": "ライブドアニュース 経済",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "ざっくり言うと BMW Motorradが限定車M1000RRのマン島TT仕様を発表した 最高出力218hpの4気筒に伝統の緑を採用し、価格は税込900万円である 世界115台のうち日本は2台の抽選販売で、納車は11月上旬以降の予定 記事を読む",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
