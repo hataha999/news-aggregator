@@ -1050,6 +1050,21 @@
     "category_priority": 3
   },
   {
+    "id": "4c17e751c994056fa30319573334f879",
+    "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見",
+    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+    "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
+    "published": "2026-11-06T07:57:34+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "54084ea8b711625ae13f6aae599c168c",
     "title": "年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系、保証業務システムに不正アクセス",
     "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
@@ -1063,6 +1078,21 @@
     "category_name": "ロボット",
     "category_emoji": "🦾",
     "category_priority": 3
+  },
+  {
+    "id": "6d45cd0815562bf7819711e5155bbe57",
+    "title": "OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など",
+    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+    "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
+    "published": "2026-11-06T07:03:55+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "f6485e4bdd83387dc0d8824ea7cfec25",
@@ -2100,6 +2130,21 @@
     "category_priority": 3
   },
   {
+    "id": "1abc7556aadb0610bef6a49972469692",
+    "title": "GitHub、「Copilot Fusion」正式リリース タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+    "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+    "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+    "published": "2026-11-04T13:13:20+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "15887dace799d1a3c931ddf0ce8f9544",
     "title": "仮想通貨取引所Binanceから約1兆円が盗まれた事件は偽面接経由でマルウェアを送り込まれたのがきっかけだったことが判明",
     "link": "https://gigazine.net/news/20261104-binance-6-3-billion-heist-hacker-yuse-fake-job-interviews/",
@@ -2953,50 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "b6e8ea86bda2c21799dc376bd459174c",
-    "title": "VAIO SX14が10万9800円！ バッテリー交換済み＆1年保証付き「Reborn VAIO」が期間限定セール",
-    "link": "https://ascii.jp/elem/000/004/447/4447342/?rss",
-    "summary": "VAIOストアでは現在、メーカー保証付きリファービッシュPC「Reborn VAIO SX14」を期間限定で販売中。通常価格124,800円から15,000円引きの109,800円で購入できる。バッテリーや一部外装部品を交換し、メーカーによる動作確認やクリーニングも実施。1年間のメーカー保証が付属する。キャンペーン期間は11月10日(火)9時59分まで。",
-    "published": "2026-11-02T17:50:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "VAIOストアでは現在、メーカー保証付きリファービッシュPC「Reborn VAIO SX14」を期間限定で販売中。通常価格124,800円から15,000円引きの109,800円で購入できる。バッテリーや一部外装部品を交換し、メーカーによる動作確認やクリーニングも実施。1年間のメーカー保証が付属する。キャンペーン期間は11月10日(火)9時59分まで。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "b5c416340b5f2a74451c592bd80a8d4c",
-    "title": "韓国語音源の歌声データベース『Synthesizer V 2 AI Selvi』『Synthesizer V 2 AI Kaion』発売",
-    "link": "https://ascii.jp/elem/000/004/447/4447951/?rss",
-    "summary": "韓国語音源の歌声データベース『Synthesizer V 2 AI Selvi』『Synthesizer V 2 AI Kaion』発売",
-    "published": "2026-11-02T17:07:01+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "韓国語音源の歌声データベース『Synthesizer V 2 AI Selvi』『Synthesizer V 2 AI Kaion』発売",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "044f07f3f492009e4da8a27364af6805",
-    "title": "一人で頑張り続けようとするな、不動産投資で成果を出す学びの環境",
-    "link": "https://zuuonline.com/archives/303464",
-    "summary": "本記事は、水澤 健一氏の著書『インフレ時代の不動産投資 最短で成功するロードマップ』（あさ出版）の中から一部を抜粋・編集しています。 (画像=Arch&amp;Human_Studio3_stock.adobe.com)学び続け、行動し続けた人だけが成果を手にできるここまで、物件の探し方から融資、購入、運営まで、不動産賃貸経営の基本をお伝えしてきました。しかし、これらの知識を身につけるだけでは、結果にはつながりません。実際に成否を分けるのは、「学び続け、行動し続けられるかどうか」です。春や秋になると、「何か新しいことを始めよう」と考える人は少なくありません。本を購入したり、セミナーや勉強会に参加したりして、一時的に大きなやる気を得る人も多いでしょう。ところが、その熱意は時間とともに薄れていきます。1カ月後には行動が止まる3カ月後には情報収集もしなくなる半年後には興味そのものを失ってしまうこのようなケースは決して珍しくありません。私自身も、英会話教室に通い始めても途中で足が遠のいたり、スポーツジムに入会しても半年後にはほとんど通わなくなったりと、何度も同じ失敗を経験してきました。振り返ると、その原因は「目的や目標が曖昧なまま始めてしまったこと」にありました。大家さん学びの会では、これまで22年以上にわたり、1万人を超える大家さんや大家さん予備軍の方々と接してきました。その中で成果を上げ続けている方には、一つの共通点があります。目的と目標が明確で、それに向かって行動を続けていること。才能や学歴、資金力以上に、この違いが大きいと感じています。不動産賃貸経営は、数カ月で成果が出る事業ではありません。５年、10年、20年と時間を味方につけ、資産を育てていく事業です。だからこそ必要なのは、一時的なやる気ではなく、継続できる仕組みです。やる気は誰でも波があります。しかし、行動が習慣になれ",
-    "published": "2026-11-02T17:00:00+09:00",
-    "source": "ZUU online",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "本記事は、水澤 健一氏の著書『インフレ時代の不動産投資 最短で成功するロードマップ』（あさ出版）の中から一部を抜粋・編集しています。 (画像=Arch Human_Studio3_stock.adobe.com)学び続け、行動し続けた人だけが成果を手にできるここまで、物件の探し方から融資、購入、運営まで、不動産賃貸経営の基本をお伝えしてきました。",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
   }
 ]
