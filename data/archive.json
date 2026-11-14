@@ -1,5 +1,20 @@
 [
   {
+    "id": "31774f946fc9a6a81f3b5ae6822d563f",
+    "title": "AI悪用攻撃拠点か 世界で千台発見",
+    "link": "https://news.yahoo.co.jp/pickup/6602602?source=rss",
+    "summary": "",
+    "published": "2026-11-14T22:45:44+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AI悪用攻撃拠点か 世界で千台発見",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "d2b32d068d82e2638506624d98e0be93",
     "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
     "link": "https://ascii.jp/elem/000/004/451/4451456/?rss",
@@ -495,6 +510,21 @@
     "category_priority": 2
   },
   {
+    "id": "a361e45d22590007eefcb8d850a7a327",
+    "title": "Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響",
+    "link": "https://gigazine.net/news/20261113-microsoft-365-down/",
+    "summary": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めていますが、一度復旧したサーバーが再び応答しなくなる問題も確認されており、記事作成時点では全面復旧の見通しは立っていません。続きを読む...",
+    "published": "2026-11-13T12:50:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "586a40ac71496c2285fb37d9ff6ec26e",
     "title": "虎柄ロボットに「阪神君」と命名 首相、フィジカルAIを体験 関連企業と意見交換",
     "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
@@ -733,6 +763,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "8805d64e0639be5ae79be8bbf65262b3",
+    "title": "Google、Gemini搭載のメガネを米韓で予約開始 395ドルからで12月10日発売へ",
+    "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
+    "summary": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。",
+    "published": "2026-11-13T09:30:33+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "4324a8c7c291b4bacdce45f49ab59911",
@@ -1125,6 +1170,21 @@
     "category_priority": 2
   },
   {
+    "id": "8884d1f24859a7918db9f716c504e0ee",
+    "title": "Google DeepMind、「AlphaGenome 2」発表 細胞の種類ごとにDNA変異の影響を予測するAI",
+    "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+    "summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。",
+    "published": "2026-11-12T11:29:43+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "378c833c8c4c9a9516f10d063854a3a4",
     "title": "「MongoDB Server」にRCE脆弱性 - 修正版を公開",
     "link": "https://www.security-next.com/192699",
@@ -1137,6 +1197,21 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
+    "category_priority": 2
+  },
+  {
+    "id": "41e8fd7d3546045b25c9da1f0e09d46b",
+    "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+    "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+    "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+    "published": "2026-11-12T10:49:56+09:00",
+    "source": "ITmedia NEWS",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
     "category_priority": 2
   },
   {
@@ -2922,81 +2997,6 @@
     "category_key": "security",
     "category_name": "セキュリティ",
     "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "f369f106f2d5118e8132309586c43ef3",
-    "title": "ウクライナが地下ガスパイプライン内に潜むロシア軍を追跡する戦闘ロボットを開発",
-    "link": "https://gigazine.net/news/20261109-ukraine-underground-combat-robot/",
-    "summary": "地下のトンネルを進行するウクライナ軍の作戦が成功したことを受け、ウクライナ軍が新たに同様のトンネルで活躍できる無人車両の開発を進めていると報じられました。続きを読む...",
-    "published": "2026-11-09T10:55:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "地下のトンネルを進行するウクライナ軍の作戦が成功したことを受け、ウクライナ軍が新たに同様のトンネルで活躍できる無人車両の開発を進めていると報じられました。続きを読む...",
-    "category_key": "robotics",
-    "category_name": "ロボット",
-    "category_emoji": "🦾",
-    "category_priority": 3
-  },
-  {
-    "id": "401fe99ce281041d2b570ec9fa0b2452",
-    "title": "FX/為替「ドル/円今日の見通し｜強い米雇用統計でもレンジブレイクならず」 外為どっとコム トゥデイ 2026年11月9日号",
-    "link": "https://zuuonline.com/archives/303669",
-    "summary": "(画像=外為どっとコム マネ育チャンネル)主要通貨ペア（ドル/円、ユーロ/円、豪ドル/円、ポンド/円）について前営業日の値動きをわかりやすく解説し、今後の見通しをお届けします。作成日時 ：2026年11月9日8時15分執筆・監修：株式会社外為どっとコム総合研究所 為替アナリスト 中村勉目次▼6日（金）の為替相場 （１）：日本実質賃金 9カ月連続でプラス （２）：独鉱工業生産 予想に反して増加（３）：米雇用統計 非農業部門雇用者数が予想を上回る（４）：日銀総裁「上振れリスクも存在する」▼6日（金）の株・債券・商品市場▼外為注文情報/ ▼本日の予想レンジ/ ▼ドル/円の見通し：158円台を中心にもみ合う展開/ ▼注目の経済指標・イベント6日（金）の為替相場 (画像=外為どっとコム マネ育チャンネル)期間：6日（金）午前7時10分～7日（土）午前6時55分 ※チャートは30分足（日本時間表示） 出所：外為どっとコム（１）：日本実質賃金 9カ月連続でプラス日本9月毎月勤労統計で現金給与総額は前年比+4.6％と市場予想（+3.8％）を上回り29年8か月ぶりの高い伸びとなった。この結果、物価変動の影響を除いた実質賃金は前年比+2.2％となり、9カ月連続でプラスを記録した。（２）：独鉱工業生産 予想に反して増加独9月鉱工業生産は前月比+0.7％と市場予想（-0.1％）に反して増加。ただ、8月分は+2.0％から+1.0％に下方修正された。その後に発表されたユーロ圏9月小売売上高は前月比-0.7％と市場予想（-0.1％）を下回って減少した。（３）：米雇用統計 非農業部門雇用者数が予想を上回る米10月雇用統計で非農業部門雇用者数は前月比16.5万人増と市場予想（7.0万人増）を上回った。失業率は労働参加率が上昇したにもかかわらず4.1％に低下した（予想、前月ともに4.2％）。平均時給は前年比+",
-    "published": "2026-11-09T10:32:00+09:00",
-    "source": "ZUU online",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "(画像=外為どっとコム マネ育チャンネル)主要通貨ペア（ドル/円、ユーロ/円、豪ドル/円、ポンド/円）について前営業日の値動きをわかりやすく解説し、今後の見通しをお届けします。",
-    "category_key": "money",
-    "category_name": "お金",
-    "category_emoji": "💰",
-    "category_priority": 1
-  },
-  {
-    "id": "88f2cedeaa300beb08edecbd8be0b9ee",
-    "title": "感染したシステムをリモート制御可能なプロキシノードに変えるマルウェア「ClingSTUN」",
-    "link": "https://ascii.jp/elem/000/004/449/4449120/?rss",
-    "summary": "FortiGuard Labsでは、「ClingSTUN」と名付けたLinuxマルウェアの亜種を追跡しています。本マルウェアは、インターネットに接続されたデバイスに存在する既知の修正されていない脆弱性を悪用して、永続的な足場を築きます。",
-    "published": "2026-11-09T09:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "FortiGuard Labsでは、「ClingSTUN」と名付けたLinuxマルウェアの亜種を追跡しています。本マルウェアは、インターネットに接続されたデバイスに存在する既知の修正されていない脆弱性を悪用して、永続的な足場を築きます。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "753e493f70b626b22234157c60cd7f0c",
-    "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
-    "link": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
-    "summary": "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が驚くほど簡単にできるということで、実際に試してみました。続きを読む...",
-    "published": "2026-11-09T09:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が驚くほど簡単にできるということで、実際に。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "fc29c6245c75345575cc5a4075a623e8",
-    "title": "GIGABYTE「WRX90 AI TOP」発売 最大2TBメモリ・PCIe 5.0×7基のAI開発向けマザーボード",
-    "link": "https://ascii.jp/elem/000/004/449/4449579/?rss",
-    "summary": "GIGABYTEがワークステーション向けE-ATXマザーボード「WRX90 AI TOP」を11月6日に発売した。AMD WRX90チップセット、最大2TB DDR5対応、PCIe 5.0拡張、USB4、10GbE LAN、IPMI対応BMCなどを備え、AI開発や高負荷業務を支える高機能モデルだ。",
-    "published": "2026-11-09T09:00:00+09:00",
-    "source": "ASCII.jp",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "GIGABYTEがワークステーション向けE-ATXマザーボード「WRX90 AI TOP」を11月6日に発売した。AMD WRX90チップセット、最大2TB DDR5対応、PCIe 5.0拡張、USB4、10GbE LAN、IPMI対応BMCなどを備え、AI開発や高負荷業務を支える高機能モデルだ。",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
     "category_priority": 2
   }
 ]
