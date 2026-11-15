@@ -1,5 +1,20 @@
 [
   {
+    "id": "feedfdc1567e5edf7aa47c64c16020ef",
+    "title": "最大7万円オフは見逃せない！ 大画面16型ノート「VAIO F16」が今ならお買い得",
+    "link": "https://ascii.jp/elem/000/004/451/4451634/?rss",
+    "summary": "16.0型の大画面とインテル Coreプロセッサーを搭載した「VAIO F16」。充実したインターフェースや使いやすいキーボードも魅力。現在は最大7万円オフのキャンペーンを実施中。16万4700円から購入できる。",
+    "published": "2026-11-15T20:00:00+09:00",
+    "source": "ASCII.jp",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "16.0型の大画面とインテル Coreプロセッサーを搭載した「VAIO F16」。充実したインターフェースや使いやすいキーボードも魅力。現在は最大7万円オフのキャンペーンを実施中。16万4700円から購入できる。",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "872a4f152d58f11ab923b8fef031de2a",
     "title": "AIノイズキャンセリング＆32bit float録音対応でE-Inkディスプレイ搭載のワイヤレスマイク「Insta360 Mic Pro」はどれほど高性能なのか実際に使ってみたよレビュー",
     "link": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/",
@@ -90,6 +105,21 @@
     "category_priority": 2
   },
   {
+    "id": "98169657797e1dfb3d2672e8c2d74fd9",
+    "title": "AIエージェント普及 問われる対応",
+    "link": "https://news.yahoo.co.jp/pickup/6602642?source=rss",
+    "summary": "",
+    "published": "2026-11-15T10:44:27+09:00",
+    "source": "Yahoo!ニュース テクノロジー",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIエージェント普及 問われる対応",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
+  },
+  {
     "id": "bc947d772b9b68614b43cf55fd9e21bb",
     "title": "月収2万円と年金5万円 70代の現実",
     "link": "https://news.yahoo.co.jp/pickup/6602636?source=rss",
@@ -103,6 +133,21 @@
     "category_name": "お金",
     "category_emoji": "💰",
     "category_priority": 1
+  },
+  {
+    "id": "07a592d70c304f73e6663b72bc2c5aec",
+    "title": "AIは答えを出せても「聞くべきこと」を見落とすことが税務の仕事を再現したテストで判明",
+    "link": "https://gigazine.net/news/20261115-dayjob-tax/",
+    "summary": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。続きを読む...",
+    "published": "2026-11-15T10:00:00+09:00",
+    "source": "Gigazine",
+    "lang": "ja",
+    "_score": 1,
+    "ai_summary": "AIの性能評価を手がけるSurge AIは2026年10月27日、アメリカの税務相談や申告書の作成を題材にしたベンチマーク「DAYJOB: Tax」の結果を公開しました。続きを読む...",
+    "category_key": "ai",
+    "category_name": "AI",
+    "category_emoji": "🤖",
+    "category_priority": 2
   },
   {
     "id": "c48a2b41ca9f4221e49e2db22e12f17f",
@@ -2953,50 +2998,5 @@
     "category_name": "AI",
     "category_emoji": "🤖",
     "category_priority": 2
-  },
-  {
-    "id": "31f5f0656f69e38a39637ac6ba7a7a57",
-    "title": "SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性",
-    "link": "https://jvn.jp/jp/JVN76179675/",
-    "summary": "株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。",
-    "published": "2026-11-09T15:00:00+09:00",
-    "source": "JVN（脆弱性情報）",
-    "lang": "ja",
-    "_score": 1,
-    "ai_summary": "株式会社ディー・オー・エスが提供するSS1／SS1クラウドおよび、株式会社ロココが提供するrocoeyesには複数の脆弱性が存在します。",
-    "category_key": "security",
-    "category_name": "セキュリティ",
-    "category_emoji": "🔒",
-    "category_priority": 2
-  },
-  {
-    "id": "8f68934a64f489ae4ad22e6200e977b3",
-    "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
-    "link": "https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/",
-    "summary": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。続きを読む...",
-    "published": "2026-11-09T15:00:00+09:00",
-    "source": "Gigazine",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。続きを読む...",
-    "category_key": "ai",
-    "category_name": "AI",
-    "category_emoji": "🤖",
-    "category_priority": 2
-  },
-  {
-    "id": "6a3b149d687969beb92585ecb3f5471c",
-    "title": "総務省、「偽基地局」開設疑いで中国籍の人物を告発",
-    "link": "https://k-tai.watch.impress.co.jp/docs/news/2154809.html",
-    "summary": "総務省関東総合通信局は7日、警視庁と共同で不法無線局の取り締まりを実施し、電波法第4条および108条の2に違反した疑いで、東京都北区在住の中国籍の人物（31）を告発した。",
-    "published": "2026-11-09T14:46:40+09:00",
-    "source": "ケータイWatch",
-    "lang": "ja",
-    "_score": 2,
-    "ai_summary": "総務省関東総合通信局は7日、警視庁と共同で不法無線局の取り締まりを実施し、電波法第4条および108条の2に違反した疑いで、東京都北区在住の中国籍の人物（31）を告発した。",
-    "category_key": "radio",
-    "category_name": "無線",
-    "category_emoji": "📡",
-    "category_priority": 3
   }
 ]
